@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="CommandGuide.img">
+    <imgdir name="?? 이벤트">
+        <string name="시작" value="Start an event in the Event field."/>
+        <string name="tmset 시간(초)" value="Display a selected runtime to users in the current field."/>
+        <string name="tmon" value="Activate a selected timer."/>
+    </imgdir>
+    <imgdir name="?? 필드">
+        <string name="ulist" value="Display the list of users in the current field."/>
+        <string name="메이플" value="Use a teleport portal to move to a selected location."/>
+        <string name="스토리" value="Use a teleport portal to move to a selected location."/>
+        <string name="map 필드ID" value="Move to a selected field."/>
+        <string name="맵 필드ID" value="Move to a selected field."/>
+        <string name="chase 상대 캐릭터명" value="Move to a selected target."/>
+        <string name="vlr 리액터ID 범위" value="Display the status of Limited Random Reactors in all fields."/>
+        <string name="getmobstat" value="Display the stat information of monsters in the current field in the WvsGame log window."/>
+        <string name="mapinfo" value="Display the field information."/>
+        <string name="evolreload" value="Reload the Evolving System information."/>
+    </imgdir>
+    <imgdir name="?? UI">
+        <string name="antimacro 필드ID 채널" value="Activate Bomb Lie Detector on fields in the current channel."/>
+        <string name="mmon 캐릭터명" value="Maximize the mini-map of the current field."/>
+        <string name="mmoff 캐릭터명" value="Minimize the mini-map of the current field."/>
+        <string name="uiopen 번호" value="Open a UI corresponding to a selected number."/>
+        <string name="uiclose 번호" value="Close a UI corresponding to a selected number."/>
+        <string name="masterybook" value="Open the Mastery Book checker UI."/>
+    </imgdir>
+    <imgdir name="?? 캐릭터">
+        <string name="고용찾기 캐릭터명" value="Hire a selected character."/>
+        <string name="chase 상대 캐릭터명" value="Move to a selected target."/>
+        <string name="ban 캐릭터명" value="Disconnect a selected character."/>
+        <string name="hide 수" value="Change to Transparent if not 0, and to Opaque if 0."/>
+        <string name="exp 수" value="Increase/decrease EXP by a selected amount."/>
+        <string name="honorexp 수" value="Increase/decrease Honor EXP by a selected amount."/>
+        <string name="honorinfo" value="Display a character&apos;s Honor Level and EXP."/>
+        <string name="charismaexp 수" value="Increase/decrease Ambition by a selected amount."/>
+        <string name="insightexp 수" value="Increase/decrease Insight by a selected amount."/>
+        <string name="willexp 수" value="Increase/decrease Willpower by a selected amount."/>
+        <string name="craftexp 수" value="Increase/decrease Diligence by a selected amount."/>
+        <string name="senseexp 수" value="Increase/decrease Empathy by a selected amount."/>
+        <string name="charmexp 수" value="Increase/decrease Charm by a selected amount."/>
+        <string name="levelset 레벨" value="Set to a selected Level."/>
+        <string name="apget 숫자" value="Set AP to a selected amount of points."/>
+        <string name="spget 숫자" value="Set SP points to a selected amount of points."/>
+        <string name="str 숫자" value="Set default STR to a selected amount of points."/>
+        <string name="dex 숫자" value="Set default DEX to a selected amount of points."/>
+        <string name="int 숫자" value="Set default INT to a selected amount of points."/>
+        <string name="luk 숫자" value="Set default LUK to a selected amount of points."/>
+        <string name="skill 스킬ID 스킬레벨" value="Set a selected skill&apos;s level to a selected number."/>
+        <string name="skillsteal 스킬ID 스킬레벨" value="Steal skills that are suitable for your Level."/>
+        <string name="stealskillreset" value="Remove all Stolen skills."/>
+        <string name="stealview" value="Display the list of Stolen skills."/>
+        <string name="revive" value="Resurrect the current character with 100% HP."/>
+        <string name="job 직업코드" value="Change job."/>
+        <string name="cpsrandset 아이템ID" value="Use a selected item to reconfigure Inner Ability."/>
+        <string name="cpsset 슬롯 스킬ID 스킬레벨" value="Configure Inner Ability."/>
+        <string name="cpsview" value="Display Inner Ability information."/>
+        <string name="cpsresetbypos 슬롯" value="Remove Inner Ability in a selected slot."/>
+        <string name="cpsresetbyskill 스킬ID" value="Remove a selected skill&apos;s Inner Ability."/>
+        <string name="cpsresetall" value="Remove all Inner Abilities."/>
+        <string name="getrelaxexprate" value="Display Rest EXP rate."/>
+        <string name="getlastlogout" value="Display the last logout time."/>
+        <string name="getsubstractlogoutdate" value="Display time difference of the last connection."/>
+        <string name="shutdown 캐릭터명 (01)" value="Shut down a selected character."/>
+        <string name="showcharcard" value="Display the list of character Cards."/>
+        <string name="setcharcard 옵션수 옵션" value="Configure character Card job and skills."/>
+        <string name="resetskillsp" value="Reset all skills to points."/>
+        <string name="selfinjury 수치" value="Reduce your HP by a selected amount."/>
+        <string name="dmg(01)" value="Open the Character Stat dialog."/>
+        <string name="petRepleteness 펫idx 수" value="Configure a selected pet&apos;s Fullness."/>
+        <string name="logmobmove 캐릭터명" value="Dump a selected monster character&apos;s keyframe by a selected count."/>
+        <string name="logusermove 캐릭터명" value="Dump a selected user character&apos;s keyframe by a selected count."/>
+        <string name="masterallskill" value="Learn all the skills that you can learn at your current Level."/>
+        <string name="charinfo" value="Display the character information."/>
+    </imgdir>
+    <imgdir name="?? 시스템">
+        <string name="getservertime" value="Display the server clock."/>
+        <string name="setservertime YYYYMMDD hhmmss" value="Configure the server clock."/>
+        <string name="resetservertime" value="Reset the server clock."/>
+        <string name="nocooltime" value="Delete the cooldown time of skills, Consumable items, Cash items, Holy Magic Shell reappearance, and Battle Mode reentry penalty."/>
+        <string name="scriptrun 스크립트명" value="Run a selected script."/>
+        <string name="loadlua" value="If this is a script field, then rerun the Lua script."/>
+        <string name="runlua" value="If this is a script field, then run the Lua script."/>
+        <string name="flush" value="Apply Image modifications."/>
+        <string name="flushall" value="Flush data."/>
+        <string name="flushequip 파일명" value="Apply modifications made in Equipment data file images."/>
+        <string name="flushskill 파일명" value="Apply modifications made in the Skill data file images."/>
+        <string name="flushaction 파일명" value="Apply modifications made in the Action data file images."/>
+        <string name="loadscript 파일명" value="Load a selected script file."/>
+    </imgdir>
+    <imgdir name="?? 몬스터">
+        <string name="kill 몬스터ID 수" value="Set a selected monster&apos;s quantity to a selected number to complete a quest."/>
+        <string name="setclearlog 몬스터명 (01) (01) (01)" value="Log the information of users that defeated a selected special monster, their rewards, and their healing history."/>
+        <string name="resetclearlog 몬스터명" value="Remove the log file of a selected special monster."/>
+        <string name="summon 몬스터명 마리수" value="Summon a selected monster."/>
+        <string name="소환 몬스터명 마리수" value="Summon a selected monster."/>
+        <string name="summonstat 몬스터ID HP EXP PAD MAD PDR MDR 레벨" value="Configure monster stats before summoning it."/>
+        <string name="summoncmob 몬스터ID 카테고리 레벨 유저수 몬카스코어" value="Summon a Variable monster."/>
+        <string name="mobhp HP량" value="Set all monsters&apos; HP to a selected amount."/>
+        <string name="mobhpview" value="Display the current HP of all monsters."/>
+        <string name="evolmob 진화타입" value="Evolve monsters in the current field."/>
+        <string name="setDam 수" value="Inflict damage on a monster that is equal to a selected number."/>
+        <string name="getmobstat" value="Display the stat information of monsters in the current field in the WvsGame log window."/>
+        <string name="setsessionval KEY 값" value="Set the value of Monster Genocide key."/>
+    </imgdir>
+    <imgdir name="?? 스킬">
+        <string name="setmake 스킬ID 레벨 숙련도" value="Set a selected skill&apos;s level and mastery."/>
+        <string name="viewmake 스킬ID" value="Display a selected skill&apos;s level and mastery."/>
+        <string name="setfatigue 피로도" value="Set Fatigue for Profession skills."/>
+        <string name="viewfatigue" value="Display the Fatigue of Profession skills."/>
+        <string name="nocooltime" value="Delete the cooldown time of skills, Consumable items, Cash items, Holy Magic Shell reappearance, and Battle Mode reentry penalty."/>
+        <string name="psdview" value="Display passive skills."/>
+        <string name="psdset  스킬효과명 숫자" value="Configure a selected passive skill&apos;s effects."/>
+        <string name="psdupdate" value="Update passive skills."/>
+        <string name="getcooltime 스킬ID" value="Display a selected skill&apos;s cooldown time."/>
+        <string name="resetskillsp" value="Reset all skills to points."/>
+        <string name="setGaugeMax" value="(Kaiser only) Fill up the Kaiser gauge."/>
+        <string name="resethyperskill" value="Reset all Hyper skills to points."/>
+        <string name="masterallskill" value="Learn all the skills that you can learn at your current Level."/>
+        <string name="flushskill 파일명" value="Apply modifications made in the Skill data file images."/>
+    </imgdir>
+    <imgdir name="?? 아이템">
+        <string name="create 아이템ID" value="Create a selected item."/>
+        <string name="생성 아이템ID" value="Create a selected item."/>
+        <string name="createex 아이템ID 등급 옵션수 옵션1 옵션2 옵션3" value="Create a Potential item."/>
+        <string name="destroy 아이템슬롯탭번호" value="Delete non-Cash items in a selected tab."/>
+        <string name="nocooltime" value="Delete the cooldown time of skills, Consumable items, Cash items, Holy Magic Shell reappearance, and Battle Mode reentry penalty."/>
+        <string name="setitempot 라이프ID" value="Create an Item Pot life."/>
+        <string name="viewitempot 슬롯번호" value="Display a selected slot&apos;s Item Pot information."/>
+        <string name="removeitempot 슬롯번호" value="Delete a selected slot&apos;s Item Pot information."/>
+        <string name="incitempotsatiety 증가값 슬롯번호" value="Increase a selected slot&apos;s Item Pot Fullness."/>
+        <string name="cureitempot 슬롯번호" value="Cure a selected slot&apos;s Item Pot."/>
+        <string name="avatarpacktest" value="Display the list of equipped Equipment items."/>
+        <string name="masterybook" value="Open the Mastery Book checker UI."/>
+        <string name="mixer 타입 아템ID 아템ID 등급" value="Combine two items to create an item at an appropriate grade."/>
+        <string name="mixerreload" value="Reinitialize the status of a compounded item."/>
+        <string name="flushequip 파일명" value="Apply modifications made in Equipment data file images."/>
+    </imgdir>
+    <imgdir name="?? NPC">
+        <string name="varset NPC명 변수명 값" value="Set a selected NPC&apos;s variables."/>
+        <string name="varget NPC명 변수명" value="Load a selected NPC&apos;s variables."/>
+    </imgdir>
+    <imgdir name="?? 퀘스트">
+        <string name="kill 몬스터ID 수" value="Set a selected monster&apos;s quantity to a selected number to complete a quest."/>
+        <string name="questreset 퀘스트ID" value="Delete completed quests."/>
+        <string name="quest 퀘스트ID 상태" value="Configure a selected quest&apos;s progress."/>
+        <string name="loadquest" value="Read the Quest settings files."/>
+        <string name="getqr 퀘스트ID" value="Check a selected quest&apos;s record information."/>
+        <string name="setqr 퀘스트ID 값" value="Configure a selected quest&apos;s record information."/>
+        <string name="getqrex 퀘스트ID" value="Check a selected quest&apos;s record EX information."/>
+        <string name="setqrex 퀘스트ID 값" value="Configure Check a selected quest&apos;s record EX information."/>
+        <string name="resetqrex 퀘스트ID" value="Reset Check a selected quest&apos;s record EX."/>
+    </imgdir>
+    <imgdir name="?? 아르바이트">
+        <string name="albareset" value="Reset the Part-time Job data."/>
+        <string name="albastat" value="Display Part-time Job status."/>
+    </imgdir>
+    <imgdir name="??">
+        <string name="?? 이벤트" value="Display event-related GM commands."/>
+        <string name="?? 필드" value="Display field-related GM commands."/>
+        <string name="?? UI" value="Display UI-related GM commands."/>
+        <string name="?? 캐릭터" value="Display character-related GM commands."/>
+        <string name="?? 시스템" value="Display system-related GM commands."/>
+        <string name="?? 몬스터" value="Display monster-related GM commands."/>
+        <string name="?? 스킬" value="Display skill-related GM commands."/>
+        <string name="?? 아이템" value="Display item-related GM commands."/>
+        <string name="?? NPC" value="Display NPC-related GM commands."/>
+        <string name="?? 퀘스트" value="Display quest-related GM commands."/>
+        <string name="?? 아르바이트" value="Display Part-time Job-related GM commands."/>
+        <string name="summon [MobID] [Count]" value="Summons mob."/>
+        <string name="mobhp [HP]" value="Sets the HP of all the monsters on the map."/>
+        <string name="nocooltime" value="Resets the Cooldown of all skills."/>
+        <string name="map [MapID]" value="Map Transport"/>
+        <string name="create [ItemID]" value="Creates an item."/>
+    </imgdir>
+</imgdir>

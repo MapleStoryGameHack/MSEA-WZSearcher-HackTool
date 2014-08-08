@@ -1,0 +1,10 @@
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\MapleMapTeleportId.Form1.resources
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\MapleMapTeleportId.Properties.Resources.resources
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\bin\Debug\MapleMapTeleportId.exe
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\bin\Debug\MapleMapTeleportId.pdb
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\MapleMapTeleportId.exe
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\obj\x86\Debug\MapleMapTeleportId.pdb
+C:\Users\ZhengHao\Desktop\Project\Maple\MapleMapTeleportId\bin\Debug\MapleMapTeleportId.exe.config

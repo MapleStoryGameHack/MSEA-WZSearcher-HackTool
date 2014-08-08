@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MonString.img">
+    <imgdir name="000">
+        <string name="name" value="Special"/>
+    </imgdir>
+    <imgdir name="001">
+        <string name="name" value="Mushroom"/>
+    </imgdir>
+    <imgdir name="002">
+        <string name="name" value="Pig"/>
+    </imgdir>
+    <imgdir name="003">
+        <string name="name" value="Yeti and Pepe"/>
+    </imgdir>
+    <imgdir name="004">
+        <string name="name" value="Artificial Creature"/>
+    </imgdir>
+    <imgdir name="005">
+        <string name="name" value="Slime and Snail"/>
+    </imgdir>
+    <imgdir name="006">
+        <string name="name" value="Plant"/>
+    </imgdir>
+    <imgdir name="007">
+        <string name="name" value="Golem"/>
+    </imgdir>
+    <imgdir name="008">
+        <string name="name" value="Dragon"/>
+    </imgdir>
+    <imgdir name="009">
+        <string name="name" value="Cat"/>
+    </imgdir>
+    <imgdir name="010">
+        <string name="name" value="Dog"/>
+    </imgdir>
+    <imgdir name="011">
+        <string name="name" value="Bird"/>
+    </imgdir>
+    <imgdir name="012">
+        <string name="name" value="Cow"/>
+    </imgdir>
+    <imgdir name="013">
+        <string name="name" value="Reptile"/>
+    </imgdir>
+    <imgdir name="014">
+        <string name="name" value="Monkey and Bear"/>
+    </imgdir>
+    <imgdir name="015">
+        <string name="name" value="Fairy"/>
+    </imgdir>
+    <imgdir name="016">
+        <string name="name" value="Demon"/>
+    </imgdir>
+    <imgdir name="017">
+        <string name="name" value="Soldier"/>
+    </imgdir>
+    <imgdir name="018">
+        <string name="name" value="Toy"/>
+    </imgdir>
+    <imgdir name="019">
+        <string name="name" value="Demihuman"/>
+    </imgdir>
+    <imgdir name="020">
+        <string name="name" value="Undead"/>
+    </imgdir>
+    <imgdir name="021">
+        <string name="name" value="Ghost"/>
+    </imgdir>
+    <imgdir name="022">
+        <string name="name" value="Spirit"/>
+    </imgdir>
+    <imgdir name="Release">
+        <imgdir name="prologue">
+            <string name="0" value="Leaving the farm for the outside world"/>
+        </imgdir>
+        <imgdir name="Text">
+            <string name="0" value="is"/>
+            <string name="1" value="at"/>
+            <string name="2" value="."/>
+            <string name="3" value="to"/>
+            <string name="4" value="shape."/>
+        </imgdir>
+        <imgdir name="Place">
+            <string name="0" value="Lion King&apos;s Castle"/>
+            <string name="1" value="Knights Chamber"/>
+            <string name="2" value="Pantheon"/>
+            <string name="3" value="Henesys"/>
+            <string name="4" value="Mushroom Hill"/>
+            <string name="5" value="Coco Island"/>
+            <string name="6" value="Golem&apos;s Temple"/>
+            <string name="7" value="Chief Stan&apos;s House"/>
+            <string name="8" value="Ellinia"/>
+            <string name="9" value="Lupin&apos;s Forest"/>
+            <string name="10" value="Elluel"/>
+            <string name="11" value="Perion"/>
+            <string name="12" value="Kerning City"/>
+            <string name="13" value="Swamp"/>
+            <string name="14" value="Kerning Square"/>
+            <string name="15" value="Secret Flower Garden"/>
+            <string name="16" value="Lease Port"/>
+            <string name="17" value="Sleepywood"/>
+            <string name="18" value="Cursed Temple"/>
+            <string name="19" value="Root Abyss"/>
+            <string name="20" value="Nautilus"/>
+            <string name="21" value="Florina Beach"/>
+            <string name="22" value="Gold Beach"/>
+            <string name="23" value="Forest of Training"/>
+            <string name="24" value="Crystal Garden"/>
+            <string name="25" value="Orbis"/>
+            <string name="26" value="Old Woman&apos;s House"/>
+            <string name="27" value="Orbis Tower"/>
+            <string name="28" value="Cloud Park"/>
+            <string name="29" value="Chryse "/>
+            <string name="30" value="Official Chief Residence"/>
+            <string name="31" value="Zakum&apos;s Altar"/>
+            <string name="32" value="Carta&apos;s Cave"/>
+            <string name="33" value="Cherry Blossom Castle"/>
+            <string name="34" value="Christmas Hill"/>
+            <string name="35" value="Closed Mine"/>
+            <string name="36" value="Helios Tower"/>
+            <string name="37" value="Omega Sector"/>
+            <string name="38" value="Toy Factory"/>
+            <string name="39" value="Haunted House in the Forest"/>
+            <string name="40" value="Goblin House"/>
+            <string name="41" value="Fantastic Theme Park"/>
+            <string name="42" value="Hunted Mansion"/>
+            <string name="43" value="Grumpy Forest"/>
+            <string name="44" value="Dragon Forest"/>
+            <string name="45" value="Forest of Life"/>
+            <string name="46" value="Neo City"/>
+            <string name="47" value="Golden Temple"/>
+            <string name="48" value="Red-nosed Pirate Hideout"/>
+            <string name="49" value="Taegong&apos;s House"/>
+            <string name="50" value="Unfrequented Place"/>
+            <string name="51" value="Shabby House"/>
+            <string name="52" value="House of the Lost Alchemist"/>
+            <string name="53" value="Time Shrine"/>
+            <string name="54" value="Contemplating Room"/>
+            <string name="55" value="Knight Stronghold"/>
+            <string name="56" value="Dimension Gap"/>
+            <string name="57" value="Elin Forest"/>
+            <string name="58" value="Raccoon Hideout"/>
+            <string name="59" value="Suspicious Safe House"/>
+            <string name="60" value="Angelic Buster&apos;s Room"/>
+            <string name="61" value="Traitor Base"/>
+            <string name="62" value="Tyrant Castle"/>
+            <string name="63" value="Wedding Village"/>
+            <string name="64" value="Maple Castle"/>
+            <string name="65" value="Treasure Warehouse"/>
+            <string name="66" value="Goddess Tower"/>
+            <string name="67" value="Doll House"/>
+            <string name="68" value="Korean Folk Town"/>
+            <string name="69" value="Veritas"/>
+            <string name="70" value="Mu Lung Dojo"/>
+            <string name="71" value="Pyramid"/>
+            <string name="72" value="Cheese Storage"/>
+            <string name="73" value="Poison Fog Forest"/>
+            <string name="74" value="Suspicious Lab"/>
+            <string name="75" value="Francis&apos;s Room"/>
+            <string name="76" value="Monster Carnival"/>
+            <string name="77" value="Ghost Ship"/>
+            <string name="78" value="Evil Eye&apos;s Cave"/>
+            <string name="79" value="Mirror Cave"/>
+            <string name="80" value="Pig Park"/>
+        </imgdir>
+        <imgdir name="VerbA">
+            <string name="0" value="was hired"/>
+            <string name="1" value="went missing"/>
+            <string name="2" value="had something to eat"/>
+            <string name="3" value="passed out"/>
+            <string name="4" value="went shopping"/>
+            <string name="5" value="jumped"/>
+            <string name="6" value="flew"/>
+            <string name="7" value="breathed"/>
+            <string name="8" value="lost wallet"/>
+            <string name="9" value="enhanced"/>
+            <string name="10" value="fell in love "/>
+            <string name="11" value="someone declared his/her love for me"/>
+            <string name="12" value="danced"/>
+            <string name="13" value="feared"/>
+            <string name="14" value="took a part time job"/>
+            <string name="15" value="went to work"/>
+            <string name="16" value="came back from work"/>
+            <string name="17" value="drew"/>
+            <string name="18" value="glared at a passersby"/>
+            <string name="19" value="picked a fight"/>
+            <string name="20" value="got cheated on"/>
+            <string name="21" value="opened a street stall"/>
+            <string name="22" value="took a nap"/>
+            <string name="23" value="picked up an item"/>
+            <string name="24" value="collected"/>
+            <string name="25" value="had an out of body experience"/>
+            <string name="26" value="evolved"/>
+            <string name="27" value="degenerated"/>
+            <string name="28" value="got homesick"/>
+            <string name="29" value="fell"/>
+            <string name="30" value="became rich"/>
+            <string name="31" value="trained"/>
+            <string name="32" value="dug up the ground"/>
+            <string name="33" value="bathed in the sun"/>
+            <string name="34" value="found the legendary item"/>
+            <string name="35" value="ran away"/>
+            <string name="36" value="laughed my head off"/>
+            <string name="37" value="wore a doll&apos;s clothes"/>
+            <string name="38" value="united"/>
+            <string name="39" value="separated"/>
+            <string name="40" value="changed"/>
+            <string name="41" value="learned a new skill"/>
+            <string name="42" value="moved through dimensions"/>
+            <string name="43" value="moved through time"/>
+            <string name="44" value="made one&apos;s own figure"/>
+            <string name="45" value="logged out"/>
+            <string name="46" value="wore glasses"/>
+            <string name="47" value="lived happily ever after"/>
+            <string name="48" value="was happy"/>
+            <string name="49" value="met the love of his/her life"/>
+        </imgdir>
+        <imgdir name="adjective">
+            <string name="0" value="passing by"/>
+            <string name="1" value="dancing"/>
+            <string name="2" value="wearing a mask"/>
+            <string name="3" value="were fortifying"/>
+            <string name="4" value="were happy"/>
+            <string name="5" value="pretty"/>
+            <string name="6" value="despondent "/>
+            <string name="7" value="time traveling"/>
+            <string name="8" value="sleeping"/>
+            <string name="9" value="beautiful"/>
+            <string name="10" value="wearing a hat"/>
+            <string name="11" value="grilling meat"/>
+            <string name="12" value="failed at fortification"/>
+            <string name="13" value="scary looking"/>
+            <string name="14" value="heartbroken"/>
+            <string name="15" value="under the covers"/>
+            <string name="16" value="fishing"/>
+            <string name="17" value="wearing a doll&apos;s clothes"/>
+            <string name="18" value="illiterate"/>
+            <string name="19" value="cute"/>
+            <string name="20" value="scary"/>
+            <string name="21" value="resenting"/>
+            <string name="22" value="have something"/>
+            <string name="23" value="unknown"/>
+            <string name="24" value="forgetful"/>
+            <string name="25" value="poor"/>
+            <string name="26" value="won the lottery"/>
+            <string name="27" value="starved for days"/>
+            <string name="28" value="good at rock-paper-scissors"/>
+            <string name="29" value="lucky"/>
+            <string name="30" value="unlucky"/>
+            <string name="31" value="had a divine revelation"/>
+            <string name="32" value="full of ambition"/>
+            <string name="33" value="wearing glasses"/>
+            <string name="34" value="with the goal of conquering the world"/>
+            <string name="35" value="really wants to go to the bathroom"/>
+            <string name="36" value="clumsy"/>
+            <string name="37" value="fan of Angelic Buster"/>
+            <string name="38" value="with an unpleasant smirk"/>
+            <string name="39" value="with a flower on his/her head"/>
+            <string name="40" value="with shabby clothes"/>
+            <string name="41" value="picking fights for no reason"/>
+            <string name="42" value="with a scar on his/her face"/>
+            <string name="43" value="chased by something"/>
+            <string name="44" value="relaxed and drinking tea "/>
+            <string name="45" value="riding a horse"/>
+            <string name="46" value="who likes the ladies"/>
+            <string name="47" value="cleaning"/>
+            <string name="48" value="without any friends"/>
+            <string name="49" value="suspicious"/>
+            <string name="50" value="who doesn&apos;t like to wash"/>
+        </imgdir>
+        <imgdir name="Noun">
+            <string name="0" value="senior"/>
+            <string name="1" value="children"/>
+            <string name="2" value="male"/>
+            <string name="3" value="female"/>
+            <string name="4" value="friend"/>
+            <string name="5" value="worm"/>
+            <string name="6" value="Orange Mushroom"/>
+            <string name="7" value="Cygnus"/>
+            <string name="8" value="Black Sorcerer"/>
+            <string name="9" value="Mister"/>
+            <string name="10" value="Oong-e"/>
+            <string name="11" value="Angelic Buster"/>
+            <string name="12" value="Orchid"/>
+            <string name="13" value="Archairum"/>
+            <string name="14" value="junior"/>
+            <string name="15" value="Hilla"/>
+            <string name="16" value="Van Leon"/>
+            <string name="17" value="Lotus"/>
+            <string name="18" value="adventurer"/>
+            <string name="19" value="Magnus"/>
+            <string name="20" value="unidentified assailant"/>
+            <string name="21" value="Operator"/>
+            <string name="22" value="Chief Stan"/>
+            <string name="23" value="Gelimer"/>
+            <string name="24" value="Bear"/>
+            <string name="25" value="Slime"/>
+            <string name="26" value="Inkstone"/>
+            <string name="27" value="Lover"/>
+            <string name="28" value="Velderos"/>
+            <string name="29" value="Aria"/>
+            <string name="30" value="Phantom"/>
+            <string name="31" value="Dark Lord"/>
+            <string name="32" value="Helena"/>
+            <string name="33" value="Chick"/>
+            <string name="34" value="Panther"/>
+            <string name="35" value="Chameleon"/>
+            <string name="36" value="Cleaner"/>
+            <string name="37" value="Pink Bean"/>
+            <string name="38" value="Julian"/>
+            <string name="39" value="Ant"/>
+            <string name="40" value="Gray"/>
+            <string name="41" value="Store owner"/>
+            <string name="42" value="Idea"/>
+            <string name="43" value="Xenon"/>
+            <string name="44" value="Mercedes"/>
+            <string name="45" value="Luminus"/>
+            <string name="46" value="Demon Slayer"/>
+            <string name="47" value="Kenta"/>
+            <string name="48" value="Romeo and Juliet"/>
+            <string name="49" value="Cygnus Knights"/>
+            <string name="50" value="Pig"/>
+        </imgdir>
+        <imgdir name="VerbB">
+            <string name="0" value="abused"/>
+            <string name="1" value="applauded"/>
+            <string name="2" value="loved"/>
+            <string name="3" value="mocked"/>
+            <string name="4" value="picked on"/>
+            <string name="5" value="received a gift"/>
+            <string name="6" value="left out"/>
+            <string name="7" value="used for experiment"/>
+            <string name="8" value="loved"/>
+            <string name="9" value="got proposed"/>
+            <string name="10" value="got cheated on"/>
+            <string name="11" value="throwing stones"/>
+            <string name="12" value="lying"/>
+            <string name="13" value="complementing"/>
+            <string name="14" value="receiving money"/>
+            <string name="15" value="chased"/>
+            <string name="16" value="handed out invitations"/>
+            <string name="17" value="was a victim of wallet theft"/>
+            <string name="18" value="uninterested"/>
+            <string name="19" value="receiving education"/>
+            <string name="20" value="talking bad behind his/her boss "/>
+            <string name="21" value="proposed"/>
+            <string name="22" value="angry"/>
+            <string name="23" value="getting buffed"/>
+            <string name="24" value="receiving counseling"/>
+            <string name="25" value="getting attacked"/>
+            <string name="26" value="receiving bribes"/>
+            <string name="27" value="got asked to dance"/>
+            <string name="28" value="adored"/>
+            <string name="29" value="gets no attention"/>
+            <string name="30" value="got head-butted"/>
+            <string name="31" value="sued"/>
+            <string name="32" value="bought a meal"/>
+            <string name="33" value="forced to buy "/>
+            <string name="34" value="got kissed"/>
+            <string name="35" value="got enhanced"/>
+            <string name="36" value="ignored"/>
+            <string name="37" value="received an item"/>
+            <string name="38" value="knighted"/>
+            <string name="39" value="signed "/>
+            <string name="40" value="forgiven"/>
+            <string name="41" value="invited by a friend"/>
+            <string name="42" value="received a love letter"/>
+            <string name="43" value="received a fan letter"/>
+            <string name="44" value="aroused anger"/>
+            <string name="45" value="feeding bread"/>
+            <string name="46" value="getting bullied"/>
+            <string name="47" value="wring money"/>
+            <string name="48" value="with a trauma"/>
+            <string name="49" value="doing nothing"/>
+            <string name="50" value="challenged to a duel"/>
+        </imgdir>
+    </imgdir>
+</imgdir>
