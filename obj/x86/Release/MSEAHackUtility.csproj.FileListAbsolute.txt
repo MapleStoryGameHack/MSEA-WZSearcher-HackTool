@@ -35,3 +35,6 @@ C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\bin\Release\MSEAHac
 C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.Form1.resources
 C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.Properties.Resources.resources
 C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.csproj.GenerateResource.Cache
+C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher-HackTool\bin\Release\MSEAHackUtility.exe.config
+C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher-HackTool\obj\x86\Release\MSEAHackUtility.exe
+C:\Users\z\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher-HackTool\obj\x86\Release\MSEAHackUtility.pdb
