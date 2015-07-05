@@ -1,5 +1,5 @@
 ﻿/*   MSEA-WZSearcher-HackTool - A handy tool for MapleStory packet editing
-    Copyright (C) 2012~2014 eaxvac/lastBattle https://github.com/eaxvac
+    Copyright (C) 2012~2015 eaxvac/lastBattle https://github.com/eaxvac
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
