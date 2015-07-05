@@ -56,3 +56,12 @@ C:\Users\zheng\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher
 C:\Users\zheng\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher-HackTool\obj\x86\Release\MSEAHackUtility.Form1.resources
 C:\Users\zheng\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher-HackTool\obj\x86\Release\MSEAHackUtility.Properties.Resources.resources
 C:\Users\zheng\Desktop\Tools\Hacks\MapleStory\MapleMapTeleportId\MSEA-WZSearcher-HackTool\obj\x86\Release\MSEAHackUtility.csproj.GenerateResource.Cache
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\bin\Release\MSEAHackUtility.exe.config
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.exe
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.pdb
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\bin\Release\MSEAHackUtility.exe
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\bin\Release\MSEAHackUtility.pdb
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.csprojResolveAssemblyReference.cache
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.Form1.resources
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.Properties.Resources.resources
+C:\Users\zheng\Desktop\Work\Tools\Hacks\MapleStory\MapleMapTeleportId\obj\x86\Release\MSEAHackUtility.csproj.GenerateResource.Cache
