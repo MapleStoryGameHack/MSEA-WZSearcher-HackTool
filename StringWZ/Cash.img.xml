@@ -105,8 +105,8 @@
         <string name="desc" value="A special effect in which you&apos;ll see a spooky ghost appirate behind you and scare the daylights out of everyone nearby! On the Key Config, configure this on a button of your choice to turn the effect on/off."/>
     </imgdir>
     <imgdir name="5010026">
-        <string name="name" value="Indigo Dracula"/>
-        <string name="desc" value="A special effect in which you&apos;ll see a horde of Dracula&apos;s finest bats appear and surround your character with alluring nocturne ambience. On the Key Config, configure this on a button of your choice to turn the effect on/off. "/>
+        <string name="name" value="Verdant Bats "/>
+        <string name="desc" value="Summons a cloud of bats that surrounds your character with an eerie nocturne ambience. Double-click the icon or set it to a hotkey in your Key Config to toggle the effect On/Off."/>
     </imgdir>
     <imgdir name="5010027">
         <string name="name" value="Snap"/>
@@ -161,8 +161,8 @@
         <string name="desc" value="A special effect that follows the character around which can be used to express the feeling of happiness and joy. Double-click on the icon or designate a HotKey to turn the effect on/off."/>
     </imgdir>
     <imgdir name="5010042">
-        <string name="name" value="Busy Bee"/>
-        <string name="desc" value="A very busy bee that&apos;s never distracted from following you. Keeps one focused on the task at hand."/>
+        <string name="desc" value="boongboong~! Should I receive a protection from kid honey bee? Double Click the icon or select a shortcut on settings to ON/OFF."/>
+        <string name="name" value="Boy bee effect"/>
     </imgdir>
     <imgdir name="5010043">
         <string name="name" value="Eyelighter"/>
@@ -217,8 +217,8 @@
         <string name="desc" value="Blaze a trail of dark energy--no one can escape your wrath with this effect!"/>
     </imgdir>
     <imgdir name="5010060">
-        <string name="name" value="Caroler Effect"/>
-        <string name="desc" value="Tis&apos; the season to be jolly fa la la la la la la la! Sing to everyone in Maple with the carolers!"/>
+        <string name="name" value="Happy Winter Effect"/>
+        <string name="desc" value="Have lots of warm and fuzzy feelings this season! Double-click to toggle the effect, or setup a hotkey for it in your Key Config."/>
     </imgdir>
     <imgdir name="5010061">
         <string name="name" value="Ace of Hearts"/>
@@ -234,7 +234,7 @@
     </imgdir>
     <imgdir name="5010064">
         <string name="name" value="Rock Band Effect"/>
-        <string name="desc" value="An effect that makes you feel the rock band party. Double-click the icon or assign a hotkey to turn the effect on/off. "/>
+        <string name="desc" value="Standing at the center of the Rock Band. Double-click the icon or assign a hotkey to turn the effect On/Off from the Key Settings. "/>
     </imgdir>
     <imgdir name="5010065">
         <string name="name" value="Scoreboard Effect"/>
@@ -256,8 +256,8 @@
         <string name="desc" value="A pair of wings that resembles a fairy from the forest."/>
     </imgdir>
     <imgdir name="5010071">
-        <string name="name" value="Under the Dark Night"/>
-        <string name="desc" value="Watch out! Something spooky is coming for you!"/>
+        <string name="desc" value="Looks like there is an uninvited guest at Moon Cat&apos;s house. Double Click the icon or select a shortcut on settings to ON/OFF."/>
+        <string name="name" value="Watch out for full moon!&apos; effect"/>
     </imgdir>
     <imgdir name="5010073">
         <string name="name" value="Popular Girl"/>
@@ -276,7 +276,7 @@
         <string name="desc" value="An effect that calls upon a Cygnus Knight&apos;s cute friend. Double-click the icon or assign a hotkey to turn the effect on/off. "/>
     </imgdir>
     <imgdir name="5010080">
-        <string name="name" value="Spring Rain"/>
+        <string name="name" value="Spring Rain Effect"/>
         <string name="desc" value="A gentle spring rain that glitters. Double-click the icon or assign a hotkey to turn the effect on/off. "/>
     </imgdir>
     <imgdir name="5010999">
@@ -449,7 +449,7 @@
     </imgdir>
     <imgdir name="5041000">
         <string name="name" value="VIP Teleport Rock"/>
-        <string name="desc" value="This Teleport Rock enables one to #cteleport between continents#. It also enables the user to teleport to a specific character from the same channel. Up to #c10# maps, excluding the maps that cannot be reached through teleport, can be registered for this."/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You may add up to #c10# maps except for the ones with limited access. #cMirror World# is unavailable for teleport."/>
     </imgdir>
     <imgdir name="5043000">
         <string name="name" value="NPC Teleport Rock"/>
@@ -465,44 +465,44 @@
     </imgdir>
     <imgdir name="5050001">
         <string name="name" value="SP Reset (1st job)"/>
-        <string name="desc" value="This #cscroll allows you to move 1 SP from one 1st job advancement skill to another#. Dual Blades can move 1st job SP to 1st and 1+ skills."/>
+        <string name="desc" value="Scroll which ables #cSP 1 picked in stage-1 skill to be picked in stage-1 skill#. But, in case of dual blade, stage-1 SP can be picked in stage-1 and stage-1+ skills. #cZero# cannot use this scroll."/>
     </imgdir>
     <imgdir name="5050002">
         <string name="name" value="SP Reset (2nd job)"/>
-        <string name="desc" value="#cAllows you to remove 1 SP from a 2nd job skill and place it in another#. If you put the SP into a 1st job skill after taking your 2nd job advancement, you can also move that. Dual Blades can move 1+ and 2nd job advancement skills."/>
+        <string name="desc" value="Scroll which ables #cSP 1 picked in stage-2 skill to be picked in stage-2 skill#. Also, if SP recieved after 2nd job transfer had been picked for stage-1 skill, it can also be picked. But in case of dual blade, stage-1+ and stage-2 skills are subjected to. #cZero# cannot use this scroll."/>
     </imgdir>
     <imgdir name="5050003">
         <string name="name" value="SP Reset (3rd job)"/>
-        <string name="desc" value="#cAllows you to remove 1 SP from a 3rd job skill and place it in another#. If you put the SP into a 1st or 2nd job skill after taking your 3rd job advancement, you can also move that. Dual Blades can move 2+ and 3rd job advancement skills."/>
+        <string name="desc" value="Scroll which ables #cSP 1 picked in stage-3 skill to be picked in stage-3 skill#. Also, if SP recieved after 3rd job transfer had been picked for stage-1 or stage-2 skill, it can also be picked. But in case of dual blade, stage-2+ and stage-3 skills are subjected to. #cZero# cannot use this scroll."/>
     </imgdir>
     <imgdir name="5050004">
         <string name="name" value="SP Reset (4th job)"/>
         <null name="."/>
-        <string name="desc" value="This scroll allows you to #creset 1 SP from a 4th-level skill#. The 1st, 2nd, and 3rd job SP raised AFTER the 4th job adv. can also be reset and applied to a 3rd job skill. The SP that&apos;s been reset may NOT be applied to 1st, 2nd or 3rd job skills."/>
+        <string name="desc" value="Scroll which ables #cSP 1 picked in stage-4 skill to be picked in stage-4 skill#.  Also, if SP recieved after 4th job transfer had been picked for stage-1, stage-2, or stage-3 skill, it can also be picked. #cZero# can use this scroll."/>
     </imgdir>
     <imgdir name="5050005">
-        <string name="name" value="Evan SP Reset (1st/2nd Skill) "/>
         <string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 1st or 2nd Job Skill.#"/>
+        <string name="name" value="Evan SP Reset (1st/2nd Skill)"/>
     </imgdir>
     <imgdir name="5050006">
-        <string name="name" value="Evan SP Reset (3rd/4th Skill) "/>
         <string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 3rd or 4th Job Skill.#"/>
+        <string name="name" value="Evan SP Reset (3rd/4th Skill)"/>
     </imgdir>
     <imgdir name="5050007">
-        <string name="name" value="Evan SP Reset (5th/6th Skill) "/>
         <string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 5th or 6th Job Skill.#"/>
+        <string name="name" value="Evan SP Reset (5th/6th Skill)"/>
     </imgdir>
     <imgdir name="5050008">
-        <string name="name" value="Evan SP Reset (7th/8th Skill) "/>
         <string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 7th or 8th Job Skill.#"/>
+        <string name="name" value="Evan SP Reset (7th/8th Skill)"/>
     </imgdir>
     <imgdir name="5050009">
-        <string name="name" value="Evan SP Reset (9th/10th Skill) "/>
         <string name="desc" value="Only for Evan. This scroll allows you to #creset 1 SP from a 9th or 10th Job Skill.#"/>
+        <string name="name" value="Evan SP Reset (9th/10th Skill)"/>
     </imgdir>
     <imgdir name="5060000">
         <string name="name" value="Item Tag"/>
-        <string name="desc" value="Engraves the owner&apos;s name on a piece of equipment. #cDrag the item icon on to the equipment piece of your choice# to engrave your character&apos;s name on it. \nWhen used on previously engraved equipment, #cthe engraving will be overwritten with the newest name#. "/>
+        <string name="desc" value="Engraves the owner&apos;s name on a piece of equipment. #cDrag the item icon on to the equipment piece of your choice# to engrave your character&apos;s name on it. \nCannot be used on previously engraved equipment.\nIf used on an item with a crafter&apos;s name attached, #cthe crafter&apos;s name will be overwritten with the newest name#. \nCannot be used on Zero weapons."/>
     </imgdir>
     <imgdir name="5060001">
         <string name="name" value="Sealing Lock"/>
@@ -605,7 +605,7 @@
     </imgdir>
     <imgdir name="5080001">
         <string name="name" value="Heart Balloon"/>
-        <string name="desc" value="A balloon full of love you can float around. Enter your own message."/>
+        <string name="desc" value="Balloon full of love which can stay up in the air for #c1 Hour#. You may place a message you can to enter."/>
         <string name="msg" value="s message of love."/>
         <string name="msgIn" value="Write out your love.(You can write on every line.)"/>
     </imgdir>
@@ -750,9 +750,9 @@
         <string name="msg" value="%s"/>
     </imgdir>
     <imgdir name="5120023">
-        <string name="name" value="Ellin Forest: For Quest "/>
         <string name="desc" value="Fairy"/>
         <string name="msg" value="%s"/>
+        <string name="name" value="Ellin Forest: For Quest"/>
     </imgdir>
     <imgdir name="5120024">
         <string name="name" value="Mu Lung: For Quest"/>
@@ -760,9 +760,9 @@
         <string name="msg" value="%s"/>
     </imgdir>
     <imgdir name="5120025">
-        <string name="name" value="For Manager "/>
         <string name="desc" value="Get Macro"/>
         <string name="msg" value="%s"/>
+        <string name="name" value="For Manager"/>
     </imgdir>
     <imgdir name="5120026">
         <string name="name" value="Goldrich: For a maze"/>
@@ -857,7 +857,7 @@
     <imgdir name="5121014">
         <string name="name" value="Scattering Fish-shaped Buns"/>
         <string name="desc" value="Increases your physical attack power by 20, and magic attack power by 30 for all characters on the map for 15 minutes. You can type any message you want."/>
-        <string name="msg" value="%s‘s Fish-shaped Bun : %s"/>
+        <string name="msg" value="%s &apos;s message : %s"/>
     </imgdir>
     <imgdir name="5121015">
         <string name="name" value="Snowman and Large Snow Flakes"/>
@@ -1228,6 +1228,10 @@
         <string name="name" value="Ludibrium Face Coupon (VIP)"/>
         <string name="desc" value="Use it at #cLudibrium Plastic Surgery# to change your face to a style of #cyour choice#. (one-time use)"/>
     </imgdir>
+    <imgdir name="5152020">
+        <string name="name" value="Choice Plastic Surgery Coupon"/>
+        <string name="desc" value="Use at the Plastic Surgery Clinic to change your face to a select design 1 time.\nCan be used in any village. \r\n#cThe contents of this Choice Plastic Surgery Coupon are updated on a regular basis. (For more information, check the Cash Item-related announcements on our official website.)#"/>
+    </imgdir>
     <imgdir name="5152008">
         <string name="name" value="Showa Face Coupon (REG)"/>
         <string name="desc" value="Use it at #cShowa Plastic Surgery# to change your face #crandomly#. (one-time use)"/>
@@ -1522,7 +1526,7 @@
     </imgdir>
     <imgdir name="5180000">
         <string name="name" value="Water of Life"/>
-        <string name="desc" value="Mysterious water collected from a deep place in Ellinia. If you take it to Mar the Fairy in Ellinia, you can revive a pet that turned into a doll. You cannot use it on a #cMiracle Pet# without magic duration time."/>
+        <string name="desc" value="Mystical water drawn from the depth of Ellinia. Bring it to Fairy Mar in Ellinia to reanimate pets that have turned into dolls. Cannot be used on #cMiracle and Shining Star pets#."/>
     </imgdir>
     <imgdir name="5190000">
         <string name="name" value="Item Pick-up Skill"/>
@@ -1530,7 +1534,7 @@
     </imgdir>
     <imgdir name="5190001">
         <string name="name" value="HP Charge Skill"/>
-        <string name="desc" value="Adds to automatic potion-feeding skill to the pet. \n#cAvailable to all pets that do not have this option.#"/>
+        <string name="desc" value="The skill grants a chance to automatically recharges one&apos;s HP provided you have set the option up in the system option. \n#c The skill applies to all pet that does not have the skillt#."/>
     </imgdir>
     <imgdir name="5190002">
         <string name="name" value="Expand Range Skill"/>
@@ -1549,8 +1553,8 @@
         <string name="desc" value="The skill that makes pet not picking up any selected item. \n#s only pet mounted meso or item collecting function can use the skill.#"/>
     </imgdir>
     <imgdir name="5190006">
-        <string name="name" value="MP potion recharge skill"/>
-        <string name="desc" value="The skill that automatically recharges one&apos;s MP provided you have set the option up in the system option. \n#c The skill applies to all pet that does not have the skillt#."/>
+        <string name="name" value="MP Charge Skill"/>
+        <string name="desc" value="The skill grants a chance to automatically recharges one&apos;s MP provided you have set the option up in the system option. \n#c The skill applies to all pet that does not have the skillt#."/>
     </imgdir>
     <imgdir name="5190007">
         <string name="name" value="Auto Pet Draw"/>
@@ -1681,8 +1685,8 @@
         <string name="desc" value="#cIf in possession of this coupon, all EXP earned from the monsters will be 2x the norm#. The coupon is activated immediately after possession, and it runs for 5 days. If you also have other coupons in possession, the effects may come in effect all at once, so please be aware of that."/>
     </imgdir>
     <imgdir name="5211003">
-        <string name="name" value="one-time 2x EXP coupon"/>
         <string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)# for xx minutes after the purchaser activate the coupon."/>
+        <string name="name" value="One-time 2x EXP coupon"/>
     </imgdir>
     <imgdir name="5211004">
         <string name="name" value="2x EXP Card Type 1 - Weekdays"/>
@@ -1806,7 +1810,7 @@
     </imgdir>
     <imgdir name="5211050">
         <string name="name" value="Welcome Back Coupon"/>
-        <string name="desc" value="#cIf in possession of this coupon, all EXP earned from the monsters will be 3x the norm#. The coupon is activated immediately after possession, and it runs for 7 day. If you have the coupons of the same effect in possession, please be aware that the effects will not be stacked."/>
+        <string name="desc" value="#cIf in possession of this coupon, all EXP earned from the monsters will be 3x the norm#. The coupon is activated immediately after possession, and it runs for 1 day only. If you have the coupons of the same effect in possession, please be aware that the effects will not be stacked."/>
     </imgdir>
     <imgdir name="5211051">
         <string name="name" value="Welcome Back Coupon"/>
@@ -1953,7 +1957,7 @@
     </imgdir>
     <imgdir name="5240000">
         <string name="name" value="Banana"/>
-        <string name="desc" value="Tasty-looking banana. Only edible for the pet #cMonkey#, #cBlack Pig# and #cElephant#. \nRecovers entire Fullness. \nIncreases 100 Closeness."/>
+        <string name="desc" value="Tasty-looking banana. Only edible for the pet #cMonkey ,Black Pig ,Elephant#. \nRecovers entire Fullness. \nIncreases 100 Closeness."/>
     </imgdir>
     <imgdir name="5240001">
         <string name="name" value="Micro-Chips"/>
@@ -1961,23 +1965,23 @@
     </imgdir>
     <imgdir name="5240002">
         <string name="name" value="Dog Bone"/>
-        <string name="desc" value="A neatly-packaged dog bone. Only edible for the pet #cPuppy# and #cHusky#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+        <string name="desc" value="A neatly-packaged dog bone. Only edible for the pet#cBrown Puppy ,Husky ,Black Pig ,Husky ,Pig#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5240003">
         <string name="name" value="Bamboo"/>
-        <string name="desc" value="Bamboo harvested from Ellinia forests. Only edible for the pet #cPanda#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+        <string name="desc" value="Bamboo harvested from Ellinia forests. Only edible for the pet #cPanda ,Black Pig ,Pig#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5240004">
         <string name="name" value="Porgy"/>
-        <string name="desc" value="Just caught at Lith Harbor. Only edible for the pet #c Brown Kitty#, #c Black Kitty#, #c Black Pig# and #cPenguin#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+        <string name="desc" value="Just caught at Lith Harbor. Only edible for the pet #cBrown Kitty ,Black Kitty ,Black Pig ,Penguin ,Pig ,Penguin#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5240008">
         <string name="name" value="Turkey Feed"/>
-        <string name="desc" value="Nicely packed Turkey Feed. Only eligible for the pet Turkey."/>
+        <string name="desc" value="Nicely packed Turkey Feed. Only eligible for the pet #cTurkey ,Black Pig#."/>
     </imgdir>
     <imgdir name="5240009">
         <string name="name" value="Purple Heart Pudding"/>
-        <string name="desc" value="A large piece of Purple Heart Meat Pudding that can only be eaten by #cJr. Balrog#. Recovers &quot;fullness&quot; completely and #cincreases closeness by 100#."/>
+        <string name="desc" value="A large piece of Purple Heart Meat Pudding that can only be eaten by #cJr. Balrog ,Black Pig#. Recovers &quot;fullness&quot; completely and #cincreases closeness by 100#."/>
     </imgdir>
     <imgdir name="5240010">
         <string name="name" value="Golden Coin Chocolate"/>
@@ -2001,7 +2005,7 @@
     </imgdir>
     <imgdir name="5240015">
         <string name="name" value="Garlic Salt Chips"/>
-        <string name="desc" value="Crispy-Salty looking bag of Chips. Only edible for the pet Porcupine. \nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+        <string name="desc" value="Crispy-Salty looking bag of Chips. Only edible for the pet #cPorcupine#. \nRecovers entire Fullness. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5240016">
         <string name="name" value="Caramel Beetle"/>
@@ -2009,8 +2013,7 @@
     </imgdir>
     <imgdir name="5240017">
         <string name="name" value="Snowflake"/>
-        <string name="desc" value="A tasty icicle that can only be consumed by #cSnowman, \r\n
-Crystal Rudolph#. Recovers entire \r\nFullness and \r\n #cincreases 100 Closeness#."/>
+        <string name="desc" value="A tasty icicle that can only be consumed by #cSnowman ,Crys.Rudolph#. Recovers entire \r\nFullness and \r\n #cincreases 100 Closeness#."/>
     </imgdir>
     <imgdir name="5240018">
         <string name="name" value="Sprout"/>
@@ -2078,15 +2081,15 @@ Crystal Rudolph#. Recovers entire \r\nFullness and \r\n #cincreases 100 Closenes
     </imgdir>
     <imgdir name="5251004">
         <string name="name" value="Cozy wedding ticket"/>
-        <string name="desc" value="A ticket for cozy wedding.#cBride and Bridegroom can invite 5 visitors each, and get a 1 karat wedding ring.#"/>
+        <string name="desc" value="A ticket for simple wedding ceremony. #cgroom and bride each can invite 5 guests and 1-carat wedding ring.\r\n*Caution: zero cannot use#"/>
     </imgdir>
     <imgdir name="5251005">
         <string name="name" value="Sweety wedding ticket"/>
-        <string name="desc" value="A ticket for sweety wedding.#cBride and Bridegroom can invite 15 visitors each and get a 2 karat wedding ring#."/>
+        <string name="desc" value="A ticket for sweetie wedding ceremony. #cgroom and bride each can invite 15 guests, includes wedding photo, and 2-carat wedding ring.\r\n*Caution: zero cannot use#"/>
     </imgdir>
     <imgdir name="5251006">
         <string name="name" value="Premium Wedding Ticket"/>
-        <string name="desc" value="A ticket for premium wedding. #cBride and Bridegroom can invite 30 visitors each, have a wedding party, and get a 3 karat wedding ring with special gift#."/>
+        <string name="desc" value="A ticket for premium wedding ceremony. #cgroom and bride each can invite 30 guests, includes wedding photo, wedding party, 3-carat wedding ring, and special gift.\r\n*Caution: zero cannot use#"/>
     </imgdir>
     <imgdir name="5251100">
         <string name="name" value="Wedding Invitation Ticket"/>
@@ -2310,8 +2313,8 @@ For Fishing Assistant Use Only&quot;"/>
         <string name="desc" value="Best way to announce your message in special tiger theme messenger."/>
     </imgdir>
     <imgdir name="5390006">
-        <string name="name" value="Tiger&apos;s Roar Messenger"/>
-        <string name="desc" value="Best way to announce your message in special tiger theme messenger that roar as sent."/>
+        <string name="name" value="Roaring Tiger Megaphone"/>
+        <string name="desc" value="Feel the tiger&apos;s roar! Use this item to display your character image along with a message to the entire world. "/>
     </imgdir>
     <imgdir name="5390007">
         <string name="name" value="Goal! Messenger"/>
@@ -2322,8 +2325,8 @@ For Fishing Assistant Use Only&quot;"/>
         <string name="desc" value="Shout to everyone in the world your character is on with this. Now available with your avatar on the top of everyone&apos;s screen! Comes with a burning background for your avatar."/>
     </imgdir>
     <imgdir name="5390009">
-        <string name="name" value="Friend Finder Megaphone"/>
-        <string name="desc" value="Used to tell the entire Maple World that you&apos;re searching for friends."/>
+        <string name="desc" value="maple world&apos;s most popular guy is me! When the item is used, the character&apos;s figure and the entered words are displayed over the entire world."/>
+        <string name="name" value="We are friends&apos; megaphone"/>
     </imgdir>
     <imgdir name="5400000">
         <string name="name" value="Character Name Change"/>
@@ -2446,8 +2449,8 @@ For Fishing Assistant Use Only&quot;"/>
         <string name="desc" value="Sever the bond between an item and the original owner to make the item tradable. This item can only be used on certain items and cannot be used on sealed items."/>
     </imgdir>
     <imgdir name="5520001">
-        <string name="name" value="Platinum Scissors of Karma "/>
         <string name="desc" value="Sever the bond between an item and the original owner to make the item tradable. This item can only be used on certain items and cannot be used on sealed items."/>
+        <string name="name" value="Platinum Scissors of Karma"/>
     </imgdir>
     <imgdir name="5530001">
         <string name="name" value="DS Medal Basket"/>
@@ -2727,11 +2730,11 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5610000">
         <string name="name" value="Vega&apos;s Spell(10%)"/>
-        <string name="desc" value="This winning spell from Vega enables a 30% success rate on a 10% scroll. Please check the scroll description to confirm that Vega&apos;s Spell is available for the scroll you choose."/>
+        <string name="desc" value="This winning spell from Vega enables a 30% success rate on a 10% scroll. Please check the scroll description to confirm that Vega&apos;s Spell is available for the scroll you choose. \n Does not work together with Pam&apos;s Song and Shielding Ward."/>
     </imgdir>
     <imgdir name="5610001">
         <string name="name" value="Vega&apos;s Spell(60%)"/>
-        <string name="desc" value="This winning spell from Vega enables a 90% success rate on a 60% scroll. Please check the scroll description to confirm that Vega&apos;s Spell is available for the scroll you choose."/>
+        <string name="desc" value="This winning spell from Vega enables a 90% success rate on a 60% scroll. Please check the scroll description to confirm that Vega&apos;s Spell is available for the scroll you choose. \n Does not work together with Pam&apos;s Song and Shielding Ward."/>
     </imgdir>
     <imgdir name="5620000">
         <string name="name" value="Slash Storm 20 Mastery"/>
@@ -2765,7 +2768,7 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5640000">
         <string name="name" value="Pam&apos;s Song"/>
-        <string name="desc" value="With Pam’s Song, you will be able to retrieve the upgrade slot back in case of an unfortunate failure."/>
+        <string name="desc" value="With Pam’s Song, you will be able to retrieve the upgrade slot back in case of an unfortunate failure. \n Does not work together with Vega&apos;s Spell, Shielding Wards and Legendary Spirit"/>
     </imgdir>
     <imgdir name="5650000">
         <string name="name" value="Party Bonus Coupon"/>
@@ -2776,7 +2779,7 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5041001">
         <string name="name" value="Premium VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys,Ellinia,Perion,Kerning City,Nautilus,Orbis,Ludibrium,Aquarium,Leafre,Mu Lung,Ariant,Edelstein#."/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You can also teleport to a village you have not traveled yet. You may add up to #c13# maps except for the ones with limited access.\n#c&lt;Villages which you can teleport to&gt;#\n#cHenesis, Elinia, Perion, Cunning City, Notilus, Orbis, Rudibrium, Aquarium, Lifre, Mooreung, Arient, Edelstein#\r\n*Caution: #cMirror World# is unavailable for teleport."/>
     </imgdir>
     <imgdir name="5152058">
         <string name="name" value="Royal Face Coupon"/>
@@ -2860,19 +2863,19 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5040003">
         <string name="name" value="Rookie Teleport Rock"/>
-        <string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they&apos;re in your world and channel."/>
+        <string name="desc" value="A stone which can remember 5 maps and able to #teleport to cremembering maps# anytime.. May #cteleport to a map where a specific characeter is located# in the same world or channel. However, teleporting to #cmirror world# is not possible."/>
     </imgdir>
     <imgdir name="5040006">
         <string name="name" value="[1-Day] Teleport Rock"/>
-        <string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they&apos;re in your world and channel. \n Cooldown: 30 min  "/>
+        <string name="desc" value="A stone which can remember 5 maps and able to #teleport to cremembering maps# anytime.. May #cteleport to a map where a specific characeter is located# in the same world or channel. However, teleporting to #cmirror world# is not possible. \n cool time: 30 mins  "/>
     </imgdir>
     <imgdir name="5040007">
         <string name="name" value="[3-Day] Teleport Rock"/>
-        <string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they&apos;re in your world and channel. \n Cooldown: 30 min  "/>
+        <string name="desc" value="A stone which can remember 5 maps and able to #teleport to cremembering maps# anytime.. May #cteleport to a map where a specific characeter is located# in the same world or channel. However, teleporting to #cmirror world# is not possible. \n cool time: 30 mins  "/>
     </imgdir>
     <imgdir name="5040008">
         <string name="name" value="[7-Day] Teleport Rock"/>
-        <string name="desc" value="A rock that can memorize 5 maps, and then allow you to #cteleport to the memorized maps# at any time. It can be used to #cmove to the map where a particular character is# as long as they&apos;re in your world and channel. \n Cooldown: 30 min  "/>
+        <string name="desc" value="A stone which can remember 5 maps and able to #teleport to cremembering maps# anytime.. May #cteleport to a map where a specific characeter is located# in the same world or channel. However, teleporting to #cmirror world# is not possible. \n cool time: 30 mins  "/>
     </imgdir>
     <imgdir name="5060004">
         <string name="name" value="Microwave"/>
@@ -2881,18 +2884,22 @@ For Fishing Assistant Use Only&quot;"/>
     <imgdir name="5063000">
         <string name="name" value="Luck&apos;s Key"/>
         <string name="desc" value="Feeling lucky? Increases the success rate of the next scroll use by 10%."/>
+        <string name="autodesc" value="\r\n#cIncrease the success chance of the scroll used next\r\n#"/>
     </imgdir>
     <imgdir name="5064000">
         <string name="name" value="Shielding Ward"/>
-        <string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it #ccannot be used on items that have been successfully enhanced 12 or more times or on superior items.# \nCan be used along with #cShield Scrolls and Guardian Scrolls#."/>
+        <string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it #ccannot be used on items that have been successfully enhanced 12 or more times or on superior items.# \n Does not work together with Pam&apos;s Song and Seal Locked Items."/>
+        <string name="autodesc" value="\r\n#cPrevent item destruction for one time\r\n#"/>
     </imgdir>
     <imgdir name="5064004">
         <string name="name" value="[MS Special] Shielding Ward"/>
         <string name="desc" value="A magic ward that protects an item. Using this on a piece of equipment protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use, and it #ccannot be used on +12 or higher-enchanted items or Superior Equipment items.#  \nThis can be used along with #cShield Scrolls and Guardian Scrolls#."/>
+        <string name="autodesc" value="\r\n#cPrevent item destruction for one time\r\n#"/>
     </imgdir>
     <imgdir name="5064100">
         <string name="name" value="Shield Scroll"/>
         <string name="desc" value="A magic ward that protects an item. Using this on a piece of equipment protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use. \nCan be used along with #cShielding Wards and Guardian Scrolls#."/>
+        <string name="autodesc" value="\r\n#cPrevent reduction of upgrade availability count for one time\r\n#"/>
     </imgdir>
     <imgdir name="5120043">
         <string name="name" value="Empress Thought Bubble"/>
@@ -3039,8 +3046,8 @@ For Fishing Assistant Use Only&quot;"/>
         <string name="desc" value="Double-click to exchange it for a Brown Polar Bear Chair."/>
     </imgdir>
     <imgdir name="5530181">
-        <string name="name" value="Ice Chair  Coupon"/>
         <string name="desc" value="Double-click to exchange it for a Ice Chair."/>
+        <string name="name" value="Ice Chair Coupon"/>
     </imgdir>
     <imgdir name="5530182">
         <string name="name" value="Silver Wolf Chair Coupon"/>
@@ -3096,7 +3103,7 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5240039">
         <string name="name" value="Magical Sugar Cube"/>
-        <string name="desc" value="A special sugar cube for #cUnicorns#. Completely restores Fullness, and #cincreases Closeness by 100#."/>
+        <string name="desc" value="A special sugar cube for#cEsel ,Tiel ,Galiel#. Completely restores Fullness, and #cincreases Closeness by 100#."/>
     </imgdir>
     <imgdir name="5252009">
         <string name="name" value="VIP Tourist Ticket"/>
@@ -3300,12 +3307,15 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5160015">
         <string name="name" value="Dizzy"/>
+        <string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character get dizzy!"/>
     </imgdir>
     <imgdir name="5160016">
-        <string name="name" value="Yawn"/>
+        <string name="name" value="ORZ"/>
+        <string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character have the ORZ expression!"/>
     </imgdir>
     <imgdir name="5160017">
-        <string name="name" value="Hehe"/>
+        <string name="name" value="Hey Hey"/>
+        <string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character go Hey Hey!"/>
     </imgdir>
     <imgdir name="5030018">
         <string name="name" value="Old Grandpa Shop"/>
@@ -3325,11 +3335,11 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5240006">
         <string name="name" value="Red Meat"/>
-        <string name="desc" value="Fresh red meat bought from the market. Only edible for the pet #cDino#, #cMini Cargo#, #cBlack Pig#, #cWhite Tiger# and #cPink Yeti#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+        <string name="desc" value="Fresh red meat bought from the market. Only edible for the pet #cMini Cargo ,Dino Boy ,Dino Girl ,Black Pig ,White Tiger ,Orange Tiger#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5240007">
         <string name="name" value="Frozen Fruits"/>
-        <string name="desc" value="A frozen fruit that can only be eaten by #cMini Yeti#, #cBlack Pig# and #cPink Yeti#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
+        <string name="desc" value="A frozen fruit that can only be eaten by #cMini Yeti ,Black Pig ,Pink Yeti#.\nRecovers entire Fullness. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5220016">
         <string name="name" value="Small Holiday Surprise"/>
@@ -3377,11 +3387,11 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5240025">
         <string name="name" value="Apple"/>
-        <string name="desc" value="Pet food &quot;Red Panda&quot;. 100% recovery satiety level, the degree of intimacy can be improved 100."/>
+        <string name="desc" value="Pet food #cRed Panda#. 100% recovery satiety level, the degree of intimacy can be improved 100."/>
     </imgdir>
     <imgdir name="5240026">
         <string name="name" value="Sushi"/>
-        <string name="desc" value="Pet food &quot;Ochamaru&quot;. 100% recovery satiety level, the degree of intimacy can be improved 100."/>
+        <string name="desc" value="Pet food #cOchamaru#. 100% recovery satiety level, the degree of intimacy can be improved 100."/>
     </imgdir>
     <imgdir name="5010067">
         <string name="name" value="Summer of OIRA&apos;s YO!"/>
@@ -3409,55 +3419,57 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5041002">
         <string name="name" value="[1-Day] VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered.\n Cooldown: 30 min  "/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You may add up to #c10# maps except for the ones with limited access. #cMirror World# is unavailable for teleport. \Cool Time: 30min"/>
     </imgdir>
     <imgdir name="5041003">
         <string name="name" value="[3-Day] VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered.\n Cooldown: 30 min  "/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You may add up to #c10# maps except for the ones with limited access. #cMirror World# is unavailable for teleport. \Cool Time: 30min"/>
     </imgdir>
     <imgdir name="5041004">
         <string name="name" value="[7-Day] VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. Excluding maps that are restricted from teleporting into, up to #c10# maps can be registered.\n Cooldown: 30 min  "/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You may add up to #c10# maps except for the ones with limited access. #cMirror World# is unavailable for teleport. \Cool Time: 30min"/>
     </imgdir>
     <imgdir name="5041005">
         <string name="name" value="[1-Day] Premium VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys,Ellinia,Perion,Kerning City,Nautilus,Orbis,Ludibrium,Aquarium,Leafre,Mu Lung,Ariant,Edelstein#. \n Cooldown: 30 min  "/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You can also teleport to a village you have not traveled yet. You may add up to #c13# maps except for the ones with limited access.\n#c&lt;Villages which you can teleport to&gt;#\n#cHenesis, Elinia, Perion, Cunning City, Notilus, Orbis, Rudibrium, Aquarium, Lifre, Mooreung, Arient, Edelstein# \n Cool Time: 30min \r\n*Caution: #cMirror World# is unavailable for teleport."/>
     </imgdir>
     <imgdir name="5041006">
         <string name="name" value="[3-Day] Premium VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys,Ellinia,Perion,Kerning City,Nautilus,Orbis,Ludibrium,Aquarium,Leafre,Mu Lung,Ariant,Edelstein#. \n Cooldown: 30 min  "/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You can also teleport to a village you have not traveled yet. You may add up to #c13# maps except for the ones with limited access.\n#c&lt;Villages which you can teleport to&gt;#\n#cHenesis, Elinia, Perion, Cunning City, Notilus, Orbis, Rudibrium, Aquarium, Lifre, Mooreung, Arient, Edelstein# \n Cool Time: 30min \r\n*Caution: #cMirror World# is unavailable for teleport."/>
     </imgdir>
     <imgdir name="5041007">
         <string name="name" value="[7-Day] Premium VIP Teleport Rock"/>
-        <string name="desc" value="#cA rock which allows you to teleport between continents#. Within the same channel, you can teleport to a map where a particular character is. You can even teleport to a town that you have not yet visited. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys,Ellinia,Perion,Kerning City,Nautilus,Orbis,Ludibrium,Aquarium,Leafre,Mu Lung,Ariant,Edelstein#. \n Cooldown: 30 min  "/>
+        <string name="desc" value="#cStone of Teleportation which ables even the intercontinental-movement#. You can teleport to the map where a specific character is located within the same channel. You can also teleport to a village you have not traveled yet. You may add up to #c13# maps except for the ones with limited access.\n#c&lt;Villages which you can teleport to&gt;#\n#cHenesis, Elinia, Perion, Cunning City, Notilus, Orbis, Rudibrium, Aquarium, Lifre, Mooreung, Arient, Edelstein# \n Cool Time: 30min \r\n*Caution: #cMirror World# is unavailable for teleport."/>
     </imgdir>
     <imgdir name="5044000">
         <string name="name" value="[1-Day] World Map Warp Drive"/>
-        <string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. Warping only works in certain areas.  \nCooldown: 30 min "/>
+        <string name="desc" value="Automatically teleport by double clicking the world map appeared when an item is double Clicked or the desired map on a regular world map. The teleport and usage are limited in certain maps including #cmirror world#. \ncool time : 30 mins "/>
     </imgdir>
     <imgdir name="5044001">
         <string name="name" value="[3-Day] World Map Warp Drive"/>
-        <string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. Warping only works in certain areas.  \nCooldown: 30 min "/>
+        <string name="desc" value="Automatically teleport by double clicking the world map appeared when an item is double Clicked or the desired map on a regular world map. The teleport and usage are limited in certain maps including #cmirror world#. \ncool time : 30 mins "/>
     </imgdir>
     <imgdir name="5044002">
         <string name="name" value="[7-Day] World Map Warp Drive"/>
-        <string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. Warping only works in certain areas.  \nCooldown: 30 min "/>
+        <string name="desc" value="Automatically teleport by double clicking the world map appeared when an item is double Clicked or the desired map on a regular world map. The teleport and usage are limited in certain maps including #cmirror world#. \ncool time : 30 mins "/>
     </imgdir>
     <imgdir name="5044006">
         <string name="name" value="World Map Warp Drive"/>
-        <string name="desc" value="Warps you to your desired location on the World Map upon use. Warping only works in certain areas. \nCooldown: 30 minutes "/>
+        <string name="desc" value="Automatically teleport by double clicking the desired map on a regular world map. The teleport and usage are limited in certain maps including #cmirror world#. \ncool time : 30 mins "/>
     </imgdir>
     <imgdir name="5044007">
         <string name="name" value="[7-Day] World Map Warp Drive"/>
-        <string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. Warping only works in certain areas. \nCooldown: 30 minutes\nThis cannot be stored in Cash Locker."/>
+        <string name="desc" value="Automatically teleport by double clicking the world map appeared when an item is double Clicked or the desired map on a regular world map. The teleport and usage are limited in certain maps including #cmirror world#. \ncool time : 30 mins. Teleport to cash locker is not possible."/>
     </imgdir>
     <imgdir name="5064200">
         <string name="name" value="Perfect Innocence Scroll"/>
         <string name="desc" value="It #cinitializes# every option of the target items to the standard ability level except the potential. Available for the Equipment item only; can be reverted to the pre-growth state in the case of the Growth items. \nBesides, not available for the items which is being applied with c#Karma scissors type, name tag, lock of seals#.  Additional options are not initialized."/>
+        <string name="autodesc" value="\r\n#cReset all the options of items to standar(except for potential ability)\r\n#"/>
     </imgdir>
     <imgdir name="5064300">
         <string name="name" value="Guardian Scroll"/>
         <string name="desc" value="A magic ward that protects a scroll when it fails. \nUsing this on a piece of equipment will allow you to keep the #cnext scroll used on it# when it fails #c1 time#. The protection effect disappears even after a successful scroll use.\nCan be used along with #cShielding Wards and Shield Scrolls#."/>
+        <string name="autodesc" value="\r\n#cPreserve the used scroll when the scroll usage fails\r\n#"/>
     </imgdir>
     <imgdir name="5152065">
         <string name="name" value="F/W Royal Face Coupon"/>
@@ -3465,7 +3477,7 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5155000">
         <string name="name" value="Carta&apos;s Pearl"/>
-        <string name="desc" value="This enchanted pearl lets an #cElf# become #chuman#. \nCarta will also let a #chuman# sprout #cElf ears#.\n\nIf you want to return your ears to their old appearance, you&apos;ll need to make a second wish with a #cnew pearl#. "/>
+        <string name="desc" value="Sea witch Karta&apos;s pearl which grants the wish of #cElf# who desires to change into #chuman figure#. \nKarta is said to be generous that she grants the wish of #cHuman# who desires to have #cElven ear#. \n\nIf one wants to go back to the original form, one must make a wish to #cnew pearl# again.\r\nfor #cZero,# alpha and beta are all subjected to."/>
     </imgdir>
     <imgdir name="5190010">
         <string name="name" value="Pet Buff Auto Skill"/>
@@ -3477,7 +3489,7 @@ For Fishing Assistant Use Only&quot;"/>
     </imgdir>
     <imgdir name="5240042">
         <string name="name" value="Pink Bean&apos;s Giant Rib"/>
-        <string name="desc" value="A fat, juicy rib that #cPink Bean# just goes crazy for. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+        <string name="desc" value="A fat, juicy rib that #cColor Bean# just goes crazy for. Recovers Fullness completely and #cincreases Closeness by 100#."/>
     </imgdir>
     <imgdir name="5240043">
         <string name="name" value="Corgi Cookie"/>
@@ -3661,6 +3673,7 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     <imgdir name="5063100">
         <string name="name" value="Lucky Shielding Ward"/>
         <string name="desc" value="Increases the chance of success for the next scroll used by #c10%# and #cprotects the item from being destroyed#. \nThe ward&apos;s effect will be consumed even after a successful scroll usage. Cannot be used with items that already have Shielding Ward or Lucky Day Scrolls applied. Cannot be used with #cEnhancement Scrolls#. "/>
+        <string name="autodesc" value="\r\n#cIncrease the success chance of the scroll used next, Prevent item destruction for one time\r\n#"/>
     </imgdir>
     <imgdir name="5121031">
         <string name="name" value="New Year&apos;s Festivities"/>
@@ -3690,7 +3703,7 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     </imgdir>
     <imgdir name="5240049">
         <string name="name" value="Blueberry"/>
-        <string name="desc" value="A sweet Blueberry that can only be consumed by the #cPirate Parrot#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
+        <string name="desc" value="A sweet Blueberry that can only be consumed by the #cRed Parrot#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
     </imgdir>
     <imgdir name="5530194">
         <string name="name" value="1 Scroll for Pet Equip. for ATT 60% Exchange Ticket"/>
@@ -3705,8 +3718,8 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
         <string name="desc" value="Trade in this coupon for 5 special tickets to Gold Richie&apos;s Treasure Vault, where the richest man in Maple World stores his stuff! Double-click to receive the tickets."/>
     </imgdir>
     <imgdir name="5530199">
-        <string name="name" value="Zakum Dungeon VIP Coupon"/>
-        <string name="desc" value="A coupon that you can exchange for a ticket which allows you to enter the Zakum dungeon 1 more time past the daily entrance limit. Can only be used if your character has fought Zakum at least once. Also grants a teleport scroll to the &apos;Entrance to Zakum&apos;s Altar&apos;. Maximum 5 additional entries each day."/>
+        <string name="name" value="Chaos Zakum Dungeon VIP Coupon"/>
+        <string name="desc" value="A coupon that you can exchange for a ticket which allows you to enter the Chaos Zakum dungeon 1 more time past the daily entrance limit. Can only be used if your character has fought Chaos Zakum at least once on the same day. Also grants a teleport scroll to the &apos;Entrance to Chaos Zakum&apos;s Altar&apos;. Maximum 5 additional entries each day."/>
     </imgdir>
     <imgdir name="5530200">
         <string name="name" value="Lion King Dungeon VIP Coupon"/>
@@ -3729,16 +3742,16 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
         <string name="desc" value="A box with 1 of 5 surprise Christmas hats inside. Merry Christmas!"/>
     </imgdir>
     <imgdir name="5533007">
-        <string name="name" value="Zoo Hat Box"/>
-        <string name="desc" value="A box with 1 of 5 surprise animal hats inside."/>
+        <string name="name" value="Heavenly Wing Box"/>
+        <string name="desc" value="Double click to obtain a Heavenly Wing."/>
     </imgdir>
     <imgdir name="5252000">
         <string name="name" value="Maple Mini Dungeon Ticket"/>
         <string name="desc" value="A ticket that gives access to the Mini Dungeon during the duration of the event. The entrance to the Mini Dungeon will be blocked unless this item is in possession.  Ticket will disappear after entering the Mini Dungeon through NPC Lepree."/>
     </imgdir>
     <imgdir name="5252007">
-        <string name="name" value="Dungeon Ticket (For Party)"/>
-        <string name="desc" value="A ticket that&apos;s required to enter the Mini Dungeon during the event period. Without this, you won&apos;t be able to fully participate in the event."/>
+        <string name="name" value="Maple Mini Dungeon Party Ticket"/>
+        <string name="desc" value="A ticket that gives access to the Mini Dungeon for your entire party during the duration of the event. The entrance to the Mini Dungeon will be blocked unless this item is in possession.  Ticket will disappear after entering the Mini Dungeon through NPC Lepree."/>
     </imgdir>
     <imgdir name="5150072">
         <string name="name" value="Vacation hair Coupon"/>
@@ -3770,15 +3783,15 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     </imgdir>
     <imgdir name="5771000">
         <string name="name" value="Supernova Dust"/>
-        <string name="desc" value="Sprinkle some of this dust on Jett&apos;s Core to randomly reconfigure its stats to become more powerful. If Jett is at least Lv. 120 and the Core has been completed, this dust also has a chance to increase stat ranks."/>
+        <string name="desc" value="Sprinkle some of this dust on ZEN&apos;s Core to randomly reconfigure its stats to become more powerful. If Jett is at least Lv. 120 and the Core has been completed, this dust also has a chance to increase stat ranks."/>
     </imgdir>
     <imgdir name="5771001">
         <string name="name" value="Condensed Supernova Dust"/>
-        <string name="desc" value="Sprinkle some of this dust on Jett&apos;s Core to reconfigure its stats to the highest possible. This dust will not affect stat ranks."/>
+        <string name="desc" value="Sprinkle some of this dust on ZEN&apos;s Core to reconfigure its stats to the highest possible. This dust will not affect stat ranks."/>
     </imgdir>
     <imgdir name="5771002">
-        <string name="name" value="女媧的白土甕"/>
-        <string name="desc" value="甕子中裝有曾經被女媧用來創造世人的神奇白土。在寶盒灑上女媧的白土會設定為最高等級的能力值。俠客等級達120且當寶盒的八卦是陽卦的話，也不會調整等級。"/>
+        <string name="name" value="Nuwa&apos;s Supernova Dust"/>
+        <string name="desc" value="The legendary dust that the Goddess Nuwa used to create humans. This dust will reconfigure the Core&apos;s stats to the most powerful. Only usable if ZEN is at least level 120 and the Core have been completed, this dust does not increase stat ranks."/>
     </imgdir>
     <imgdir name="5772000">
         <string name="name" value="Cosmic Dust Shifter"/>
@@ -3825,12 +3838,12 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
         <string name="desc" value="Maintains #cRank A or lower# Inner Potentials when reconfiguring with a Circulator. \n#cDouble click# to protect and increase the #cRank# of one Inner Potential that is currently Rank A or lower. \nThe Rank protection effect will disappear after one #creconfiguration# with the Circulator."/>
     </imgdir>
     <imgdir name="5062400">
-        <string name="desc" value="This item enables you to fuse #cEquipment items of the same kind (gender)# to change their #cAppearance#. The resulting item&apos;s effects are determined by the Function item. Fusing items with the same Appearance results in the same appearance.  \nFusible Equipment Types: Total 12 - Hat, Eye Accessory, Face Accessory, Top, Bottoms, Overall, Shoes, Gloves, Cape, Weapon, Shield, and Blade"/>
         <string name="name" value="Fusion Anvil"/>
+        <string name="desc" value="An item that #ccan combine the equipment appearance onto another, within the same category#. Equipment stats is retained in the &apos;Function&apos; slot. Items with the same look can still be combined. \nCategories that can be used: Hat, Eye Accessory, Face Accessory, Top, Bottom, Overall, Shoes, Gloves, Robe, Weapon, Shield and Blade.\r\n#c*Caution: Zero&apos;s weapon cannot be combined.#"/>
     </imgdir>
     <imgdir name="5062403">
         <string name="name" value="[MS Special] Fusion Anvil"/>
-        <string name="desc" value="This item enables you to fuse #cEquipment items of the same kind (gender)# to change #cAppearance#. The resulting item&apos;s effects are determined by the Function item. Fusing items with the same Appearance results in the same appearance. \nFusible Equipment Types: Total 12 - Hat, Eye Accessory, Face Accessory, Top, Bottoms, Overall, Shoes, Gloves, Cape, Weapon, Shield, and Blade"/>
+        <string name="desc" value="An item that #ccan combine the equipment appearance onto another, within the same category#. Equipment stats is retained in the &apos;Function&apos; slot. Items with the same look can still be combined. \nCategories that can be used: Hat, Eye Accessory, Face Accessory, Top, Bottom, Overall, Shoes, Gloves, Robe, Weapon, Shield and Blade.\r\n#c*Caution: Zero&apos;s weapon cannot be combined.#"/>
     </imgdir>
     <imgdir name="5062501">
         <string name="name" value="[MS Special] Master Additional Miracle Cube"/>
@@ -3847,7 +3860,7 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     </imgdir>
     <imgdir name="5133000">
         <string name="name" value="Buff Freezer"/>
-        <string name="desc" value="Any #buffs# you had before being resurrected will #ccarry over# when you use this after death. \n#cSome# of the buffs, including family buff skills, will not carry over. You will automatically be asked if you want to use the item before resurrection."/>
+        <string name="desc" value="Most #buffs# you had before being resurrected will #ccarry over# when you use this. \n#cSome# buffs will not carry over. You will automatically be asked if you want to use the item before resurrection. "/>
     </imgdir>
     <imgdir name="5150065">
         <string name="name" value="Styling Royal Hair Coupon"/>
@@ -3867,7 +3880,7 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     </imgdir>
     <imgdir name="5240053">
         <string name="name" value="Bandit Cup Ramen"/>
-        <string name="desc" value="A salty cup of noodles favored by the #cBandit#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
+        <string name="desc" value="A salty cup of noodles favored by the #cChunky#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
     </imgdir>
     <imgdir name="5240054">
         <string name="name" value="Sanchito Veggies"/>
@@ -4135,7 +4148,7 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     </imgdir>
     <imgdir name="5530360">
         <string name="name" value="Special Additional Potential Addition Parchment"/>
-        <string name="desc" value="This magic parchment creates a #c100% chance# of adding Additional Potentials to Equipment items that have no Additional Potential without degrading their available Upgrade count. Adds #c3 lines of Additional Potential# to #citems that have no Additional Potential#.\r\n#cDouble-click the item in the Cash window to obtain it in the Use window.#"/>
+        <string name="desc" value="Adds 3 lines of Bonus Potential to a regular piece of equipment with Potential but no Bonus Potentials. \r\nDoes not deduct from the available upgrade count. \r\n\Success Rate: 100%. \r\n#cDouble-click the scroll in your Cash tab to move it to your Use tab.#"/>
     </imgdir>
     <imgdir name="5530365">
         <string name="name" value="Special Pendant of the Spirit Coupon (7 Days)"/>
@@ -4535,12 +4548,12 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
         <string name="desc" value="#cDouble-click# this to receive #c[Mastery Book] Snipe 20#."/>
     </imgdir>
     <imgdir name="5680113">
-        <string name="name" value="Chain Lightning 20 Mastery Book Coupon "/>
         <string name="desc" value="#cDouble-click# this to receive #c[Mastery Book] Chain Lightning 20#."/>
+        <string name="name" value="Chain Lightning 20 Mastery Book Coupon"/>
     </imgdir>
     <imgdir name="5680114">
-        <string name="name" value="Glacier Chain 20 Mastery Book Coupon "/>
         <string name="desc" value="#cDouble-click# this to receive #c[Mastery Book] Glacier Chain 20#."/>
+        <string name="name" value="Glacier Chain 20 Mastery Book Coupon"/>
     </imgdir>
     <imgdir name="5680115">
         <string name="name" value="Elquines 20 Mastery Book Coupon"/>
@@ -4666,7 +4679,7 @@ Can obtain 1 Miracle Cube Fragment each time the cube is used."/>
     </imgdir>
     <imgdir name="5040000">
         <string name="name" value="The Teleport Rock"/>
-        <string name="desc" value="Remembers 5 maps of your choice. This rock will enable you to #cteleport to the map you remembered#. It can even allow you to #cmove to the map where a certain character is#, provided that the person is in the same channel at the same world. This item cannot be used to teleport in between continents."/>
+        <string name="desc" value="A stone which can remember 5 maps and able to #teleport to cremembering maps# anytime.. May #cteleport to a map where a specific characeter is located# in the same world or channel. However, teleporting to #cmirror world# is not possible."/>
     </imgdir>
     <imgdir name="5040001">
         <string name="name" value="Teleport Coke"/>
@@ -4854,15 +4867,15 @@ This pack commemorates the introduction of Monster Familiars.\nContains 4 fixed 
     </imgdir>
     <imgdir name="5240029">
         <string name="name" value="Golden Drumstick"/>
-        <string name="desc" value="Yummy drumstick only #cFu An Tiger# can eat. Fills up the Fullness, while #craising Closeness by 100.#"/>
+        <string name="desc" value="Yummy drumstick only #cBaby Tiger# can eat. Fills up the Fullness, while #craising Closeness by 100.#"/>
     </imgdir>
     <imgdir name="5240030">
         <string name="name" value="Bread"/>
-        <string name="desc" value="A slice of freshly baked bread that can only be eaten by #cWhite Duck#. Recovers &quot;fullness&quot; completely and #cincreases closeness by 100#."/>
+        <string name="desc" value="A slice of freshly baked bread that can only be eaten by #cScuba Ducky#. Recovers &quot;fullness&quot; completely and #cincreases closeness by 100#."/>
     </imgdir>
     <imgdir name="5240032">
         <string name="name" value="Caviar"/>
-        <string name="desc" value="Only eligible for the pet Skunk. \nIncrease 100 Closeness."/>
+        <string name="desc" value="Only eligible for the pet #cSkunk#. \nIncrease 100 Closeness."/>
     </imgdir>
     <imgdir name="5240041">
         <string name="name" value="Meat"/>
@@ -4870,7 +4883,7 @@ This pack commemorates the introduction of Monster Familiars.\nContains 4 fixed 
     </imgdir>
     <imgdir name="5240068">
         <string name="name" value="Bone"/>
-        <string name="desc" value="Delicious food that is specially formulated for #cAbel/Axel/Adel#. Completely restores Fullness, and #cincreases Closeness by 100#."/>
+        <string name="desc" value="Delicious food that is specially formulated for #cAbel ,Adel ,Axel#. Completely restores Fullness, and #cincreases Closeness by 100#."/>
     </imgdir>
     <imgdir name="5251011">
         <string name="name" value="Capsule Toy Ticket"/>
@@ -5032,8 +5045,8 @@ This pack commemorates the introduction of Monster Familiars.\nContains 4 fixed 
         <string name="desc" value="Double-Click to exchange with a  Santa&apos;s Sleigh Coupon.(Permanant)"/>
     </imgdir>
     <imgdir name="5530162">
-        <string name="name" value="Jr. Balrog Scroll "/>
         <string name="desc" value="Turns the player into the terrifying Jr. Balrog."/>
+        <string name="name" value="Jr. Balrog Scroll"/>
     </imgdir>
     <imgdir name="5530163">
         <string name="name" value="Mutant Ribbon Pig Scroll"/>
@@ -5056,8 +5069,8 @@ This pack commemorates the introduction of Monster Familiars.\nContains 4 fixed 
         <string name="desc" value="Turns the player into the terrifying Black Knight."/>
     </imgdir>
     <imgdir name="5530168">
-        <string name="name" value="Rotting Skeleton Scroll "/>
         <string name="desc" value="Turns the player into the terrifying Rotting Skeleton."/>
+        <string name="name" value="Rotting Skeleton Scroll"/>
     </imgdir>
     <imgdir name="5530169">
         <string name="name" value="Olivia Scroll"/>
@@ -5117,19 +5130,19 @@ This pack commemorates the introduction of Monster Familiars.\nContains 4 fixed 
     </imgdir>
     <imgdir name="5240073">
         <string name="name" value="Bear Honey Pot"/>
-        <string name="desc" value="Made especially for Pet #cBears#, this pot full of sweet honey fully restores Fullness and adds #c100 Closeness#."/>
+        <string name="desc" value="Made especially for Pet #cBeige Bear ,Pink Bear ,Blue Bear#, this pot full of sweet honey fully restores Fullness and adds #c100 Closeness#."/>
     </imgdir>
     <imgdir name="5240074">
         <string name="name" value="Hot Pumpkin Porridge"/>
-        <string name="desc" value="Made especially for Pet #cPumpkins#, this hot porridge fully restores Fullness and adds #c100 Closeness#."/>
+        <string name="desc" value="Made especially for Pet #cPumpkin Jack ,Pumpkin O&apos; ,Pumpkin#, this hot porridge fully restores Fullness and adds #c100 Closeness#."/>
     </imgdir>
     <imgdir name="5250500">
         <string name="name" value="House Wedding Ticket"/>
-        <string name="desc" value="This ticket will give you and your loved ones a simple wedding in a small wedding hall. #cDouble-click# on this in the new wedding park to propose. The bride and groom will receive an #cEternal Wedding Ring# after the wedding."/>
+        <string name="desc" value="A ticket for a simple wedding at a small chapel. #cDouble Click# on ticket at new wedding park to propose. #cEternal wedding rings# are given to bride and groom after the wedding.\r\n*Caution: zero cannot use#"/>
     </imgdir>
     <imgdir name="5390010">
         <string name="name" value="Ghost Megaphone"/>
-        <string name="desc" value="Haunt the channel! Your message is heard by everyone on the channel and a ghost icon is displayed."/>
+        <string name="desc" value="A ghost! Too spooky! Use this item to display your character image along with a message to the entire world. "/>
     </imgdir>
     <imgdir name="5431003">
         <string name="name" value="Character Card (Lv. 50)"/>
@@ -5237,14 +5250,17 @@ Allows you to create a character with an item that will level the character up t
     <imgdir name="5064002">
         <string name="name" value="Shielding Ward Lite"/>
         <string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment with a #cLevel 105 requirement or less# protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it #ccannot be used on items that have been successfully enhanced 12 or more times or on the superior items.# \nCan be used along with #cShield Scrolls and Guardian Scrolls#."/>
+        <string name="autodesc" value="\r\n#cPrevent item destruction for one time\r\n#"/>
     </imgdir>
     <imgdir name="5064101">
         <string name="name" value="Shield Scroll Lite"/>
         <string name="desc" value="Using this on a piece of #level 105 or below# equipment protects it from having its #cupgrade count# reduced #c1 time# when a scroll fails.  The protective aura also disappears after one use, even if the scroll is successful. \nCan be used along with #cShielding Wards and Guardian Scrolls#."/>
+        <string name="autodesc" value="\r\n#cPrevent reduction of upgrade availability count for one time\r\n#"/>
     </imgdir>
     <imgdir name="5064003">
         <string name="name" value="Superior Shielding Ward"/>
-        <string name="desc" value="A #csuperior item# magical shield. Using this on a piece of superior equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it #ccannot be used on items that have been successfully enhanced 7 or more times.# \nCan be used along with #cShield Scrolls and Guardian Scrolls#."/>
+        <string name="desc" value="A #csuperior item# magical shield. Using this on a piece of superior equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it #ccannot be used on items that have been successfully enhanced 7 or more times.# \n Does not work together with Pam&apos;s Song and Seal Locked Items."/>
+        <string name="autodesc" value="\r\n#cPrevent item destruction for one time\r\n#"/>
     </imgdir>
     <imgdir name="5062103">
         <string name="name" value="Fantastic Miracle Cube"/>
@@ -5282,17 +5298,36 @@ Allows you to create a character with an item that will level the character up t
         <string name="name" value="Cynical Compact"/>
         <string name="desc" value="Double-click to shift the Angelic Buster&apos;s #cDress-Up Mode#, transforming it with a lovely, glistening effect trailing after it.\nOnly the Angelic Buster can use the Cynical Compact."/>
     </imgdir>
+    <imgdir name="5830000">
+        <string name="desc" value="The Maple Auction Silver Ticket offers the following benefits for #c1 day#.\n-#cService fee discount#: 5% to #c3%#\n-#cUnlimited searches#\n-#cAdditional auction slots#: 10 purchase and 10 sell slots\n-#cAdvanced searches#\n-#cAuction bidding time extension#: 24 and 48 hours"/>
+        <string name="name" value="Maple auction silver ticket"/>
+    </imgdir>
+    <imgdir name="5830001">
+        <string name="desc" value="The Maple Auction Gold Ticket offers the following benefits for #c7 days#.\n-#cService fee discount#: 5% to #c3%#\n-#cUnlimited searches#\n-#cAdditional auction slots#: 10 purchase and 10 sell slots\n-#cAdvanced searches#\n-#cAuction bidding time extension#: 24 and 48 hours"/>
+        <string name="name" value="Maple auction gold ticket"/>
+    </imgdir>
+    <imgdir name="5830002">
+        <string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days#.\n-#cService fee discount#: 5% to #c3%#\n-#cUnlimited searches#\n-#cAdditional auction slots#: 10 purchase and 10 sell slots\n-#cAdvanced searches#\n-#cAuction bidding time extension#: 24 and 48 hours"/>
+        <string name="name" value="Maple auction red ticket"/>
+    </imgdir>
+    <imgdir name="5010110">
+        <string name="name" value="Rhinne&apos;s Blessing"/>
+        <string name="desc" value="An item from which Rhinne&apos;s warm blessing can be felt.\nDouble click to toggle the effect On/Off"/>
+    </imgdir>
     <imgdir name="5064201">
         <string name="name" value="Innocence Scroll Lite"/>
         <string name="desc" value="It #cinitializes# every option of the target items to the standard ability level except the potential. Available for the Equipment item with #climited wear level of 105 or below# only; can be reverted to the pre-growth state in the case of the Growth items. \nBesides, not available for the items which is being applied with c#Karma scissors type, name tag, lock of seals#. Additional options are not initialized."/>
+        <string name="autodesc" value="\r\n#cReset all the options of items to standar(except for potential ability)\r\n#"/>
     </imgdir>
     <imgdir name="5064301">
         <string name="name" value="Guardian Scroll Lite"/>
         <string name="desc" value="A magic ward that protects a scroll when it fails. \nUsing this on a piece of #level 105 or below# equipment protects the #cnext scroll from failure# #c1 time#. The protective aura also disappears after one use, even if the scroll is successful.\nCan be used along with #cShielding Wards and Shield Scrolls#."/>
+        <string name="autodesc" value="\r\n#cPreserve the used scroll when the scroll usage fails\r\n#"/>
     </imgdir>
     <imgdir name="5064400">
         <string name="name" value="Return Scroll"/>
-        <string name="desc" value="If you use a scroll after #cdragging &amp; dropping# the Return Scroll, depending on your choice, you can restore #call of the item options to their pre-scroll valures, excluding Potentials#. However, once it is used, the effect of the Return Scroll disappears regardless of the result. \nWhen you use Return Scroll, you can only return item options that was changed by the #cscroll which deducted the number of available upgrade# and it can not be used along with #cShield Scroll#. It is restricted to use on #csupplied Tutorial Equipment Item# and some other items. "/>
+        <string name="desc" value="When return scroll is used through #cdrag and drop# before a scroll is used, #cdepending on the choice# in case the scroll works or not, returns the #call the options except for potential ability# back to #cBefore using the scroll.# \n But, #citem options# changed from using #scrolls which reduces upgrade availability counts# can be returned. Whether it has succeeded or failed, the return scrool effect is gone after one usage. \nAso, #cTutorial equipment items# and some items are prohibited from the usage, and cannot be used together with #cSafety shield#."/>
+        <string name="autodesc" value="\r\n#cCan select before/after the usage when using a scroll\r\n#"/>
     </imgdir>
     <imgdir name="5190011">
         <string name="name" value="Pet Training Skill"/>
@@ -5353,14 +5388,17 @@ Allows you to create a character with an item that will level the character up t
     <imgdir name="5068000">
         <string name="name" value="Pet Lucky Day Scroll"/>
         <string name="desc" value="Increases the success rate of your next scroll by 10%.\nOnly usable on #cpet equipment#."/>
+        <string name="autodesc" value="\r\n#cIncrease the success chance of the scroll used next\r\n#"/>
     </imgdir>
     <imgdir name="5068100">
         <string name="name" value="Pet Shield Scroll"/>
         <string name="desc" value="A magic ward that protects an item. Using this on a piece of #cpet equipment# protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use. \nCan be used along with #cGuardian Scroll#."/>
+        <string name="autodesc" value="\r\n#cPrevent reduction of upgrade availability count for one time\r\n#"/>
     </imgdir>
     <imgdir name="5068200">
         <string name="name" value="Pet Guardian Scroll"/>
         <string name="desc" value="A magic ward that protects a scroll when it fails. \nUsing this on a piece of #cpet equipment# will allow you to keep the #cnext scroll used on it# when it fails #c1 time#. The protection effect disappears even after a successful scroll use.\nCan be used along with #cShield Scroll#."/>
+        <string name="autodesc" value="\r\n#cPrevent used scroll from disappearing\r\n#"/>
     </imgdir>
     <imgdir name="5121035">
         <string name="name" value="Double Miracle Time Blessing"/>
@@ -5616,8 +5654,16 @@ Allows you to create a character with an item that will level the character up t
         <string name="desc" value="Rustling of maple leaf-shaped tailfox. Double-click the icon or specifiy it with a shortcut key in the Settings menu to set ON/OFF."/>
     </imgdir>
     <imgdir name="5010108">
-        <string name="name" value="I am the star."/>
-        <string name="desc" value="I am the star! Double-click the icon or specifiy it with a shortcut key in the Settings menu to set ON/OFF."/>
+        <string name="name" value="I Am A Star"/>
+        <string name="desc" value="Show the world that you are the star! Double click on the item or on the Key Config, conffigure this on a button of your choice to turn the effect on//off."/>
+    </imgdir>
+    <imgdir name="5010109">
+        <string name="desc" value="Let&apos;s experience a trip to paris! Double Click the icon or select a shortcut on settings to ON/OFF."/>
+        <string name="name" value="Je-taime paris effect."/>
+    </imgdir>
+    <imgdir name="5010111">
+        <string name="desc" value="South country can be experience even in the middle of the antarctic! Double Click the icon or select a shortcut on settings to ON/OFF."/>
+        <string name="name" value="Let&apos;s go on a trip&apos; panel"/>
     </imgdir>
     <imgdir name="5030028">
         <string name="name" value="Panda Hire Shop: 7-Day Ticket"/>
@@ -5632,8 +5678,8 @@ Allows you to create a character with an item that will level the character up t
         <string name="desc" value="Combined with the magic box, the stone gives#cone of the various amazing items#. Double-clicking the stone drops the monsters or combine with the #cMagic box# to get an item which can be obtained via quest."/>
     </imgdir>
     <imgdir name="5060022">
-        <string name="name" value="Elf&apos;s Carafe"/>
-        <string name="desc" value="Filling the carafe with the elf&apos;s eye drops gives #cone of the rare items#. #cDouble-click# the elf&apos;s carafe, place #celf&apos;s eye drops# in the popup window to get to get an item. The elf&apos;s eye drops can be obtained from monster hunting or purchased from the grocery store in town."/>
+        <string name="name" value="Fairy Water Bottle"/>
+        <string name="desc" value="Filling the  water bottle with #cFairy Tear# to obtain a rare item. Place the #cFairy Tear# in the popup window to get an item. You can obtain the #cFairy Tear# from the grocery store in town."/>
     </imgdir>
     <imgdir name="5060023">
         <string name="name" value="Stone of Chaos Purification"/>
@@ -5645,7 +5691,7 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5060025">
         <string name="name" value="Magic Harp"/>
-        <string name="desc" value="Placing a magic note on the magic harp gives #cone of the rare items#. Everytime the magic harp is used, the magic power is charged to the harp; Charging up to 100% triggers the Pever System to give significant possibility to win the special item of the month. #cDouble-click# the magic harp and place the #cMagic note# in the popup window to get an item. The magic note can be obtained from monster hunting or purchased from the grocery store in town."/>
+        <string name="desc" value="Placing a magic note on the magic harp gives #cone of the rare items#. Everytime the magic harp is used, the magic power is charged to the harp; charging it to 100% triggers the Fever System which gives significant possibility to win the special item of the month. #cDouble-click# the magic harp and place the #cMagic note# in the popup window to get an item. The magic note can be obtained from monster hunting or purchased from the grocery store in town."/>
     </imgdir>
     <imgdir name="5060026">
         <string name="name" value="Miracle Stone"/>
@@ -5657,7 +5703,7 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5060028">
         <string name="name" value="Pandora&apos;s Box"/>
-        <string name="desc" value="Placing the pandora&apos;s key gives #cone of the rare items#. Everytime the Pandora&apos;s Box is opened, the magic power is charged to the box; Charging up to 100% triggers the Pever System to give significant possibility to win the special item of the month. #cDouble-click# Pandora&apos;s box and place the #cPandora&apos;s Key# to get an item. Pandora&apos;s Box can be obtained from monster hunting or purchased from the grocery store in town."/>
+        <string name="desc" value="When pandora&apos;s key is inserted in pandora&apos;s box, #cone of rare items# can be obtained. Magical power is recharged everytime pandora&apos;s box is opened, when charged 100% fever system is invoked and #cdramatically increases the chance of receiving this month&apos;s special item#. Pandora&apos;s box can be used by a Double Click, and pandora&apos;s key can be obtained from monster hunt or from village goods store."/>
     </imgdir>
     <imgdir name="5060029">
         <string name="name" value="Effie&apos;s box"/>
@@ -5670,6 +5716,14 @@ Allows you to create a character with an item that will level the character up t
     <imgdir name="5062006">
         <string name="name" value="Platinum Miracle Cube"/>
         <string name="desc" value="The ultimate cube that sets new potential for equipment items. It is more likely the rank gets higher than the Miracle Cube; the entire potential can be set as #cthe most highest one#that can be obtained in the current rank.\n#cThe ranks from Rare to Legendary are allowed to use the item# \n#cTop Rated Output: Legendary#"/>
+    </imgdir>
+    <imgdir name="5062009">
+        <string name="name" value="RED Cube"/>
+        <string name="desc" value="A mysterious cube which newly resets the potential ability of equipment items. \n#cCan be used on items between Rare level and Legendary# \n#cResults in the highest level: legendary#"/>
+    </imgdir>
+    <imgdir name="5062010">
+        <string name="name" value="Black Cube"/>
+        <string name="desc" value="A mysterious cube which newly resets the potential ability of equipment items. Black cube has better performance than red cube, When used, can #cdecide weather to apply the reset potential ability on item# after resetting the potential ability. However, it has no effect on additional potential ability. \n#cCan be used on items between Rare level and Legendary# \n#cResults in the highest level: legendary#"/>
     </imgdir>
     <imgdir name="5062090">
         <string name="name" value="Memorial Cube"/>
@@ -5718,6 +5772,16 @@ Allows you to create a character with an item that will level the character up t
         <string name="desc" value="Scoop1"/>
         <string name="msg" value="%s"/>
     </imgdir>
+    <imgdir name="5120116">
+        <string name="name" value="Informer"/>
+        <string name="desc" value="Informer"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120117">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
     <imgdir name="5121036">
         <string name="name" value="Arctic Friends"/>
         <string name="desc" value="Increases Physical Damage +80, Magic Attack +80 of characters&apos; in the map for 30 minutes. You can enter your desired message."/>
@@ -5758,15 +5822,31 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5150093">
         <string name="name" value="April Royal Hair Coupon"/>
-        <string name="desc" value="#cBring it to Big Headward at Genesis Hair Shop# the hair will be changed to one of the April Royal hair styles for once #cat random#. Double-clicking a coupon sold in the Cash Shop, you can #cpreview# the characters."/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# April Royal hairstyle in exchange for this coupon! Double-click it in the Cash Shop for a #cpreview!#"/>
     </imgdir>
     <imgdir name="5150094">
         <string name="name" value="Trendy Royal Hair Coupon"/>
-        <string name="desc" value="#cBring it to Big Headward at Genesis Hair Shop# the hair will be changed for once #cat random#. Double-clicking a coupon sold in the Cash Shop, you can #cpreview# the characters. \r\n#cThe contents of the Trendy Royal Hair Coupon is replaced once every specified period. (For details, please check the website notice about cash items.)#"/>
+        <string name="desc" value="Take it to #cHenesis hairshop&apos;s big headward#, and change the hair #crandomly# for one time. Double Click the coupon sold at cash shop for character #cpreview#. "/>
     </imgdir>
     <imgdir name="5150096">
         <string name="name" value="May Royal Hair Coupon"/>
-        <string name="desc" value="#cBring it to Big Headward at Genesis Hair Shop# the hair will be changed to one of the May Royal hair styles for once #cat random#. Double-clicking a coupon sold in the Cash Shop, you can #cpreview# the characters."/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# May Royal hairstyle in exchange for this coupon! Double-click it in the Cash Shop for a #cpreview!#"/>
+    </imgdir>
+    <imgdir name="5150099">
+        <string name="desc" value="Take it to #cHenesis hairshop&apos;s big headward#, and change the hair #crandomly# among june royal hair for one time. Double Click the coupon sold at cash shop for character #cpreview#. "/>
+        <string name="name" value="June royal hair coupon"/>
+    </imgdir>
+    <imgdir name="5150101">
+        <string name="desc" value="Take it to #cHenesis hairshop&apos;s big headward#, and change the hair #crandomly# among july royal hair for one time. Double Click the coupon sold at cash shop for character #cpreview#. "/>
+        <string name="name" value="July royal hair coupon"/>
+    </imgdir>
+    <imgdir name="5150104">
+        <string name="name" value="RED Royal Hair Coupon"/>
+        <string name="desc" value="Take it to #cHenesis hairshop&apos;s big headward#, and change the hair #crandomly# among RED royal hair for one time. Double Click the coupon sold at cash shop for character #cpreview#. "/>
+    </imgdir>
+    <imgdir name="5150106">
+        <string name="desc" value="Take it to #cHenesis hairshop&apos;s big headward#, and change the hair #crandomly# among august royal hair for one time. Double Click the coupon sold at cash shop for character #cpreview#. "/>
+        <string name="name" value="August royal hair coupon"/>
     </imgdir>
     <imgdir name="5152081">
         <string name="name" value="Premium PC Room Plastic Surgery Coupon"/>
@@ -5794,7 +5874,19 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5152091">
         <string name="name" value="Trendy Royal Plastic Surgery Coupons"/>
-        <string name="desc" value="#cBring it to Plastic Roy at Orbis Plastic Surgery#, the face will be changed once #cat random#. Double-clicking a coupon sold in the Cash Shop, you can #cpreview# the characters. \r\n#cThe contents of the Trendy Royal Plastic Surgery Coupon is replaced once every specified period. (For details, please check the website notice about cash items.)#"/>
+        <string name="desc" value="Take it to #cplastic roy of orbis plastic surgery#, and change the face in #crandome# for one time. Double Click the coupon sold at cash shop for character #cpreview#. \r\n#cTrendy royal plastic surgery coupons&apos; contents are changed regularly in set term. (refer to webpage cash item notice for more detail.)#"/>
+    </imgdir>
+    <imgdir name="5152094">
+        <string name="name" value="RED Royal Plastic Surgery Coupon"/>
+        <string name="desc" value="Take it to #cplastic roy of orbis plastic surgery#, and change the face in #crandome# for one time. Double Click the coupon sold at cash shop for character #cpreview#. \r\n#cTrendy royal plastic surgery coupons&apos; contents are changed regularly in set term. (refer to webpage cash item notice for more detail.)#"/>
+    </imgdir>
+    <imgdir name="5152095">
+        <string name="name" value="Murr Murr Plastic Surgery Coupon"/>
+        <string name="desc" value="Take this to #cPlastic Roy of Orbis Plastic Surgery# for 1 #cOtherworld Handsome Face# do over.\n#cThe item cannot be traded#."/>
+    </imgdir>
+    <imgdir name="5152096">
+        <string name="name" value="Nine-Tailed Fox Plastic Surgery Coupon"/>
+        <string name="desc" value="Take this to #cPlastic Roy of Orbis Plastic Surgery# for 1 #cNine-Tailed Fox Face# do over.\n#cThe item cannot be traded#."/>
     </imgdir>
     <imgdir name="5230003">
         <string name="name" value="Tote&apos;s Owl"/>
@@ -5802,31 +5894,31 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5240077">
         <string name="name" value="Koala Grass"/>
-        <string name="desc" value="A pool of fresh green grass only #ckoalas# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="A pool of fresh green grass only #cMint Koala ,Yellow Koala ,Pink Koala# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240078">
         <string name="name" value="Acorn"/>
-        <string name="desc" value="Acorn fruits that only #csquirrels# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="Acorn fruits that only #cSquirrel R ,Squirrel E ,Squirrel D# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240081">
         <string name="name" value="Gold Soul Candy"/>
-        <string name="desc" value="A mysterious Gold Soul Candy that only #cangel Noel# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="A mysterious Gold Soul Candy that only #cAngel Noel# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240082">
         <string name="name" value="Apple Soul Candy"/>
-        <string name="desc" value="A mysterious Apple Soul Candy that only #cangel Rael# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="A mysterious Apple Soul Candy that only #Aangel Rael# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240083">
         <string name="name" value="Pitch Soul Candy"/>
-        <string name="desc" value="A mysterious Pitch Soul Candy that only #cangel Miel# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="A mysterious Pitch Soul Candy that only #Aangel Miel# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240084">
         <string name="name" value="Rooty&apos;s Energy Bar"/>
-        <string name="desc" value="An energy bar that only #cPink Rooty, Mint Rooty and Purple Rooty# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="An energy bar that only #cPink Rooty ,Cyan Rooty ,Purple Rooty# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240085">
         <string name="name" value="Pure Soul"/>
-        <string name="desc" value="The pure soul that only #cPetit Red, Petit Blue and Petit Purple# can eat.  Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="The pure soul that only #cPetite Red ,Petite Blue ,Petit Purple# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
     </imgdir>
     <imgdir name="5240086">
         <string name="name" value="Ginger Bread Crumbs"/>
@@ -5834,11 +5926,23 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5240087">
         <string name="name" value="Fruit of World Tree"/>
-        <string name="desc" value="The Fruit of World Tree that only c#Bloody Queen, BanBan and Pierre# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+        <string name="desc" value="Fruit of world tree which only #cBloody Queen ,Ban Ban ,Pierre ,banban of hot summer day# can eat. Fully recovers the satiety and #cincreases familiarity by 100#."/>
     </imgdir>
     <imgdir name="5240088">
         <string name="name" value="Ribbit Ribbit"/>
         <string name="desc" value="The Ribbit Ribbits that only #cCutie Snakes# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+    </imgdir>
+    <imgdir name="5240089">
+        <string name="desc" value="ice cookie only #cice knight# can eat. Fully recovers the satiety and #cincreases familiarity by 100#."/>
+        <string name="name" value="Ice cookie"/>
+    </imgdir>
+    <imgdir name="5240091">
+        <string name="name" value="Berry Berry"/>
+        <string name="desc" value="Fresh berries which only#cR.Armadillo ,L.Armadillo ,G.Armadillo# can eat. Fully recovers the satiety and #cincreases familiarity by 100#."/>
+    </imgdir>
+    <imgdir name="5240092">
+        <string name="name" value="Petite Hotdog"/>
+        <string name="desc" value="delicious hot dog only #cJr.Von Leon ,Jr.Orchid ,Jr.Hila# can eat. Fully recovers the satiety and #cincreases familiarity by 100#."/>
     </imgdir>
     <imgdir name="5390000">
         <string name="name" value="Burning Megaphone"/>
@@ -6476,6 +6580,78 @@ Allows you to create a character with an item that will level the character up t
         <string name="name" value="10th Anniversary Celebration Cake Chair Voucher"/>
         <string name="desc" value="Double-clicking it, you can get the 10th Anniversary Celebration Cake Chair"/>
     </imgdir>
+    <imgdir name="5530589">
+        <string name="desc" value="Double Click to receive je-taime paris effect."/>
+        <string name="name" value="Je-taime paris effect exchange coupon"/>
+    </imgdir>
+    <imgdir name="5530590">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530591">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530592">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530593">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530594">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530595">
+        <string name="name" value="[30 day]red rose speech bubble Ring exchange coupon"/>
+        <string name="desc" value="Double Click to receive [30 day]red rose name tag Ring exchange coupon"/>
+    </imgdir>
+    <imgdir name="5530596">
+        <string name="name" value="[30 day]red rose speech bubble Ring exchange coupon"/>
+        <string name="desc" value="Double Click to receive [30 day]red rose speech bubble Ring exchange coupon"/>
+    </imgdir>
+    <imgdir name="5530603">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530604">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530605">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530606">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530607">
+        <string name="name" value="Happy Time Gift Box"/>
+        <string name="desc" value="Double Click to receive various #csurprise gifts#"/>
+    </imgdir>
+    <imgdir name="5530609">
+        <string name="name" value="Fairy king overon hair coupon exchange coupon"/>
+        <string name="desc" value="Double-click the item to receive a tradable #cFairy King Oberon Hair Coupon#."/>
+    </imgdir>
+    <imgdir name="5530610">
+        <string name="name" value="Fairy queen titiana hair coupon exchange coupon"/>
+        <string name="desc" value="Double-click the item to receive a tradable #cFairy Queen Titania Hair Coupon#."/>
+    </imgdir>
+    <imgdir name="5530611">
+        <string name="name" value="[30 day]tiger-cat speech bubble Ring exchange coupon"/>
+        <string name="desc" value="Double Click to receive [30 day]tiger-cat name tag Ring exchange coupon"/>
+    </imgdir>
+    <imgdir name="5530612">
+        <string name="name" value="[30 day]tiger-cat speech bubble Ring exchange coupon"/>
+        <string name="desc" value="Double Click to receive [30 day]tiger-cat speech bubble Ring exchange coupon"/>
+    </imgdir>
+    <imgdir name="5530613">
+        <string name="desc" value="#cDouble Click# to receive scary toy chair. Recovers hp and mp by 50 every 10 sec."/>
+        <string name="name" value="Very scary toy chair"/>
+    </imgdir>
     <imgdir name="5533021">
         <string name="name" value="Knight-Commander Weapons Box"/>
         <string name="desc" value="A box containing cute doll weapons which resembles Cygnus Knight-Commander who can gear up with #cevery weapon#. \nYou will get one of the 5 weapons at random."/>
@@ -6490,7 +6666,7 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5533024">
         <string name="name" value="Messy Wig Box"/>
-        <string name="desc" value="It can switch the utter loneliness of Black Day into the amazing shock. You can get one of the 4 hats at random."/>
+        <string name="desc" value="Surprisingly shocking wigs. You will randomly receive 1 of the 4 hats."/>
     </imgdir>
     <imgdir name="5533026">
         <string name="name" value="10th Anniversary Hat Box"/>
@@ -6534,11 +6710,11 @@ Allows you to create a character with an item that will level the character up t
     </imgdir>
     <imgdir name="5680157">
         <string name="name" value="Maple Royal Style"/>
-        <string name="desc" value="#cDouble-clicking the coupon and talk to Big Headger#, you can get one cash item #cat random#. In the #cSpecial Cash Equipment Item of the Month# given by Big Headger, there are #cpowerful stats# such as Attack, Defense, etc. The cash items exchanged with Big Headger will be limited for exchange."/>
+        <string name="desc" value="A Royal Maple Style Coupon."/>
     </imgdir>
     <imgdir name="5680159">
         <string name="name" value="Maple Royal Style"/>
-        <string name="desc" value="#cDouble-clicking the coupon and talk to Big Headger#, you can get one cash item #cat random#. In the Special Cash Equipment Item of the Month given by Big Headger, there are #cpowerful stats# such as Attack, Defense, etc. #cThe cash equipment item without an option obtained from Royal Style Coupon purchased# with Nexon cash can be exchanged once before use. The rest of the cash items are limited for exchange.\r\n\r\n#cDouble-clicking the coupon item# in the Cash Shop, you can preview the special item of the month. The Royal Style Coupon is used in the order from the very front of the cash inventory."/>
+        <string name="desc" value="#cDouble-click the coupon and talk to Big Headger# to #crandomly# get 1 Cash item. This month&apos;s special cash item Big Headger gives you comes with #cpowerful set options# like attack. #cCash items obtained by using the Royal Style Coupon bought with Maple Cash# can be traded 1 time before use. \r\n\r\nDouble-click the #cCoupon item# from the Cash Shop to preview the details. Royal Style Coupons are used starting with the first coupon in the Cash inventory tab. The #cZero Job class# receives either male or common clothes items regardless of the gender of the character using the coupon."/>
     </imgdir>
     <imgdir name="5680166">
         <string name="name" value="[1 Day] Proof of Clan"/>
@@ -6557,24 +6733,88 @@ Allows you to create a character with an item that will level the character up t
         <string name="desc" value="Double-clicking it, you can get two of Pet Equipment Order 60% for Attack or HP."/>
     </imgdir>
     <imgdir name="5680179">
-        <string name="name" value="1.5x Experience Level Coupon Voucher"/>
-        <string name="desc" value="Double-clicking it, you can get the 1.5x Experience Level Coupon."/>
+        <string name="name" value="Quintuple 1.5X EXP Coupon Exchange Ticket"/>
+        <string name="desc" value="Double-click to get 5x #c1.5x EXP Coupon#."/>
     </imgdir>
     <imgdir name="5680180">
-        <string name="name" value="10th Anniversary Offline Coupons"/>
-        <string name="desc" value="The coupon book for participating the event! What would be in there?"/>
+        <string name="name" value="10th anniversary event participant box"/>
+        <string name="desc" value="a precious gift received after participating 10th year anniversary event. Double Click to receive black buckle and 10K maple point exchange coupon."/>
     </imgdir>
     <imgdir name="5680181">
-        <string name="name" value="10th Anniversary Offline Coupons"/>
-        <string name="desc" value="The coupon book for participating the event! What would be in there?"/>
+        <string name="name" value="10th anniversary me and friend box"/>
+        <string name="desc" value="A special gift given at the 10th year anniversary event. Double click to receive white buckle, wisp&apos;s pendant (7-day), nightmare riding(30 day)"/>
+    </imgdir>
+    <imgdir name="5680182">
+        <string name="desc" value="Double Click to used double-jump-abled riding sking [debbyzone&apos;s prisoner riding]. Honey bee train riding is an auto-pilot riding which travels to #cDesired loacation on world map when the location is Double Clicked#. (In some areas, the usage is limited. Auto-pilot speed: very fast)"/>
+        <string name="name" value="7day debbyzone&apos;s prisoner riding coupon"/>
+    </imgdir>
+    <imgdir name="5680183">
+        <string name="desc" value="Double Click to used double-jump-abled riding sking [rocking wooden horse]. Honey bee train riding is an auto-pilot riding which travels to #cDesired loacation on world map when the location is Double Clicked#. (In some areas, the usage is limited. Auto-pilot speed: very fast)"/>
+        <string name="name" value="Ticket to ride the shaken wooden horse for 30 days"/>
+    </imgdir>
+    <imgdir name="5680184">
+        <string name="desc" value="Double Click to used double-jump-abled riding sking [asteroid B612 riding]. Honey bee train riding is an auto-pilot riding which travels to #cDesired loacation on world map when the location is Double Clicked#. (In some areas, the usage is limited. Auto-pilot speed: very fast)"/>
+        <string name="name" value="7 day asteroid B612 riding"/>
+    </imgdir>
+    <imgdir name="5680185">
+        <string name="desc" value="Double Click to used double-jump-abled riding sking [asteroid B612 riding]. Honey bee train riding is an auto-pilot riding which travels to #cDesired loacation on world map when the location is Double Clicked#. (In some areas, the usage is limited. Auto-pilot speed: very fast)"/>
+        <string name="name" value="30 day asteroid B612 riding"/>
+    </imgdir>
+    <imgdir name="5680186">
+        <string name="name" value="Happy Rehab Equipment Set"/>
+        <string name="desc" value="#cDouble Click# to receive Lv. 70 equipment item helpful for recovering from a predicament."/>
+    </imgdir>
+    <imgdir name="5680187">
+        <string name="name" value="Happy Rehab Equipment Set"/>
+        <string name="desc" value="#cDouble Click# to receive Lv. 120 equipment item helpful for recovering from a predicament."/>
+    </imgdir>
+    <imgdir name="5680192">
+        <string name="desc" value="Double Click to send #c[30 day]blue ribbon name tagRing# to someone in maple world."/>
+        <string name="name" value="Blue ribbon name tag Ring gift coupon"/>
+    </imgdir>
+    <imgdir name="5680193">
+        <string name="name" value="50K maple point exchange coupon"/>
+        <string name="desc" value="#cDouble Click# to receive #c50K maple points# with 50K maple point exchange coupon."/>
+    </imgdir>
+    <imgdir name="5680194">
+        <string name="name" value="100K maple point exchange coupon"/>
+        <string name="desc" value="#cDouble Click# to receive #c100K maple point# with the 100K maple point exchange coupon."/>
+    </imgdir>
+    <imgdir name="5680196">
+        <string name="desc" value="Double Click to used double-jump-abled riding sking [honey bee train riding]. Honey bee train riding is an auto-pilot riding which travels to #cDesired loacation on world map when the location is Double Clicked#. (In some areas, the usage is limited. Auto-pilot speed: very fast)"/>
+        <string name="name" value="Honey bee train 30 day riding coupon"/>
+    </imgdir>
+    <imgdir name="5680197">
+        <string name="desc" value="Double Click to used double-jump-abled riding sking [honey bee train riding]. Honey bee train riding is an auto-pilot riding which travels to #cDesired loacation on world map when the location is Double Clicked#. (In some areas, the usage is limited. Auto-pilot speed: very fast)"/>
+        <string name="name" value="Honey bee train 90 day riding coupon"/>
+    </imgdir>
+    <imgdir name="5680198">
+        <string name="desc" value="#cDouble Click# to learn #cfrog riding# with skill exchange coupon."/>
+        <string name="name" value="Frog riding skill exchange coupon"/>
+    </imgdir>
+    <imgdir name="5680199">
+        <string name="desc" value="#cDouble Click# to learn #cturtle riding# with skill exchange coupon."/>
+        <string name="name" value="Turtle riding skill exchange coupon"/>
+    </imgdir>
+    <imgdir name="5680200">
+        <string name="desc" value="#cDouble Click# to receive #[30 day]gingerman name tag Ring# and #c[30 day]gingerman speech bubble Ring# from the box."/>
+        <string name="name" value="Puppy rider gift box"/>
+    </imgdir>
+    <imgdir name="5680204">
+        <string name="desc" value="#cDouble Click# to receive &quot;let&apos;s go on a trip&quot; panel effect"/>
+        <string name="name" value="Let&apos;s go on a trip&apos; panel effect exchange coupon"/>
     </imgdir>
     <imgdir name="5689000">
         <string name="name" value="Premium Water of Life"/>
-        <string name="desc" value="Miraculous water collected deep inside the Maple World. #cDouble-clicking it#, you can get the pet turned into the doll to work again. Not available for the #cMiracle Pet# without Magic Time."/>
+        <string name="desc" value="Mystical water drawn from the depth of Maple World. #cDouble-click# it to reanimate pets that have turned into dolls. Cannot be used on #cMiracle and Shining Star pets#."/>
     </imgdir>
     <imgdir name="5781004">
         <string name="name" value="Rooty Dye Coupon"/>
         <string name="desc" value="A Dye Coupon that can change the colors of #cpink Rooty, Mint Rooty, Purple Rooty#. Moving the color scroll of ui, you can change the color of Rooty. \nWhen Rooty&apos;s color is changed, so would the color of the wearable #cPet Equipment#. \nIn the PC below the recommended specifications, the color of the dyed pet may not be confirmed as normal."/>
+    </imgdir>
+    <imgdir name="5781006">
+        <string name="name" value="Armadillo Dye Coupon"/>
+        <string name="desc" value="Dye coupon which can change the color of #cPeach Armadillo, Lemon Armadillo, Avocado Armadillo#. Move color scroll on ui to change dillo&apos;s color. \nWhen dillor color is changed, color of #cPet equipment# which can be equipped also change. \nOn PCs not meeting the recommended specs on the offical webpage, the dyed pets&apos; colors may not be displayed properly."/>
     </imgdir>
     <imgdir name="5064001">
         <string name="name" value="黑龙的眼泪"/>
@@ -6636,5 +6876,1484 @@ Allows you to create a character with an item that will level the character up t
     <imgdir name="5123002">
         <string name="name" value="Angel Wings Map Decoration"/>
         <string name="desc" value="Specify one of the map with the angel wings map decoration to input a message of your choice. \n\n#c* Usable map#"/>
+    </imgdir>
+    <imgdir name="5530635">
+        <string name="name" value="Soul Enchanter Voucher"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cSoul Enchanter#."/>
+    </imgdir>
+    <imgdir name="5530636">
+        <string name="name" value="Random Android Heart Voucher"/>
+        <string name="desc" value="A special box that will give you a chance to obtain various hearts for your Android."/>
+    </imgdir>
+    <imgdir name="5252021">
+        <string name="name" value="Sengoku Remedial Challenge Ticket"/>
+        <string name="desc" value="With this ticket, you will be able to challange the Principle anytime to obtain Oda Coins."/>
+    </imgdir>
+    <imgdir name="5680141">
+        <string name="name" value="Treasure Detector"/>
+        <string name="desc" value="A special detector use to search for treasures. \r\nYou will not be able to detect tresure far away, you will be able to detect treasures in the same map more accurately. This item will be consumed even if no treasure was detected."/>
+    </imgdir>
+    <imgdir name="5123003">
+        <string name="name" value="Exp up! Map Decoration"/>
+        <string name="desc" value="Specify one of the map with the Exp up! map decoration to input a message of your choice. \n\n#c* Usable map#"/>
+    </imgdir>
+    <imgdir name="5123004">
+        <string name="name" value="Avatar deco"/>
+    </imgdir>
+    <imgdir name="5530652">
+        <string name="name" value="Red Lantern Chair Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cRed Lantern Chair#."/>
+    </imgdir>
+    <imgdir name="5530653">
+        <string name="name" value="Ohinasama Chair Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cDouble-clicking it, you can exchange with the #cSoul Enchanter#.#."/>
+    </imgdir>
+    <imgdir name="5530654">
+        <string name="name" value="Legends Awards Chair Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cLegends Awards Chair#."/>
+    </imgdir>
+    <imgdir name="5240107">
+        <string name="name" value="Rooty (Perm)&apos;s Energy Bar"/>
+        <string name="desc" value="An energy bar that only #cPink Rooty (Perm), Cyan Rooty (Perm) and Purple Rooty (Perm)# can eat. Recovers the entire fullness and #cincreases the familiarity by 100."/>
+    </imgdir>
+    <imgdir name="5532024">
+        <string name="name" value="1 Treasure Detector Exchange Coupon"/>
+    </imgdir>
+    <imgdir name="5532025">
+        <string name="name" value="10 Treasure Detector Exchange Coupon"/>
+    </imgdir>
+    <imgdir name="5530655">
+        <string name="name" value="The covetous of one&apos;s fortune Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cThe covetous of one&apos;s fortune Title#."/>
+    </imgdir>
+    <imgdir name="5530656">
+        <string name="name" value="Grand sei·gneur Title Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cDouble-clicking it, you can exchange with the #cGrand sei·gneur Title#."/>
+    </imgdir>
+    <imgdir name="5530657">
+        <string name="name" value="You over flowers Title Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cYou over flowers Title#."/>
+    </imgdir>
+    <imgdir name="5530670">
+        <string name="name" value="High Quality Equipment Enhancement Scroll Voucher"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cHigh Quality Equipment Enhancement Scroll#."/>
+    </imgdir>
+    <imgdir name="5530671">
+        <string name="name" value="High Quality Equipment Enhancement Scroll Coupon"/>
+        <string name="desc" value="Double-clicking it, you can exchange with the #cHigh Quality Equipment Enhancement Scroll#."/>
+    </imgdir>
+    <imgdir name="5222113">
+        <string name="name" value="Crazy box"/>
+        <string name="desc" value="A crazy box that give you a chance to win item worth more then 10 times of its cost! There might even be some never before seen items in it!"/>
+    </imgdir>
+    <imgdir name="5532071">
+        <string name="desc" value="Double-click to use [honey bee train] permanently from today.\nYou can use Jag Jump on this mount even if you don&apos;t have the skill. "/>
+        <string name="name" value="Honey bee train Permanent Coupon"/>
+    </imgdir>
+    <imgdir name="5532073">
+        <string name="name" value="Orange Mushroom Riding Permanent Coupon"/>
+        <string name="desc" value="Double-click to use [Orange Mushroom Riding] permanently from today.\nYou can use Jag Jump on this mount even if you don&apos;t have the skill. "/>
+    </imgdir>
+    <imgdir name="5532072">
+        <string name="name" value="Double Pink Unicorn Permanent Coupon"/>
+        <string name="desc" value="Double-click to use [Double Pink Unicorn Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don&apos;t have the skill. "/>
+    </imgdir>
+    <imgdir name="5532074">
+        <string name="name" value="Double Red Truck Mount Permanent Coupon"/>
+        <string name="desc" value="Double-click to use [Double Red Truck Mount] permanently from today.\nYou can use Jag Jump on this mount even if you don&apos;t have the skill. "/>
+    </imgdir>
+    <imgdir name="5532075">
+        <string name="name" value="Dragonica Riding Permanent Pass"/>
+        <string name="desc" value="You can permanently use the [Dragonica Riding] riding skill starting today by double-clicking this. \n[Dragonica Riding] allows you to double jump while riding, regardless of whether you possess the double jump skill."/>
+    </imgdir>
+    <imgdir name="5150125">
+        <string name="name" value="9th Anniversary Hair Coupon"/>
+        <string name="desc" value="Take it to #cHenesis hairshop&apos;s big headward#, and change the hair #crandomly# among 9th anniversary royal hair for one time. Double Click the coupon sold at cash shop for character #cpreview#. "/>
+    </imgdir>
+    <imgdir name="5152097">
+        <string name="name" value="9th Anniversary Plastic Surgery Coupon"/>
+        <string name="desc" value="Take this coupon to #cPlastic Roy at Orbis Plastic Surgery# for a #crandom# face change. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5533025">
+        <string name="name" value="9th Anniversary Perm Mount Box"/>
+        <string name="desc" value="Once double-clicked it, you can randomly receive 1 of 5 permanent riding skills."/>
+    </imgdir>
+    <imgdir name="5533042">
+        <string name="name" value="Special 9th Anniversary Box"/>
+        <string name="desc" value="A box created to commemorate the 9th Anniversary. Stand a chance to obtain Sweet Hairpin or an Anniversary T-Shirt! The Special 9th Anniversary T-Shirt even comes with a special effect!"/>
+    </imgdir>
+    <imgdir name="5121027">
+        <string name="name" value="Golden Ingot"/>
+        <string name="desc" value="Everyone in the map receives Weapon Attack +10, Magic Attack +10, Accuracy +5 and Defense +5 for 30 minutes. Enter a message of your choice."/>
+        <string name="msg" value="%s &apos;s Golden Ingot：%s	"/>
+    </imgdir>
+    <imgdir name="5010102">
+        <string name="name" value="Shang Bu Qi"/>
+        <string name="desc" value="A special effect to indicate that the soul is hurt. Designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010103">
+        <string name="name" value="Qiu Ji You"/>
+        <string name="desc" value="A special effect that displays that the owner needs to feel cared by friends. Designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010104">
+        <string name="name" value="Qiu Bao Yang"/>
+        <string name="desc" value="A special effect that displays the longing to be taken care of by someone special. Designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5150127">
+        <string name="name" value="SEA Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# Styling Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5120078">
+        <string name="name" value="onlyMessage"/>
+    </imgdir>
+    <imgdir name="5240101">
+        <string name="name" value="Unmelted Butter Piece"/>
+        <string name="desc" value="A piece of unmelted butter that #cCreampuff# pets like. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5781009">
+        <string name="name" value="Creampuff Pet Dye Coupon"/>
+        <string name="desc" value="Allows the changing of color for the#cStrawberry Creampuff, Kiwi Creampuff, or Mango Creampuff# pet. Use the sliders on the color change window to pick your new color. \nYour Creampuffs&apos; #cpet equipment# will also change color. \nIf your computer does not meet the proper specs listed on the official homepage, some colors may not display properly."/>
+    </imgdir>
+    <imgdir name="5781010">
+        <string name="name" value="Pengu Pet Dye Coupon"/>
+        <string name="desc" value="Changes #cPink Pengu, Purple Pengu, or Blue Pengu#&apos;s color. Use the sliders on the color change window to pick your new color. \nYour Pengu&apos;s #cpet equipment# will also change color. \nIf your computer does not meet the minimum specs listed on the official homepage, some colors may not display properly."/>
+    </imgdir>
+    <imgdir name="5781011">
+        <string name="name" value="Chihuahua Dye Coupon"/>
+        <string name="desc" value="Dye your #cAbel, Axel, and Adel# all different colors! Use the sliders on the window that pops up to mix up a new color.\nThis will also change the color of your Chihuahua&apos;s #cpet equipment#.\nIf your computer does not meet the minimum specs listed on the official homepage, some colors may not display properly."/>
+    </imgdir>
+    <imgdir name="5781013">
+        <string name="name" value="Chameleon Pet Dye Coupon"/>
+        <string name="desc" value="Changes the color of #cGreen Cha, Pink Mel, and Orange Leon#. Move the color scroll in the UI to change the color of your Chameleon Pet. \nChanging the colors of Chameleon Pets also changes the colors of their #cPet Equipment#. \nNew colors of dyed pets may not display correctly in computers that do not meet the recommended specifications listed on the official website."/>
+    </imgdir>
+    <imgdir name="5530608">
+        <string name="name" value="Futuroid Heart Box"/>
+        <string name="desc" value="Double click on this item to receive a random special heart specially for Futuroid."/>
+    </imgdir>
+    <imgdir name="5532095">
+        <string name="name" value="Futuroid Parts Box 1/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 1/7"/>
+    </imgdir>
+    <imgdir name="5532096">
+        <string name="name" value="Futuroid Parts Box 2/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 2/7"/>
+    </imgdir>
+    <imgdir name="5532097">
+        <string name="name" value="Futuroid Parts Box 3/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 3/7"/>
+    </imgdir>
+    <imgdir name="5532098">
+        <string name="name" value="Futuroid Parts Box 4/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 4/7"/>
+    </imgdir>
+    <imgdir name="5532099">
+        <string name="name" value="Futuroid Parts Box 5/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 5/7"/>
+    </imgdir>
+    <imgdir name="5532100">
+        <string name="name" value="Futuroid Parts Box 6/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 6/7"/>
+    </imgdir>
+    <imgdir name="5030030">
+        <string name="name" value="Horse Merchant: 1 day coupon"/>
+        <string name="desc" value="Once you&apos;ve set up a this store in the Free Market, your items will be sold through the Horse Merchant even if you&apos;re not logged on.#cYou&apos;ll be notified through the chat window when an item is sold.#"/>
+    </imgdir>
+    <imgdir name="5030031">
+        <string name="name" value="Horse Merchant: 7 days coupon"/>
+        <string name="desc" value="Once you&apos;ve set up a this store in the Free Market, your items will be sold through the Horse Merchant even if you&apos;re not logged on.#cYou&apos;ll be notified through the chat window when an item is sold.#"/>
+    </imgdir>
+    <imgdir name="5154001">
+        <string name="name" value="Super Idol Hair Coupon (M)"/>
+    </imgdir>
+    <imgdir name="5154002">
+        <string name="name" value="Super Idol Hair Coupon (F)"/>
+    </imgdir>
+    <imgdir name="5160034">
+        <string name="desc" value="On the KeyConfig, configure this expression on a button of your choice. Press the button and watch your characcter nosebleed."/>
+        <string name="name" value="Nosebleed"/>
+    </imgdir>
+    <imgdir name="5390018">
+        <string name="name" value="Red Horse Megaphone."/>
+        <string name="desc" value="When the item is used, everyone in the server will see the majestic image if you running from the sunset with the Red Horse."/>
+    </imgdir>
+    <imgdir name="5533038">
+        <string name="name" value="Perm Face Accessory Box"/>
+        <string name="desc" value="Double Click to obtain a Perm facial expression."/>
+    </imgdir>
+    <imgdir name="5533040">
+        <string name="name" value="Phantom Hound Prison"/>
+    </imgdir>
+    <imgdir name="5680231">
+        <string name="name" value="Dark Mercedes Skill Skin Pack"/>
+        <string name="desc" value="#cDouble click# to obtain 4 90 days, Dark Mercedes Skill Skin. Only usable by 4th Job Advancement Mercedes."/>
+    </imgdir>
+    <imgdir name="5120136">
+        <string name="name" value="Singapore National Day Fireworks"/>
+        <string name="desc" value="Singapore&apos;s National Day celebration. For 30 seconds, there will be fireworks on the map where your character is. You will also be able to enter a message of your choice."/>
+        <string name="msg" value="%s&apos;s fireworks: %s"/>
+    </imgdir>
+    <imgdir name="5120137">
+        <string name="name" value="Malaysia National Day Fireworks"/>
+        <string name="desc" value="Malaysia&apos;s National Day celebration. For 30 seconds, there will be fireworks on the map where your character is. You will also be able to enter a message of your choice."/>
+        <string name="msg" value="%s&apos;s fireworks: %s"/>
+    </imgdir>
+    <imgdir name="5532101">
+        <string name="name" value="Futuroid Parts Box 7/7"/>
+        <string name="desc" value="Double click to obtain Futuroid Part 7/7"/>
+    </imgdir>
+    <imgdir name="5530699">
+        <string name="name" value="Soul Box"/>
+        <string name="desc" value="Open to receive a random Soul or Soul Piece!"/>
+    </imgdir>
+    <imgdir name="5010112">
+        <string name="name" value="I&apos;m in London"/>
+        <string name="desc" value="Bring London with you wherever you go! Double-click the icon or set it to a hotkey in your Key Config to toggle the effect On/Off."/>
+    </imgdir>
+    <imgdir name="5010122">
+        <string name="name" value="Golden Dragon Effect"/>
+        <string name="desc" value="Golden Dragon with ancient energy. Double-click the icon or assign a hotkey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010123">
+        <string name="name" value="Winner&apos;s Podium Effect"/>
+        <string name="desc" value="So this is what it feels like to be the winner! Double-click to toggle the effect, or setup a hotkey in your Key Config."/>
+    </imgdir>
+    <imgdir name="5010124">
+        <string name="name" value="Best Gift Effect"/>
+        <string name="desc" value="You will not be able to reject this gift! Double-click the icon or assign a hotkey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010127">
+        <string name="name" value="Lapping Waves"/>
+        <string name="desc" value="My charm attracts waves from far seas. Double-click the icon or assign a hotkey to turn the effect On/Off from the Key Settings."/>
+    </imgdir>
+    <imgdir name="5010128">
+        <string name="name" value="Swarming Crew"/>
+        <string name="desc" value="Steal the spotlight from the young film crew. Double-click the icon or assign a hotkey to turn the effect On/Off from the Key Settings."/>
+    </imgdir>
+    <imgdir name="5069000">
+        <string name="name" value="Masterpiece Machine"/>
+        <string name="desc" value="Take #c2 Royal Style special items# to Big Headger along with this sewing machine to have him create #ceither a Cash equipment or a rare Hair Coupon with a temporary Masterpiece label#. Masterpiece items come with #cpowerful stats# including Attack Power boosts. These items will match #cthe part and gender of the item that was used as the base#. (When capes or gloves are used as a base, either one can be obtained.) An equipment made as a #cMasterpiece# item #ccannot be traded#. \r\n#cMasterpiece# item rewards change once every season. (Check the MapleSEA announcement on the website for more details.)"/>
+    </imgdir>
+    <imgdir name="5069001">
+        <string name="name" value="Premium Masterpiece Machine"/>
+        <string name="desc" value="Take #c2 Royal Style special items# to Big Headger along with this sewing machine to have him create #ceither a Cash equipment or a rare Hair Coupon with a temporary Masterpiece label#. Masterpiece items come with #cpowerful stats# including Attack Power boosts. These items will match #cthe part and gender of the item that was used as the base#. (When capes or gloves are used as a base, either one can be obtained.) All equipment made as #cPremium Masterpiece# items #ccan be traded#. However, this excludes the Auction House\r\n#cMasterpiece# item rewards change once every season. (Check the MapleSEA announcement on the website for more details.) "/>
+    </imgdir>
+    <imgdir name="5120118">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120124">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120125">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120126">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120127">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120128">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120129">
+        <string name="name" value="Notifier"/>
+        <string name="desc" value="Notifier"/>
+        <string name="msg" value="%s"/>
+    </imgdir>
+    <imgdir name="5120130">
+        <string name="name" value="Sweet N&apos; Sour BBQ Pork World"/>
+        <string name="desc" value="Applies the blessing of holy Sweet N&apos; Sour BBQ Pork to your current map and displays the message of your choice for 30 sec."/>
+        <string name="msg" value="%s&apos;s Sweet N&apos; Sour BBQ Pork: %s"/>
+    </imgdir>
+    <imgdir name="5121040">
+        <string name="name" value="Administrator&apos;s Apples"/>
+        <string name="desc" value="Every character in the map will receive Weapon/Magic Attack +30 for 30 min."/>
+        <string name="msg" value="Administrator&apos;s Crunchy Apples: Spreading love to our Maplers! &lt;3"/>
+    </imgdir>
+    <imgdir name="5121041">
+        <string name="name" value="Guild&apos;s Guidance"/>
+        <string name="desc" value="Every character in the map will receive Weapon/Magic Attack +20 for 30 min. Stacks with other effects."/>
+        <string name="msg" value="May the blessing of the Guild guide you"/>
+    </imgdir>
+    <imgdir name="5121044">
+        <string name="name" value="Strikers Rule"/>
+        <string name="desc" value="Every character in the map receives Weapon and Magic Attack +20 for 20 minutes. Stacks with other effects."/>
+        <string name="msg" value="%s&apos;s Cheering Message: %s"/>
+    </imgdir>
+    <imgdir name="5121045">
+        <string name="name" value="Defenders Rule"/>
+        <string name="desc" value="Every character in the map receives Weapon and Magic DEF +200 for 20 minutes. Stacks with other effects."/>
+        <string name="msg" value="%s&apos;s Cheering Message: %s"/>
+    </imgdir>
+    <imgdir name="5121046">
+        <string name="name" value="Speed Rules"/>
+        <string name="desc" value="Every character in the map receives Movement Speed +20 and Jump +10 for 20 minutes. Stacks with other effects."/>
+        <string name="msg" value="%s&apos;s Cheering Message: %s"/>
+    </imgdir>
+    <imgdir name="5121047">
+        <string name="name" value="Star Planet Weather Effect"/>
+        <string name="desc" value="Every character in the map receives Weapon and Magic Attack +30 for 30 minutes. Stacks with other effects."/>
+        <string name="msg" value="%s&apos;s Star Message: %s"/>
+    </imgdir>
+    <imgdir name="5121048">
+        <string name="name" value="Star Planet Weather Effect 2"/>
+        <string name="desc" value="Every character in the map receives Weapon and Magic Attack +40 and Movement Speed +10 for 30 minutes. Stacks with other effects."/>
+        <string name="msg" value="%s&apos;s Star Message: %s"/>
+    </imgdir>
+    <imgdir name="5150107">
+        <string name="name" value="September Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of the Henesys Hair Salon# will give you a #crandom# September Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5150109">
+        <string name="name" value="October Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# October Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5150110">
+        <string name="name" value="November Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# November Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5150113">
+        <string name="name" value="Misha&apos;s Blowdry Coupon"/>
+        <string name="desc" value="This coupon is used when blowdrying your hair with #cMisha&apos;s Hair Dryer#. "/>
+    </imgdir>
+    <imgdir name="5150114">
+        <string name="name" value="December Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# December Royal hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5150116">
+        <string name="name" value="January Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# January Royal hairstyle in exchange for this coupon! Double-click it in the Cash Shop for a #cpreview!#"/>
+    </imgdir>
+    <imgdir name="5150120">
+        <string name="name" value="Action Royal Hair Coupon"/>
+        <string name="desc" value="A special hair coupon that includes Action Hair as one of its special hairstyles. Action Hair moves #cgracefully in certain positions# such as walking, standing, jumping, etc. #cBig Headward of Henesys Hair Salon# will give you a #crandom# hairstyle in exchange for this coupon. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5150121">
+        <string name="name" value="February Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# February Royal hairstyle in exchange for this coupon! Double-click it in the Cash Shop for a #cpreview!#"/>
+    </imgdir>
+    <imgdir name="5150122">
+        <string name="name" value="March Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# March Royal hairstyle in exchange for this coupon! Double-click it in the Cash Shop for a #cpreview!#"/>
+    </imgdir>
+    <imgdir name="5150123">
+        <string name="name" value="Murr Murr Hair Coupon"/>
+        <string name="desc" value="Take this to #cBig Headward at the Henesys Hair Shop# to #crandomly# get 1 of the trendy Otherworld hairstyles. Murr Murr knows all the latest hair trends of the Otherworld.\n#cThe item cannot be traded#."/>
+    </imgdir>
+    <imgdir name="5150124">
+        <string name="name" value="Nine-Tailed Fox Hair Coupon"/>
+        <string name="desc" value="Take this to #cBig Headward at the Henesys Hair Shop# to #crandomly# get 1 of the latest hairstyles in fashion among Nine-Tailed Foxes. Only the Nine-Tailed Foxes know the latest hair trends in their circle.\n#cThe item cannot be traded#."/>
+    </imgdir>
+    <imgdir name="5150132">
+        <string name="name" value="10th Anniversary Hair Coupon"/>
+        <string name="desc" value="Use this 10th Anniversary Hair Coupon and change to the hairstyle #cof your desire#!&quot;"/>
+    </imgdir>
+    <imgdir name="5190013">
+        <string name="name" value="Open Shop Skill"/>
+        <string name="desc" value="Adds a skill to the designated pet to act like a General Store. You can purchase potions to recover HP &amp; MP, or get throwing stars and bullets. Some maps restrict the use of this item, though."/>
+    </imgdir>
+    <imgdir name="5240094">
+        <string name="name" value="Hearty Salad"/>
+        <string name="desc" value="A salad for #cPunchy Wallaby# pets. Kangaroos will eat just about anything, but they will munch on this salad like there&apos;s no tomorrow. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240095">
+        <string name="name" value="Ice Popsicles"/>
+        <string name="desc" value="Yummy Ice Popsicles that #cChestnut# pets like. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240100">
+        <string name="name" value="Warm Flame"/>
+        <string name="desc" value="#cWhite Candle ,Blue Candle ,Pink Candle# pets favourite warm flame. Fully recovers satiety and #cincrease closeness by 100.#"/>
+    </imgdir>
+    <imgdir name="5240111">
+        <string name="name" value="Fresh Liver"/>
+        <string name="desc" value="#Lil Moonbeam&apos;s# favourite fresh liver. Completely restore Fullness and #cincreases Closeness by 100.#"/>
+    </imgdir>
+    <imgdir name="5240112">
+        <string name="name" value="Chihuahua&apos;s Gum"/>
+        <string name="desc" value="#cAbel ,Axel ,Adel# favourite chewy gum. Completely restore Fullness and #cincreases Closeness by 100.#"/>
+    </imgdir>
+    <imgdir name="5240117">
+        <string name="name" value="Lin Battery"/>
+        <string name="desc" value="A battery filled with energy for #cBallerina Lin#. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240118">
+        <string name="name" value="Hong Battery"/>
+        <string name="desc" value="A battery filled with energy for #cLittle Soldier Hong#. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240119">
+        <string name="name" value="Chung Battery"/>
+        <string name="desc" value="A battery filled with energy for #cLittle Soldier Chung#. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240120">
+        <string name="name" value="Rainbow Melon"/>
+        <string name="desc" value="A melon that only #cChameleons# like to eat. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240102">
+        <string name="name" value="Dawn Dew"/>
+        <string name="desc" value="#cHappy Bean# pets love this morning dew. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240103">
+        <string name="name" value="Delicious Fish"/>
+        <string name="desc" value="#cPink Pengu ,Purple Pengu ,Blue Pengu# favourite delicious fish. Completely restore Fullness and #cincreases Closeness by 100.#"/>
+    </imgdir>
+    <imgdir name="5240110">
+        <string name="name" value="Chloe&apos;s Enhanced Potion"/>
+        <string name="desc" value="Chloe invented this potion to enhance action pets. Feed this to an action pet and it will recover all Fullness and get #c100 EXP#. You can get an enhanced buff when Fullness is at least 100. \n#cCannot be used on action pets that already have 100 Fullness."/>
+    </imgdir>
+    <imgdir name="5390014">
+        <string name="name" value="Legit Best of the Bunch Megaphone"/>
+        <string name="desc" value="You&apos;re too cool! Use this item to display your character image along with a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5390015">
+        <string name="name" value="Uniquely Rad Megaphone"/>
+        <string name="desc" value="Look at how awesome you are! Use this item to display your character image along with a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5390016">
+        <string name="name" value="Best of the Bunch Megaphone"/>
+        <string name="desc" value="Bestest of the bestest! Use this item to display your character image along with a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5390017">
+        <string name="name" value="Red Carpet Megaphone"/>
+        <string name="desc" value="You&apos;re the celebrity Mapler! Use this item to display your character image along with a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5390019">
+        <string name="name" value="Maple News Megaphone"/>
+        <string name="desc" value="Use this item to send the image of your character, with the television news screen in the background, along with a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5390020">
+        <string name="name" value="Rock &apos;n&apos; Roll Megaphone"/>
+        <string name="desc" value="Use this item to send the image of your character, with a rock stage in the background, along with a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5530614">
+        <string name="name" value="Tyrant Armor Box Coupon"/>
+        <string name="desc" value="Double-click to get a #cTyrant Armor Box Coupon# in your Use tab. You can get a random #cTyrant Armor# from the coupon."/>
+    </imgdir>
+    <imgdir name="5530615">
+        <string name="name" value="9th Anniversary Black Pendant Coupon"/>
+        <string name="desc" value="#cDouble-click# to get a 9th Anniversary Black Pendant in your Equip tab."/>
+    </imgdir>
+    <imgdir name="5530616">
+        <string name="name" value="9th Anniversary Black Cape Coupon"/>
+        <string name="desc" value="#cDouble-click# to get a 9th Anniversary Black Cape in your Equip tab."/>
+    </imgdir>
+    <imgdir name="5530617">
+        <string name="name" value="Fafnir Weapon Box Coupon"/>
+        <string name="desc" value="Double-click to get a #cFafnir Weapon Box Coupon# in your Use tab. You can get a random #cFafnir Weapon# from the coupon."/>
+    </imgdir>
+    <imgdir name="5530618">
+        <string name="name" value="Revolution Weapon Box Coupon"/>
+        <string name="desc" value="Double-click to get a #cRevolution Weapon Box Coupon# in your Use tab. You can get a random #cRevolution Weapon# from the coupon."/>
+    </imgdir>
+    <imgdir name="5530619">
+        <string name="name" value="RED Scroll for Weapon 90% Coupon"/>
+        <string name="desc" value="Double-click to get a #cRED Scroll# in your Use tab. You can get either a #cRED Weapon Scroll 90%# for ATT or Magic ATT from the coupon."/>
+    </imgdir>
+    <imgdir name="5530620">
+        <string name="name" value="Protection Scroll Coupon"/>
+        <string name="desc" value="Double-click to get a #cProtection Scroll# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530621">
+        <string name="name" value="Master Craftsman&apos;s Cube x5 Coupon"/>
+        <string name="desc" value="Double-click to get 5x #cMaster Craftsman&apos;s Cube# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530622">
+        <string name="name" value="5-Star Enhancement Scroll Coupon"/>
+        <string name="desc" value="Double-click to get a #c5-Star Enhancement Scroll# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530623">
+        <string name="name" value="Perfect Innocence Scroll 50% Coupon"/>
+        <string name="desc" value="Double-click to get a #cPerfect Innocence Scroll 50%# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530624">
+        <string name="name" value="Clean Slate Scroll 20% Coupon"/>
+        <string name="desc" value="Double-click to get a #cClean Slate Scroll 20%# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530625">
+        <string name="name" value="Incredible Chaos Scroll of Goodness Coupon"/>
+        <string name="desc" value="Double-click to get an #cIncredible Chaos Scroll of Goodness# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530626">
+        <string name="name" value="Eternal Flame of Rebirth Coupon"/>
+        <string name="desc" value="Double-click to get an #cEternal Rebirth Flame# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530627">
+        <string name="name" value="Power Elixirs x15 Coupon"/>
+        <string name="desc" value="Double-click to get 15x #cPower Elixirs# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530628">
+        <string name="name" value="Double Meister&apos;s Cube Coupon"/>
+        <string name="desc" value="Double-click to get 2x #cMeister&apos;s Cube# in your Use tab."/>
+    </imgdir>
+    <imgdir name="5530631">
+        <string name="name" value="[30 Days] Green Apple Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive #c[30 Days] Green Apple Label Ring#."/>
+    </imgdir>
+    <imgdir name="5530632">
+        <string name="name" value="[30 Days] Green Apple Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive #c[30 Days] Green Apple Word Bubble Ring#."/>
+    </imgdir>
+    <imgdir name="5530633">
+        <string name="name" value="[30 Days] Mummy Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive the #c[30 Days] Mummy Label Ring#."/>
+    </imgdir>
+    <imgdir name="5530634">
+        <string name="name" value="[30 Days] Mummy Chat Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive the #c[30 Days] Mummy Chat Ring#."/>
+    </imgdir>
+    <imgdir name="5530637">
+        <string name="name" value="[30 Days] Ink-and-Wash Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive the #c[30 Days] Ink-and-Wash Label Ring#."/>
+    </imgdir>
+    <imgdir name="5530638">
+        <string name="name" value="[30 Days] Ink-and-Wash Chat Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive the #c[30 Days] Ink-and-Wash Chat Ring#."/>
+    </imgdir>
+    <imgdir name="5530641">
+        <string name="name" value="Code of Hammurabi Chair Coupon"/>
+        <string name="desc" value="Double-click to receive the #cCode of Hammurabi Chair#."/>
+    </imgdir>
+    <imgdir name="5530642">
+        <string name="name" value="Pyramid Chair Coupon"/>
+        <string name="desc" value="Double-click to receive the #cPyramid Chair#."/>
+    </imgdir>
+    <imgdir name="5530643">
+        <string name="name" value="Maple Block Friends Chair Coupon"/>
+        <string name="desc" value="Double-click  to receive the #cMaple Block Friends Chair#."/>
+    </imgdir>
+    <imgdir name="5530644">
+        <string name="name" value="Naver Hair Coupon"/>
+        <string name="desc" value="Double-click to receive a #cNaver Hair Coupon#."/>
+    </imgdir>
+    <imgdir name="5530645">
+        <string name="name" value="[30 Days] Naver Hat Mount Coupon"/>
+        <string name="desc" value="Double-click to exchange for a #c[30 Days] Naver Hat Mount Coupon#."/>
+    </imgdir>
+    <imgdir name="5530646">
+        <string name="name" value="Ancient Bathhouse Chair Exchange Coupon."/>
+        <string name="desc" value="Ancient Bathhouse Chair will be given by double-clicking."/>
+    </imgdir>
+    <imgdir name="5530647">
+        <string name="name" value="Ancient Chariot Chair Exchange Coupon."/>
+        <string name="desc" value="Ancient Chariot Chair will be given by double-clicking."/>
+    </imgdir>
+    <imgdir name="5530648">
+        <string name="name" value="[30 Days] Angel Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive a [30 Days] Angel Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530649">
+        <string name="name" value="[30 Days] Angel Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive a [30 Days] Angel Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530650">
+        <string name="name" value="Victory Rider Hair (M) Coupon"/>
+        <string name="desc" value="Double-click the item to receive a #ctradable# #cVictory Rider Hair Coupon#."/>
+    </imgdir>
+    <imgdir name="5530651">
+        <string name="name" value="Star Rider Hair (F) Coupon"/>
+        <string name="desc" value="Double-click the item to receive a #ctradable# #cStar Rider# Hair Coupon."/>
+    </imgdir>
+    <imgdir name="5530658">
+        <string name="name" value="[30 Days] Romantic Lace Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive a [30 Days] Romantic Lace Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530659">
+        <string name="name" value="[30 Days] Romantic Lace Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive a [30 Days] Romantic Lace Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530660">
+        <string name="name" value="[7 Days] Saturday&apos;s Level-up Support Box Coupon"/>
+        <string name="desc" value="Double-click to receive Saturday&apos;s Level-up Support Box."/>
+    </imgdir>
+    <imgdir name="5530661">
+        <string name="name" value="[7 Days] Sunday&apos;s Enhancement Support Box Coupon"/>
+        <string name="desc" value="Double-click to receive Sunday&apos;s Enhancement Support Box."/>
+    </imgdir>
+    <imgdir name="5530662">
+        <string name="name" value="Absolute Ring Coupon"/>
+        <string name="desc" value="Double-click to receive an Absolute Ring."/>
+    </imgdir>
+    <imgdir name="5530663">
+        <string name="name" value="50K Honor EXP Coupon"/>
+        <string name="desc" value="Double-click to receive 25 Honorable Rainbow Cakes."/>
+    </imgdir>
+    <imgdir name="5530664">
+        <string name="name" value="Pure Clean Slate Scroll 10% Coupon"/>
+        <string name="desc" value="Pure Clean Slate Scroll 10%"/>
+    </imgdir>
+    <imgdir name="5530665">
+        <string name="name" value="Pendant of the Spirit (7 Day) Coupon"/>
+        <string name="desc" value="Double-click to receive a Pendant of the Spirit (7 Days)."/>
+    </imgdir>
+    <imgdir name="5530666">
+        <string name="name" value="300 Spell Traces Exchange Coupon"/>
+        <string name="desc" value="300 Spell Traces will be given by double-clicking."/>
+    </imgdir>
+    <imgdir name="5530667">
+        <string name="name" value="U&amp;I Star Star Box Exchange Coupon"/>
+        <string name="desc" value="Exchange Coupon that can be exchanged to U&amp;I Star Star Box that no one knows what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5530668">
+        <string name="name" value="[30 Day] Strawberry Cake Label Ring Coupon"/>
+        <string name="desc" value="Double-click to receive a [30 Day] Strawberry Cake Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530669">
+        <string name="name" value="[30 Day] Strawberry Cake Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click to receive a [30 Day] Strawberry Cake Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530675">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530676">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530677">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530678">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530679">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530680">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530681">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530682">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530683">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530684">
+        <string name="name" value="Happy Time Giftbox"/>
+        <string name="desc" value="A special gift for participating in the Happy Time event!  #cDouble-click# to obtain the gifts in the box. \n#cFrom Maple Admin"/>
+    </imgdir>
+    <imgdir name="5530685">
+        <string name="name" value="30-Day Frog Quote Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive a 30-Day Frog Quote Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530686">
+        <string name="name" value="30-Day Frog Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive a 30-Day Frog Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530687">
+        <string name="name" value="Coupon for ten 10th Anniversary Coins"/>
+        <string name="desc" value="Double-click to receive ten 10th Anniversary Coins."/>
+    </imgdir>
+    <imgdir name="5530688">
+        <string name="name" value="10th Anniversary Armor Box Coupon"/>
+        <string name="desc" value="Double-click to receive one 10th Anniversary Armor Box."/>
+    </imgdir>
+    <imgdir name="5530689">
+        <string name="name" value="30-Day Luxury Pearl Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Luxury Pearl Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530690">
+        <string name="name" value="30-Day Luxury Pearl Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Luxury Pearl Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5533028">
+        <string name="name" value="He-He Face Accessory Box"/>
+        <string name="desc" value="Contains 1 of 5 Face Accessories that will show off the charm of the Korean alphabet."/>
+    </imgdir>
+    <imgdir name="5533030">
+        <string name="name" value="Eye-Eye Face Accessory Box"/>
+        <string name="desc" value="Contains 1 of 5 Face Accessories that will show off the beauty of the Korean alphabet."/>
+    </imgdir>
+    <imgdir name="5533034">
+        <string name="name" value="Christmas Hat Box"/>
+        <string name="desc" value="This box is filled with hats that commemorate Christmas. You can randomly get 1 of 5 hats."/>
+    </imgdir>
+    <imgdir name="5680205">
+        <string name="desc" value="What kind of chick will come out of the #cHeartbeat Egg#? Double-click to awaken the baby chick inside."/>
+        <string name="name" value="Heartbeat Egg"/>
+    </imgdir>
+    <imgdir name="5680206">
+        <string name="desc" value="Use this item to get on the #c[7 Days] Trained Bee Mount, capable of double-jumping. While mounted, #cdouble-click on a World Map location# to fly there automatically. (Not available for some areas.)"/>
+        <string name="name" value="Trained Bee Mount 7-Day Coupon"/>
+    </imgdir>
+    <imgdir name="5680209">
+        <string name="name" value="I&apos;m in London Effect Coupon"/>
+        <string name="desc" value="Double-click to receive the #cI&apos;m in London# effect."/>
+    </imgdir>
+    <imgdir name="5680210">
+        <string name="name" value="Verdant Bats Effect Coupon"/>
+        <string name="desc" value="Double-click to receive the #cVerdant Bats# effect."/>
+    </imgdir>
+    <imgdir name="5680211">
+        <string name="name" value="OTP Security Box"/>
+        <string name="desc" value="A special gift for those who want to feel secure. Double-click to find out what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680212">
+        <string name="name" value="Misha&apos;s Hair Dryer"/>
+        <string name="desc" value="You can blowdry your hair once a day to the hairstyle of your choice. Double-click to see the coupon and hair selection menu. "/>
+    </imgdir>
+    <imgdir name="5680213">
+        <string name="name" value="Spring Rain Effect Coupon"/>
+        <string name="desc" value="Double-click to receive the #cSpring Rain# effect."/>
+    </imgdir>
+    <imgdir name="5680215">
+        <string name="name" value="Misha&apos;s Invitation"/>
+        <string name="desc" value="Double-click to receive Misha&apos;s invitation greetings and #c[7 Days] Baby Pink Heart Ring#."/>
+    </imgdir>
+    <imgdir name="5680218">
+        <string name="name" value="Happy Winter Effect Exchange Coupon"/>
+        <string name="desc" value="#cDouble-click# to receive the Happy Winter effect."/>
+    </imgdir>
+    <imgdir name="5680221">
+        <string name="name" value="I am Your Present Effect"/>
+        <string name="desc" value="I am Your Present Effect will be given by #cdouble-clicking#."/>
+    </imgdir>
+    <imgdir name="5680222">
+        <string name="name" value="Mannequin"/>
+        <string name="desc" value="A mysterious mannequin that can #csave your hairstyles# for you! \nDouble-click to #cadd the mannequin to the Hairstyling Room#, and it will save your #chairstyle and color together#. You can save one hairstyle on each mannequin multiple times, and they will differ by gender."/>
+    </imgdir>
+    <imgdir name="5680223">
+        <string name="name" value="Action Demon Egg"/>
+        <string name="desc" value="Answer the questions after #cdouble-clicking#, Demon Pet of different properties can be obtained according to result."/>
+    </imgdir>
+    <imgdir name="5680224">
+        <string name="name" value="Light Green Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680225">
+        <string name="name" value="Maroon Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680226">
+        <string name="name" value="Purple Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680227">
+        <string name="name" value="Blue Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680228">
+        <string name="name" value="Red Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680229">
+        <string name="name" value="Pink Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680230">
+        <string name="name" value="Black Gift Box"/>
+        <string name="desc" value="#cDouble-click# on it to see what&apos;s inside."/>
+    </imgdir>
+    <imgdir name="5680233">
+        <string name="name" value="U&amp;I Lucky Bag"/>
+        <string name="desc" value="A special gift for being part of the U&amp;I event! Get your gifts by #cdouble-clicking# the box."/>
+    </imgdir>
+    <imgdir name="5680234">
+        <string name="name" value="U&amp;I Lucky Bag"/>
+        <string name="desc" value="A special gift for being part of the U&amp;I event! Get your gifts by #cdouble-clicking# the box."/>
+    </imgdir>
+    <imgdir name="5680235">
+        <string name="name" value="U&amp;I Lucky Bag"/>
+        <string name="desc" value="A special gift for being part of the U&amp;I event! Get your gifts by #cdouble-clicking# the box."/>
+    </imgdir>
+    <imgdir name="5680236">
+        <string name="name" value="Moonbeam Pet Package"/>
+        <string name="desc" value="A special gift for being part of the U&amp;I event! Get your gifts by #cdouble-clicking# the box."/>
+    </imgdir>
+    <imgdir name="5680237">
+        <string name="name" value="Junior Force Package"/>
+        <string name="desc" value="#cDouble-click# to receive your Junior Force pets and pet equipment."/>
+    </imgdir>
+    <imgdir name="5680238">
+        <string name="name" value="Jr. Von Leon Pet Package"/>
+        <string name="desc" value="#cDouble-click# to receive your Jr. Von Leon and pet equipment."/>
+    </imgdir>
+    <imgdir name="5680239">
+        <string name="name" value="Jr. Orchid Pet Package"/>
+        <string name="desc" value="#cDouble-click# to receive your Jr. Orchid and pet equipment."/>
+    </imgdir>
+    <imgdir name="5680240">
+        <string name="name" value="Jr. Hilla Pet Package"/>
+        <string name="desc" value="#cDouble-click# to receive your Jr. Hilla and pet equipment."/>
+    </imgdir>
+    <imgdir name="5680241">
+        <string name="name" value="Hair Coupon Exchange Coupon."/>
+        <string name="desc" value="#cDouble-click# to receive special hair coupons."/>
+    </imgdir>
+    <imgdir name="5680242">
+        <string name="name" value="Twinkle Star Package (M)"/>
+        <string name="desc" value="#cDouble-click# to receive the 4-Piece Twinkle Star Outfit."/>
+    </imgdir>
+    <imgdir name="5680243">
+        <string name="name" value="Twinkle Star Package (F)"/>
+        <string name="desc" value="#cDouble-click# to receive the 4-Piece Twinkle Star Outfit."/>
+    </imgdir>
+    <imgdir name="5680244">
+        <string name="name" value="Orchiroid Coupon"/>
+        <string name="desc" value="#cDouble-click# to receive your Orchiroid and Time-limited New Gold Heart."/>
+    </imgdir>
+    <imgdir name="5680245">
+        <string name="name" value="Pendant of the Spirit (7 Day) Coupon"/>
+        <string name="desc" value="Double-click to receive a Pendant of the Spirit (7 Days)."/>
+    </imgdir>
+    <imgdir name="5680246">
+        <string name="name" value="Blooming Spring Flower Effect Coupon"/>
+        <string name="desc" value="#cDouble-click# to receive the Blooming Spring Flower effect."/>
+    </imgdir>
+    <imgdir name="5680251">
+        <string name="name" value="Commander Mask Box"/>
+        <string name="desc" value="#cDouble-click# to receive 1 of 9 commander hats. Once used, the Mask Box in front will disappear."/>
+    </imgdir>
+    <imgdir name="5680255">
+        <string name="name" value="Rainbow Ring Box"/>
+        <string name="desc" value="#cDouble-click# the box to receive a Rainbow Label Ring and Rainbow Quote Ring. "/>
+    </imgdir>
+    <imgdir name="5680257">
+        <string name="name" value="Rock Bank Effect Coupon"/>
+        <string name="desc" value="#cDouble-click# to receive the Rock Band effect."/>
+    </imgdir>
+    <imgdir name="5680258">
+        <string name="name" value="Lv.2 Hero Box"/>
+        <string name="desc" value="#cDouble-click# to open the box and receive all sorts of gifts."/>
+    </imgdir>
+    <imgdir name="5680259">
+        <string name="name" value="Lv.5 Hero Box"/>
+        <string name="desc" value="#cDouble-click# to open the box and receive all sorts of gifts."/>
+    </imgdir>
+    <imgdir name="5680260">
+        <string name="name" value="Lv.20 Hero Box"/>
+        <string name="desc" value="#cDouble-click# to open the box and receive all sorts of gifts."/>
+    </imgdir>
+    <imgdir name="5680261">
+        <string name="name" value="Miho Box"/>
+        <string name="desc" value="#cDouble-click# and answer questions. Depending on your answers, you can receive a #cMiho Pet# with different properties."/>
+    </imgdir>
+    <imgdir name="5680262">
+        <string name="name" value="Je T&apos;aime Paris Effect Coupon"/>
+        <string name="desc" value="#cDouble-click# to receive the Je T&apos;aime Paris effect."/>
+    </imgdir>
+    <imgdir name="5680264">
+        <string name="name" value="Little Honeybee Effect Coupon"/>
+        <string name="desc" value="#cDouble-click# the item to receive the Little Honeybee effect."/>
+    </imgdir>
+    <imgdir name="5680265">
+        <string name="name" value="Lapping Waves Effect Coupon"/>
+        <string name="desc" value="#cDouble-click# the item to receive the Lapping Waves effect."/>
+    </imgdir>
+    <imgdir name="5680268">
+        <string name="name" value="Swarming Crew Effect Coupon"/>
+        <string name="desc" value="#cDouble-click# to receive the Swarming Crew effect."/>
+    </imgdir>
+    <imgdir name="5680273">
+        <string name="name" value="Special Value Pack"/>
+        <string name="desc" value="#cDouble-click# the item to receive a special gift."/>
+    </imgdir>
+    <imgdir name="5680274">
+        <string name="name" value="2x Box"/>
+        <string name="desc" value="#cDouble-click# the item to receive a Star Planet EXP Buff Time x2 Exchange Ticket or a #cdoubled# Star Planet Weather effect."/>
+    </imgdir>
+    <imgdir name="5680275">
+        <string name="name" value="Time x2 EXP Coupon Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive #c1# #cTime x2 EXP Coupon Exchange Ticket# that #cdoubles# the durations of EXP Coupons obtained in Star Planet."/>
+    </imgdir>
+    <imgdir name="5680276">
+        <string name="name" value="Star Planet Damage Skin Voucher"/>
+        <string name="desc" value="#cDouble-click# the item to receive Star Planet Damage Skin."/>
+    </imgdir>
+    <imgdir name="5680277">
+        <string name="name" value="Hat Voucher"/>
+        <string name="desc" value="#cDouble-click# the voucher to choose #cEvergreen Magistrate Hat or Fuchsia Butterfly Hairpin#."/>
+    </imgdir>
+    <imgdir name="5680278">
+        <string name="name" value="Overall Voucher"/>
+        <string name="desc" value="#cDouble-click# the voucher to choose #cEvergreen Magistrate Uniform or Fuchsia Lady Hanbok#."/>
+    </imgdir>
+    <imgdir name="5680279">
+        <string name="name" value="Time x2 EXP Coupon x5 Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive #c5# #cTime x2 EXP Coupon Exchange Tickets# that #cdouble# the durations of EXP Coupons obtained in Star Planet."/>
+    </imgdir>
+    <imgdir name="5680280">
+        <string name="name" value="Time x2 EXP Coupon x7 Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive #c7# #cTime x2 EXP Coupon Exchange Tickets# that #cdouble# the durations of EXP Coupons obtained in Star Planet."/>
+    </imgdir>
+    <imgdir name="5680281">
+        <string name="name" value="Time x2 EXP Coupon x14 Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive #c14# #cTime x2 EXP Coupon Exchange Tickets# that #cdouble# the durations of EXP Coupons obtained in Star Planet."/>
+    </imgdir>
+    <imgdir name="5680286">
+        <string name="name" value="Star Planet Weather Effect 1 x3 Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive 3 Star Planet Weather Effects 1."/>
+    </imgdir>
+    <imgdir name="5680287">
+        <string name="name" value="Star Planet Weather Effect 2 x3 Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive 3 Star Planet Weather Effects 2."/>
+    </imgdir>
+    <imgdir name="5680288">
+        <string name="name" value="Star Planet Weather Effect 2 x5 Exchange Ticket"/>
+        <string name="desc" value="#cDouble-click# the item to receive 5 Star Planet Weather Effects 2."/>
+    </imgdir>
+    <imgdir name="5680289">
+        <string name="name" value="Panda Hired Merchant 7 Days Coupon"/>
+        <string name="desc" value="#cDouble-click# the item to receive a 7-day Panda Hired Merchant."/>
+    </imgdir>
+    <imgdir name="5781007">
+        <string name="name" value="Chestnut Pet Dye Coupon"/>
+        <string name="desc" value="Allows the changing of color for the #cUnripe Chestnut, Chestnut, or Burnt Chestnut# pet. Use the sliders on the color change window to pick your new color. \nYour Chestnuts&apos; #cpet equipment# will also change color. \nIf your computer does not meet the proper specs listed on the official homepage, some colors may not display properly."/>
+    </imgdir>
+    <imgdir name="5781008">
+        <string name="name" value="Candle Pet Dye Coupon"/>
+        <string name="desc" value="Allows the changing of color for the #cWhite Candle, Blue Candle, or Pink Candle# pet. Use the sliders on the color change window to pick your new color. \nYour Candles&apos; #cpet equipment# will also change color. \nIf your computer does not meet the proper specs listed on the official homepage, some colors may not display properly."/>
+    </imgdir>
+    <imgdir name="5152208">
+        <string name="name" value="SEA Royal Face Coupon"/>
+        <string name="desc" value="Take this coupon to #cPlastic Roy at Orbis Plastic Surgery# for a #crandom# face change. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5532191">
+        <string name="name" value="Riding with Angels Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5532192">
+        <string name="name" value="Black Wyvern Mount Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5532193">
+        <string name="name" value="Sky Bike Riding Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5532194">
+        <string name="name" value="Snow Blossom Riding Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5532195">
+        <string name="name" value="Rain Cloud Riding Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5532196">
+        <string name="name" value="Moon Riding Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5533043">
+        <string name="name" value="Perm Mount Box"/>
+        <string name="desc" value="Once double-clicked it, you can randomly receive permanent riding skills."/>
+    </imgdir>
+    <imgdir name="5010125">
+        <string name="name" value="Let&apos;s Go On A Trip~ 30 Days"/>
+        <string name="desc" value="Go on a trip alll around the world! Even the Antarctica! Double Click the icon or select a shortcut on settings to ON/OFF."/>
+    </imgdir>
+    <imgdir name="5240109">
+        <string name="name" value="Frankenfood (6)"/>
+        <string name="desc" value="Special food made specially for #cFrankenhound#. #cFully recover Fullness and increases Closeness by 100.#"/>
+    </imgdir>
+    <imgdir name="5532089">
+        <string name="name" value="Riding with Angels Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5532094">
+        <string name="name" value="Travel with with Pink Bean 90 Day Coupon"/>
+    </imgdir>
+    <imgdir name="5532102">
+        <string name="name" value="Black Wyvern Mount Perm Coupon"/>
+    </imgdir>
+    <imgdir name="5533033">
+        <string name="name" value="Demi Human Head Box"/>
+        <string name="desc" value="Double click this item to obtain a very cute &quot;Demi Human Head&quot;."/>
+    </imgdir>
+    <imgdir name="5533039">
+        <string name="name" value="10th Anniversary Hat Box"/>
+        <string name="desc" value="Hat Box made especially to commemorate Maple Story&apos;s future success. The box is filled with winning hats from the Hat Contest. You can randomly get 1 of the 8 hats."/>
+    </imgdir>
+    <imgdir name="5533041">
+        <string name="name" value="New Chief Knight&apos;s Hat Box\r\n"/>
+        <string name="desc" value="Box filled with special hats resembling the Dark Cygnus Chief Knight and Empress. You can randomly get 1 of the 6 hats."/>
+    </imgdir>
+    <imgdir name="5150133">
+        <string name="name" value="VIP Royal Hair Coupon"/>
+        <string name="desc" value="#cBig Headward of Henesys Hair Salon# will give you a #crandom# March Royal hairstyle in exchange for this coupon! Double-click it in the Cash Shop for a #cpreview!#"/>
+    </imgdir>
+    <imgdir name="5152209">
+        <string name="name" value="VIP Royal Face Coupon"/>
+        <string name="desc" value="Take this coupon to #cPlastic Roy at Orbis Plastic Surgery# for a #crandom# face change. Double-click it in the Cash Shop for a #cpreview#!"/>
+    </imgdir>
+    <imgdir name="5500007">
+        <string name="name" value="Osiris Revival Gem (1 Day)"/>
+        <string name="desc" value="Ceremonial Gem used to revive the Egyptain God Osiris. #cDrag and drop# this item onto the Osiris Belt to extend its duration for #c1 Day#. Unable to extend more than #c10 Days.#"/>
+    </imgdir>
+    <imgdir name="5500008">
+        <string name="name" value="Osiris Revival Gem (30 Days)"/>
+        <string name="desc" value="Ceremonial Gem used to revive the Egyptain God Osiris. #cDrag and drop# this item onto the Osiris Belt to extend its duration for #c30 Days#. Unable to extend more than #c150 Days.#"/>
+    </imgdir>
+    <imgdir name="5500009">
+        <string name="name" value="Osiris Revival Gem (120 Days)"/>
+        <string name="desc" value="Ceremonial Gem used to revive the Egyptain God Osiris. #cDrag and drop# this item onto the Osiris Belt to extend its duration for #c120 Days#. Unable to extend more than #c150 Days.#"/>
+    </imgdir>
+    <imgdir name="5533027">
+        <string name="name" value="Chair Random Box"/>
+        <string name="desc" value="Once double-clicked it, you can randomly receive Chair."/>
+    </imgdir>
+    <imgdir name="5252027">
+        <string name="name" value="Monster Arena Ticket"/>
+        <string name="desc" value="This is a one-time entrance ticket to Monster Arena. Please find #Rebecca# in the event map to start the challenge. Monster Arena can only be entered during #2014.12.03 ~ 2014.12.30"/>
+    </imgdir>
+    <imgdir name="5550002">
+        <string name="name" value="Pendant Slot Perm Expansion Coupon"/>
+        <string name="desc" value="When you purchase this item, you will be able to equip an additional pendant slot item. #cHowever, characters will not be able to equip more than 1 Special Equipment Item#"/>
+    </imgdir>
+    <imgdir name="5530716">
+        <string name="name" value="[Permanent] Archangel Michael Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5530717">
+        <string name="name" value="Bus Stop Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5530718">
+        <string name="name" value="Yes! Boss Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5530719">
+        <string name="name" value="[90 Day] Archangel Michael Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5530720">
+        <string name="name" value="White Angelic Blessing Coupon"/>
+    </imgdir>
+    <imgdir name="5530721">
+        <string name="name" value="Dark Angelic Blessing Coupon"/>
+    </imgdir>
+    <imgdir name="5530722">
+        <string name="name" value="Angelic Blessing Coupon"/>
+    </imgdir>
+    <imgdir name="5530723">
+        <string name="name" value="[Permanent] Devil Lucifer Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5530724">
+        <string name="name" value="[90 Day] Devil Lucifer Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5530725">
+        <string name="name" value="Devil Sheep Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5530726">
+        <string name="name" value="Devil&apos;s Shoulder Coupon"/>
+    </imgdir>
+    <imgdir name="5820001">
+        <string name="name" value="Potion Pot (7 day)"/>
+        <string name="desc" value="Combines potions and consumable items to refill HP &amp; MP completely with each use.\r\n- #cRight-click# the Potion Pot to open the genie window.\r\n- Drag HP or MP recovery items into the item window.\r\n- Check #cAUTOFILL# to charge the pot automatically when you loot compatible items.\r\n- Equip to a quickslot, or to a pet&apos;s Auto HP/Auto MP Potion Pouch.\r\n- Once expired, the pot remains in inventory.\r\n- Use a #cRust Remover# to extend the pot&apos;s duration by 30 days.\r\n- Use a #cPot Embiggener# to increase the pot&apos;s capacity."/>
+    </imgdir>
+    <imgdir name="5532223">
+        <string name="name" value="Sleepy Bird Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532224">
+        <string name="name" value="Baby Whale Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532225">
+        <string name="name" value="Absolute Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532226">
+        <string name="name" value="Dreamy Princess Castle Coupon"/>
+    </imgdir>
+    <imgdir name="5532227">
+        <string name="name" value="Dale chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532228">
+        <string name="name" value="Watch Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532229">
+        <string name="name" value="Cloud Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532230">
+        <string name="name" value="Sushi Train Coupon"/>
+    </imgdir>
+    <imgdir name="5532231">
+        <string name="name" value="Couple Maplephone Coupon"/>
+    </imgdir>
+    <imgdir name="5222126">
+        <string name="name" value="Devil Box"/>
+        <string name="desc" value="A box that contains everything you need to become a Devil yourself!"/>
+    </imgdir>
+    <imgdir name="5222127">
+        <string name="name" value="Angel Box"/>
+        <string name="desc" value="A box that contains everything you need to become a Angel yourself!"/>
+    </imgdir>
+    <imgdir name="5122015">
+        <string name="name" value="Frozen Weather Effect"/>
+        <string name="desc" value="Every character in the map receives Weapon and Magic Attack +30 for 15 minutes. This item lets you enter a message and plays a special background sound when used."/>
+        <string name="msg" value="%s&apos;s Blessing: %s"/>
+    </imgdir>
+    <imgdir name="5530673">
+        <string name="name" value="Frozen Hair Coupon (M) Exchange Ticket"/>
+        <string name="desc" value="Double-click the item to receive #cFrozen Hair Coupon (M) that changes your hairstyle to Kristoff Hair#."/>
+    </imgdir>
+    <imgdir name="5530674">
+        <string name="name" value="Frozen Hair Coupon (F) Exchange Ticket"/>
+        <string name="desc" value="Double-click the item to receive #cFrozen Hair Coupn (F) that changes your hairstyle to Elsa Hair#."/>
+    </imgdir>
+    <imgdir name="5530691">
+        <string name="name" value="Vacationing Olaf Chair Coupon"/>
+        <string name="desc" value="Double-click the coupon to receive Vacationing Olaf Chair."/>
+    </imgdir>
+    <imgdir name="5530692">
+        <string name="name" value="Hot Spring Olaf Chair Coupon"/>
+        <string name="desc" value="Double-click the coupon to receive Hot Spring Olaf Chair."/>
+    </imgdir>
+    <imgdir name="5530693">
+        <string name="name" value="Ice Palace Chair Coupon"/>
+        <string name="desc" value="Double-click the coupon to receive the beautiful Ice Palace Chair."/>
+    </imgdir>
+    <imgdir name="5530694">
+        <string name="name" value="Sven Mount 90 Days Coupon Exchange Ticket"/>
+        <string name="desc" value="Double-click to receive a 90-day Sven Mount."/>
+    </imgdir>
+    <imgdir name="5530695">
+        <string name="name" value="[30 Days] Oink Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Oink Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530696">
+        <string name="name" value="[30 Days] Oink Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Oink Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530697">
+        <string name="name" value="Sparkling Butterfly Hair Coupon (M) Exchange Ticket"/>
+        <string name="desc" value="Double-click the item to receive an #cexchangeable# #cSparkling Butterfly Hair Coupon#."/>
+    </imgdir>
+    <imgdir name="5530698">
+        <string name="name" value="Sparkling Butterfly Hair Coupon (F) Exchange Ticket"/>
+        <string name="desc" value="Double-click the item to receive an #cexchangeable# #cSparkling Butterfly Hair Coupon#."/>
+    </imgdir>
+    <imgdir name="5530700">
+        <string name="name" value="[30 Days] Quack Duck Label Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Quack Duck Label Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530701">
+        <string name="name" value="[30 Days] Quack Duck Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Quack Duck Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5530704">
+        <string name="name" value="Time x2 EXP Coupon Voucher x14 Exchange Ticket"/>
+        <string name="desc" value="Double-click the item to receive 14 Time x2 EXP Coupon Vouchers."/>
+    </imgdir>
+    <imgdir name="5530705">
+        <string name="name" value="[30 Days] Star Planet Word Bubble Ring Coupon"/>
+        <string name="desc" value="Double-click the item to receive [30 Days] Star Planet Word Bubble Ring Coupon."/>
+    </imgdir>
+    <imgdir name="5680248">
+        <string name="name" value="Frozen Plastic Surgery Coupon"/>
+        <string name="desc" value="Double-click the item to change your face to Kristoff&apos;s (male) or Elsa&apos;s (female). Plastic Surgery Coupons are used starting with the first one in the inventory."/>
+    </imgdir>
+    <imgdir name="5680249">
+        <string name="name" value="Frozen Royal Style"/>
+        <string name="desc" value="#cDouble-click the coupon and talk to the Administrators# to receive 1 #crandom# Cash item. Cash item gifts that come with the Nexon Cash-purchased Frozen Royal Style Coupons# can be traded 1 time before use. \r\n\r\nDouble-click the #cCoupon item# at the Cash Shop to preview the contents. Royal Style Coupons are used starting with the first one in the Cash Inventory. The #cZero Job class# receives either male or common clothes items regardless of the gender of the character using the coupon."/>
+    </imgdir>
+    <imgdir name="5530729">
+        <string name="name" value="Sven Sleigh Coupon (30 Days)"/>
+        <string name="desc" value="Double Click to receive Sven Sleigh (30 Days)"/>
+    </imgdir>
+    <imgdir name="5222130">
+        <string name="name" value="Frozen Random Box"/>
+        <string name="desc" value="#cDouble Click# to receive a random #cFrozen Item#."/>
+    </imgdir>
+    <imgdir name="5680299">
+        <string name="name" value="Frozen Hair Coupon"/>
+        <string name="desc" value="Double click to obtain #cFrozen Hair Coupon(M)# for guys, #cFrozen Hair Coupon(F)# for girls."/>
+    </imgdir>
+    <imgdir name="5010126">
+        <string name="name" value="Princess Nou&apos;s Sakura Blossoms"/>
+        <string name="desc" value="An item which creates an effect of Princess Nou. Her circling sakura blossoms makes her presence felt.\nDouble click to toggle the effect On/Off.\n\n#cMay not stack with other active effects on the character.#"/>
+    </imgdir>
+    <imgdir name="5390021">
+        <string name="name" value="Rudolph Avatar Megaphone"/>
+        <string name="desc" value="Feel the Christmas Spirit with Rudolph!  Use this item to display your character image along wit ha message to the entire world."/>
+    </imgdir>
+    <imgdir name="5532234">
+        <string name="name" value="Pink Bean Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532235">
+        <string name="name" value="Cute Polar Bear Coupon"/>
+    </imgdir>
+    <imgdir name="5532236">
+        <string name="name" value="White Seal Cushion Coupon"/>
+    </imgdir>
+    <imgdir name="5532237">
+        <string name="name" value="Christmas Gift Box Coupon"/>
+    </imgdir>
+    <imgdir name="5532238">
+        <string name="name" value="Magical Glass Globe Coupon"/>
+    </imgdir>
+    <imgdir name="5532239">
+        <string name="name" value="Starry Night Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532240">
+        <string name="name" value="Sprout Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532241">
+        <string name="name" value="observatory chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532242">
+        <string name="name" value="very scary toy gift Coupon"/>
+    </imgdir>
+    <imgdir name="5532017">
+        <string name="name" value="Snakeboard Mount Coupon(1year)"/>
+    </imgdir>
+    <imgdir name="5533044">
+        <string name="name" value="Random Damage Skin Box"/>
+        <string name="desc" value="Click on this box to receive a random elegant Damage Skin"/>
+    </imgdir>
+    <imgdir name="5390022">
+        <string name="name" value="Good Catch! Megaphone"/>
+        <string name="desc" value="Use this item to display your character image with a sheep and wolf background along with a message to the entire world."/>
+    </imgdir>
+    <imgdir name="5533048">
+        <string name="name" value="Pet Random Box"/>
+        <string name="desc" value="Inside, you&apos;ll find #cpets#. You can receive a #cTime limited# or #cPermanent# one from the box. Good luck!"/>
+    </imgdir>
+    <imgdir name="5532116">
+        <string name="name" value="[Permanent] Pumpkin Carriage Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532136">
+        <string name="name" value="[Permanent] Sandstorm Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532144">
+        <string name="name" value="[Permanent] Dong Dong Chiang Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532163">
+        <string name="name" value="[Permanent] Hovership Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532185">
+        <string name="name" value="Damage Skin - Cherry Blossoms "/>
+        <string name="desc" value="Double click to receive #cCherry Blossoms Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5532180">
+        <string name="name" value="Damage Skin - Keyboard "/>
+        <string name="desc" value="Double click to receive #cKeyboard Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5535003">
+        <string name="name" value="Damage Skin - Haunted Halloween"/>
+        <string name="desc" value="Double click to receive #cHaunted Halloween Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5532184">
+        <string name="name" value="Damage Skin - Snowflake"/>
+    </imgdir>
+    <imgdir name="5532213">
+        <string name="name" value="Monotone Damage Skin"/>
+    </imgdir>
+    <imgdir name="5532244">
+        <string name="name" value="Cocoa Sheep Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532245">
+        <string name="name" value="Crystal Ball of Love Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532246">
+        <string name="name" value="Memories in the Crystal Ball of Love Coupon"/>
+    </imgdir>
+    <imgdir name="5532247">
+        <string name="name" value="Corgi Pup Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532248">
+        <string name="name" value="Hero&apos;s Chair-Aran Coupon"/>
+    </imgdir>
+    <imgdir name="5532249">
+        <string name="name" value="Kayaributa Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532250">
+        <string name="name" value="Emo Piglet Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532251">
+        <string name="name" value="Maple Block Friends Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532252">
+        <string name="name" value="Merlion Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5240126">
+        <string name="name" value="Cotten Candy Star"/>
+        <string name="desc" value="Food for #cCotten Candy Sheep#"/>
+    </imgdir>
+    <imgdir name="5532253">
+        <string name="name" value="[Permanent] Blue Sheep Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532254">
+        <string name="name" value="[Permanent] Pink Sheep Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5000191">
+        <string name="name" value="Mystic Horse"/>
+    </imgdir>
+    <imgdir name="5000324">
+        <string name="name" value="Da Da, the Stickpet"/>
+        <string name="desc" value="A unqiue and cute Stickman pet. #cSkills: Meso Pickup, Item Pickup, (+) Pick up Leftover Item &amp; Meso, Auto Buff.#"/>
+    </imgdir>
+    <imgdir name="5000424">
+        <string name="name" value="Cotten Candy Sheep"/>
+        <string name="desc" value="Cute sheep with fur like cotten candy. #cSkill: Meso Pickup, Item Pickup, Auto Buff#"/>
+    </imgdir>
+    <imgdir name="5240108">
+        <string name="name" value="Mystical Grass"/>
+        <string name="desc" value="Mystical Grass that #cMystic Horse# love. Completely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5532146">
+        <string name="name" value="Blue Pony Mount Coupon"/>
+        <string name="desc" value="#cDouble click# to obtain a Permanent Blue Pony Mount Coupon."/>
+    </imgdir>
+    <imgdir name="5532190">
+        <string name="name" value="Damage Skin - Friend&apos;s Story"/>
+        <string name="desc" value="Double click to receive #cFriend&apos;s Story Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5535004">
+        <string name="name" value="Damage Skin - Halloween Broom"/>
+        <string name="desc" value="Double click to receive #cHalloween Broom Special Effect# skill. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5535006">
+        <string name="name" value="Damage Skin - Violetta"/>
+        <string name="desc" value="Double click to receive #cVioletta Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5689003">
+        <string name="name" value="Friend&apos;s Bit Box"/>
+        <string name="desc" value="Upon using the #cFriend&apos;s Bit Box#, you will be able to choose a random box of your choice.\r\nFrom the random box, you will be able to obtain either a normal bit or an awakened bit. You can also disassemble any unwanted bit to exchange for special items."/>
+    </imgdir>
+    <imgdir name="5689004">
+        <string name="name" value="3X4 Bit Box Coupon"/>
+        <string name="desc" value="Coupon to obtain a permanent 3X4 Bit Box"/>
+    </imgdir>
+    <imgdir name="5680350">
+        <string name="name" value="Mystic Dollhouse"/>
+        <string name="desc" value="#cDouble-click# and answer questions. Depending on your answers, you can receive a #cMysticorn Pet# with different properties."/>
+    </imgdir>
+    <imgdir name="5150137">
+        <string name="name" value="Free Hair Coupon for visiting service"/>
+        <string name="desc" value="Visit Eric on visiting service at the event map and change your hairstyle. This is only used by Eric."/>
+    </imgdir>
+    <imgdir name="5152212">
+        <string name="name" value="Free Face Coupon for visiting service"/>
+        <string name="desc" value="Visit Nina on visiting service at the event map and change your face. This is only used by Nina"/>
+    </imgdir>
+    <imgdir name="5552000">
+        <string name="name" value="Beauty Album Face Slot Coupon"/>
+        <string name="desc" value="Using this coupon will unlock 1 face slot in the Beauty Album. #cMaxium Slots: 100#"/>
+    </imgdir>
+    <imgdir name="5553000">
+        <string name="name" value="Beauty Album Hair Slot Coupon"/>
+        <string name="desc" value="Using this coupon will unlock 1 hair slot in the Beauty Album. #cMaxium Slots: 100#"/>
+    </imgdir>
+    <imgdir name="5150134">
+        <string name="desc" value="Designed by CMS player. Talk to #cNatalie in Henesys Hair Salon# to obtain the Cutie Bunny Hairstyle."/>
+        <string name="name" value="Cutie Bunny Hairstyle Coupon"/>
+    </imgdir>
+    <imgdir name="5160035">
+        <string name="name" value="Shiok"/>
+        <string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character have the shiok expression!"/>
+    </imgdir>
+    <imgdir name="5160036">
+        <string name="name" value="Sheepish"/>
+        <string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character have the sheepish look!"/>
+    </imgdir>
+    <imgdir name="5240115">
+        <string name="name" value="Flour"/>
+        <string name="desc" value="#cEbi Tempura&apos;s# flour. Recovers &quot;fullness&quot; completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240116">
+        <string name="name" value="Salad Oil"/>
+        <string name="desc" value="Salad Oil to make #cEbi FlyB# crispy.  Recovers &quot;fullness&quot; completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5532288">
+        <string name="name" value="Baa Baa Sheep Chair Coupon"/>
+        <string name="desc" value="#cDouble click# to receive Baa Baa Sheep Chair"/>
+    </imgdir>
+    <imgdir name="5533052">
+        <string name="name" value="Troll Expression Box"/>
+        <string name="desc" value="#cDouble Click# to obtain a troll expression."/>
+    </imgdir>
+    <imgdir name="5064401">
+        <string name="name" value="Return Flame"/>
+        <string name="desc" value="#cBonus Stats# can be reverted back to the previous stats before the Rebirth Flame is applied to. #cDrag and drop# to use the Return Falme prior to the Rebirth Flame. # \n Return Flame is diappeared once used. \nIt cannot be used on some of items such as #c T"/>
+    </imgdir>
+    <imgdir name="5532199">
+        <string name="name" value="Damage Skin - Orange Mushroom"/>
+        <string name="desc" value="Double click to receive #cOrange Mushroom Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5532281">
+        <string name="name" value="Damage Skin - Beautiful Rose"/>
+        <string name="desc" value="Double click to receive #cBeautiful Rose Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5532289">
+        <string name="name" value="Damage Skin - Burst Rock"/>
+        <string name="desc" value="Double click to receive #cBurst Rock Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5532183">
+        <string name="name" value="Damage Skin - Spring Breeze"/>
+        <string name="desc" value="Double click to receive #cSpring Breeze Damage Skin#. Cannot be used by Zero class.\n\n\n"/>
+    </imgdir>
+    <imgdir name="5532334">
+        <string name="name" value="Colourful Candies Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532335">
+        <string name="name" value="Style Judge Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532336">
+        <string name="name" value="Nature Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532337">
+        <string name="name" value="Legendary Nian Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532338">
+        <string name="name" value="Ang Bao Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532339">
+        <string name="name" value="Maneki-Neko Chair Coupon Coupon"/>
+    </imgdir>
+    <imgdir name="5532340">
+        <string name="name" value="Tangy Ade Glass Coupon"/>
+    </imgdir>
+    <imgdir name="5532341">
+        <string name="name" value="Monkey trapped in Cage Coupon"/>
+    </imgdir>
+    <imgdir name="5532342">
+        <string name="name" value="Gamepad Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532343">
+        <string name="name" value="Pink Gamepad Chair Coupon"/>
+    </imgdir>
+    <imgdir name="5532344">
+        <string name="name" value="[Permanent] Napoleon Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532345">
+        <string name="name" value="[Permanent] Double Frog Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532346">
+        <string name="name" value="[Permanent] Butterfly Swing Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532347">
+        <string name="name" value="[Permanent] Cute Kitty Rickshaw Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532348">
+        <string name="name" value="[Permanent] Bunny Moon Gazing Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5532349">
+        <string name="name" value="[Permanent] Helicopter Mount Coupon"/>
+    </imgdir>
+    <imgdir name="5680364">
+        <string name="name" value="Mystery Boutique Bag"/>
+        <string name="desc" value="#cDouble-click# to receive either a chair, a mount, or a damage skin. The only way to find out is to #cdouble-click#!"/>
+    </imgdir>
+    <imgdir name="5680365">
+        <string name="name" value="Enigmatic Scroll Box"/>
+        <string name="desc" value="A box that will give the person that opens it a random enhancement item. #cDouble-click# to receive your item."/>
+    </imgdir>
+    <imgdir name="5010142">
+        <string name="name" value="10th Anniversary Effect"/>
+        <string name="desc" value="Double-click this item or set it on a hotckey to toggle on/off a special effect that will show you took part in  MapleSEA&apos;s 10th anniversary."/>
+    </imgdir>
+    <imgdir name="5121043">
+        <string name="name" value="10th Anniversary Weather"/>
+        <string name="desc" value="Every character in the map receives Weapon and Magic Attack +40 for 30 minutes. "/>
+        <string name="msg" value="%s&apos;s maple leaves : %s"/>
+    </imgdir>
+    <imgdir name="5532364">
+        <string name="name" value="I&apos;m Late! Mount 90-Day Coupon"/>
     </imgdir>
 </imgdir>

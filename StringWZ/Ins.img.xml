@@ -606,13 +606,11 @@
     </imgdir>
     <imgdir name="3010272">
         <string name="name" value="Red Beach Chair"/>
-        <string name="desc" value="You can recover 20 MP every 10 seconds.
-"/>
+        <string name="desc" value="You can recover 20 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010273">
         <string name="name" value="Blue Beach Chair"/>
-        <string name="desc" value="You can recover 20 MP every 10 seconds.
-"/>
+        <string name="desc" value="You can recover 20 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010274">
         <string name="name" value="Pink Teddy Chair"/>
@@ -620,8 +618,7 @@
     </imgdir>
     <imgdir name="3010275">
         <string name="name" value="Christmas Tree Chair"/>
-        <string name="desc" value="You can recover 20 MP every 10 seconds.
-"/>
+        <string name="desc" value="You can recover 20 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010276">
         <string name="name" value="Hero&apos;s Chair-Aran"/>
@@ -706,6 +703,14 @@
     <imgdir name="3049002">
         <string name="name" value="Advanced Extractor"/>
         <string name="desc" value="Use to set up an extractor. Extractors can be used by other players for a fee.\n#cCreates an extractor for any level equipment.#"/>
+    </imgdir>
+    <imgdir name="3049003">
+        <string name="name" value="Cube Extractor"/>
+        <string name="desc" value="Installs a Cube Extractor at the current location when used. People can take cube items apart with the machine, and you can charge fees to the users. \n#cCan disassemble suspicious cube#"/>
+    </imgdir>
+    <imgdir name="3049004">
+        <string name="name" value="Scroll Extractor"/>
+        <string name="desc" value="Installs a Scroll Extractor at the current location when used. People can take scroll items apart with the machine, and you can charge fees to the users. \n#csScrolls except for cash scrolls, general flame of reincarnation except for production flame of reincarnation, and production recipes can be taken apart#"/>
     </imgdir>
     <imgdir name="3080000">
         <string name="name" value="4 Title Slot Name Card Holder"/>
@@ -944,7 +949,7 @@
         <string name="desc" value="Add a monster to a Link, and claim a reward by eliminating the monster."/>
     </imgdir>
     <imgdir name="3602104">
-        <string name="name" value="Monster Addition - Cloned Mikhail"/>
+        <string name="name" value="Monster Addition - Cloned Mihile"/>
         <string name="desc" value="Add Cloned Mikhail to Link 9, and claim a reward by eliminating the monster.\r\n#cCan be used only when Link 9 is activated.#"/>
     </imgdir>
     <imgdir name="3602105">
@@ -952,11 +957,11 @@
         <string name="desc" value="Add Cloned Oz to Link 9, and claim a reward by eliminating the monster.\r\n#cCan be used only when Link 9 is activated.#"/>
     </imgdir>
     <imgdir name="3602106">
-        <string name="name" value="Monster Addition - Cloned Irena"/>
+        <string name="name" value="Monster Addition - Cloned Irina"/>
         <string name="desc" value="Add Cloned Irena to Link 9, and claim a reward by eliminating the monster.\r\n#cCan be used only when Link 9 is activated.#"/>
     </imgdir>
     <imgdir name="3602107">
-        <string name="name" value="Monster Addition - Cloned Eckhart"/>
+        <string name="name" value="Monster Addition - Cloned Ickhart"/>
         <string name="desc" value="Add Cloned Eckhart to Link 9, and claim a reward by eliminating the monster.\r\n#cCan be used only when Link 9 is activated.#"/>
     </imgdir>
     <imgdir name="3602108">
@@ -1240,12 +1245,12 @@
         <string name="desc" value="Add the mission: Link 9 Connection Error, and clear it to connect to Link 9."/>
     </imgdir>
     <imgdir name="3604006">
-        <string name="name" value="Mission Addition - Challenge the Hard Mode!"/>
-        <string name="desc" value="Add the pertinent mission, and clear it to obtain Evolving Coins."/>
+        <string name="name" value="Additional Mission: Play Hard Mode"/>
+        <string name="desc" value="Adds a new mission to Link 1. Clear the mission, and you will receive Evolving Coins."/>
     </imgdir>
     <imgdir name="3604007">
-        <string name="name" value="Mission Addition - Aim at Weaknesses!"/>
-        <string name="desc" value="Add the pertinent mission, and clear it to obtain Evolving Coins."/>
+        <string name="name" value="Additional Mission: Finding Weaknesses"/>
+        <string name="desc" value="Adds a new mission to Link 3. Clear the mission, and you will receive Evolving Coins."/>
     </imgdir>
     <imgdir name="3604009">
         <string name="name" value="Mission Addition - Temporary Energy Supply"/>
@@ -1256,7 +1261,7 @@
         <string name="desc" value="Add the pertinent mission to Link 8, and clear it to obtain Evolving Coins.\r\n#cCan be used only when Link 8 is activated.#"/>
     </imgdir>
     <imgdir name="3604011">
-        <string name="name" value="Mission - Shadow Monster"/>
+        <string name="name" value="Mission: Defeat Shadow Monsters"/>
         <string name="desc" value="Summon Cygnus&apos;s replica Shadow, and eliminate it for a chance to obtain a special item.\r\n#cCan be used only when Link 9 is activated.#"/>
     </imgdir>
     <imgdir name="3990000">
@@ -2654,22 +2659,6 @@
         <string name="name" value="Von Leon Chair"/>
         <string name="desc" value="Recovers 50 MP every 10 seconds."/>
     </imgdir>
-    <imgdir name="3010122">
-        <string name="name" value="Envy"/>
-        <string name="desc" value="Recovers 100 HP and 50 MP every 10 seconds."/>
-    </imgdir>
-    <imgdir name="3013001">
-        <string name="name" value="Seal"/>
-        <string name="desc" value="Recovers 50 HP, MP every 10 seconds."/>
-    </imgdir>
-    <imgdir name="3010121">
-        <string name="name" value="Door of Truth"/>
-        <string name="desc" value="Recovers 50 HP and 100 MP every 10 seconds."/>
-    </imgdir>
-    <imgdir name="3010148">
-        <string name="name" value="Toga"/>
-        <string name="desc" value="Recovers 100 HP and 50 MP every 10 seconds."/>
-    </imgdir>
     <imgdir name="3010038">
         <string name="name" value="Clear Chair"/>
         <string name="desc" value="When you sit in this chair, 50 HP are recovered every 10 seconds."/>
@@ -3028,13 +3017,11 @@
     </imgdir>
     <imgdir name="3010347">
         <string name="name" value="Red Beach Chair"/>
-        <string name="desc" value="You can recover 20 MP every 10 seconds.
-"/>
+        <string name="desc" value="You can recover 20 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010348">
         <string name="name" value="Blue Beach Chair"/>
-        <string name="desc" value="You can recover 20 MP every 10 seconds.
-"/>
+        <string name="desc" value="You can recover 20 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010349">
         <string name="name" value="Tiger Skin Chair"/>
@@ -3155,8 +3142,8 @@
         <string name="desc" value="A chair for Evan who guarded the past."/>
     </imgdir>
     <imgdir name="3010288">
-        <string name="name" value="Shiny Pearl"/>
-        <string name="desc" value="Restores 50 HP and 50 MP every 10 seconds."/>
+        <string name="name" value="Pearl Clam Chair"/>
+        <string name="desc" value="A chair shaped like a clamshell holding a shiny pearl. Recovers 50 HP and MP every 10 seconds.  "/>
     </imgdir>
     <imgdir name="3010281">
         <string name="name" value="Monkey In Distress"/>
@@ -3767,20 +3754,18 @@
     </imgdir>
     <imgdir name="3010416">
         <string name="name" value="Giant Yeti"/>
-        <string name="desc" value="Recovery 50 HP and 50 MP every 10 seconds.
-"/>
+        <string name="desc" value="Recovery 50 HP and 50 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010417">
         <string name="name" value="Giant Pepe"/>
-        <string name="desc" value="Recovery 50 HP and 50 MP every 10 seconds.
-"/>
+        <string name="desc" value="Recovery 50 HP and 50 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010427">
         <string name="name" value="Bookshelf Chair"/>
         <string name="desc" value="Sitting on this chair makes you read a book automatically. Recovers 70 HP and 40 MP every 10 seconds."/>
     </imgdir>
     <imgdir name="3994228">
-        <string name="name" value="CooKing&apos;s Piece of Christmas cake"/>
+        <string name="name" value="Cooking&apos;s Piece of Christmas cake"/>
         <string name="desc" value="Handmade piece of Christmas cake by CooKing. Ingredients unknown but very tasty.  "/>
     </imgdir>
     <imgdir name="3994229">
@@ -3828,7 +3813,7 @@
         <string name="desc" value="The taste may be moderate, but is known for being highly nutritious. Recommended to take it in quickly before the mother smells it. "/>
     </imgdir>
     <imgdir name="3994240">
-        <string name="name" value="Mushroom Castle Red wine"/>
+        <string name="name" value="Mushroom Castle Red Wine"/>
         <string name="desc" value="A high-quality wine that was used on the occasion of the Mushroom Castle princess&apos; wedding. "/>
     </imgdir>
     <imgdir name="3994241">
@@ -3851,28 +3836,23 @@
     </imgdir>
     <imgdir name="3994460">
         <string name="name" value="Golden Ornament"/>
-        <string name="desc" value="A beautiful golden ornament to decorate the town with for the Legends Awards. Gather them up and bring them to Gaga.
-"/>
+        <string name="desc" value="A beautiful golden ornament to decorate the town with for the Legends Awards. Gather them up and bring them to Gaga.\r\n"/>
     </imgdir>
     <imgdir name="3994461">
         <string name="name" value="Fireworks"/>
-        <string name="desc" value="Fireworks to light up the night of the Legends Awards. Gather them up and bring them to Gaga.
-"/>
+        <string name="desc" value="Fireworks to light up the night of the Legends Awards. Gather them up and bring them to Gaga.\r\n"/>
     </imgdir>
     <imgdir name="3994462">
         <string name="name" value="Glass Marble"/>
-        <string name="desc" value="Glass Marbles that will be used to decorate the town during the Legends Awards. Gather them up and bring them to Gaga.
-"/>
+        <string name="desc" value="Glass Marbles that will be used to decorate the town during the Legends Awards. Gather them up and bring them to Gaga.\r\n"/>
     </imgdir>
     <imgdir name="3994463">
         <string name="name" value="Shiny Light Bulb"/>
-        <string name="desc" value="Shiny Light Bulbs that will be used to decorate the town during the Legends Awards. Gather them up and bring them to Gaga.
-"/>
+        <string name="desc" value="Shiny Light Bulbs that will be used to decorate the town during the Legends Awards. Gather them up and bring them to Gaga.\r\n"/>
     </imgdir>
     <imgdir name="3994464">
         <string name="name" value="Flashy Button"/>
-        <string name="desc" value="A flashy button that Maple Claws is looking for. Gather up 100 of them and bring them to Maple Claws.
-"/>
+        <string name="desc" value="A flashy button that Maple Claws is looking for. Gather up 100 of them and bring them to Maple Claws.\r\n"/>
     </imgdir>
     <imgdir name="3994465">
         <string name="name" value="Rock-Paper-Scissors Trophy"/>
@@ -3900,17 +3880,15 @@
     </imgdir>
     <imgdir name="3010222">
         <string name="name" value="Reading Chair"/>
-        <string name="desc" value="Restores 100 HP and 50 MP every 10 seconds.
-"/>
+        <string name="desc" value="Restores 100 HP and 50 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010311">
         <string name="name" value="Black Dragon Throne"/>
+        <string name="desc" value="A chair that seems to possess the power of the Black Dragon. \nRecovers 50 MP and 50 HP every 10 seconds."/>
     </imgdir>
     <imgdir name="3010355">
-        <string name="name" value="Galacto-Drill Chair
-"/>
-        <string name="desc" value="The Galacto-Drill Chair is surprisingly comfortable, despite the fact that it was made for alien bottoms. Recovers 50 HP and 50 MP every 10 seconds.
-"/>
+        <string name="name" value="Galacto-Drill Chair\r\n"/>
+        <string name="desc" value="The Galacto-Drill Chair is surprisingly comfortable, despite the fact that it was made for alien bottoms. Recovers 50 HP and 50 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010358">
         <string name="name" value="It&apos;s a Hoot! Chair"/>
@@ -3993,8 +3971,8 @@
         <string name="desc" value="A symbolic chair for a hero who has protected Maple World for a long time. Recovers 50 HP, 50 MP every 10 seconds."/>
     </imgdir>
     <imgdir name="3010383">
-        <string name="name" value="Maple Guardian Chair(1~2 Years)_Explorer"/>
-        <string name="desc" value="A symbolic chair for a hero who has protected Maple World for a long time. Recovers 50 HP, 50 MP every 10 seconds."/>
+        <string name="name" value="Adventurer&apos;s flag chair"/>
+        <string name="desc" value="A flag and a chair that symbolize adventurers. Recovers HP/MP by 50 every 10 secconds."/>
     </imgdir>
     <imgdir name="3010384">
         <string name="name" value="Maple Guardian Chair(1~2 Years)_Cygnus"/>
@@ -4021,8 +3999,8 @@
         <string name="desc" value="A symbolic chair for a hero who has protected Maple World for a long time. Recovers 80 HP, 50 MP every 10 seconds."/>
     </imgdir>
     <imgdir name="3010390">
-        <string name="name" value="Maple Guardian Chair(3~4 Years)_Explorer"/>
-        <string name="desc" value="A symbolic chair for a hero who has protected Maple World for a long time. Recovers 80 HP, 50 MP every 10 seconds."/>
+        <string name="name" value="flag chair of high-level adventurer"/>
+        <string name="desc" value="A flag and a chair that symbolize adventurers. Recovers HP/MP by 50 every 10 secconds."/>
     </imgdir>
     <imgdir name="3010391">
         <string name="name" value="Maple Guardian Chair(3~4 Years)_Cygnus"/>
@@ -4049,8 +4027,8 @@
         <string name="desc" value="A symbolic chair for a hero who has protected Maple World for a long time. Recovers 100 HP, 80 MP every 10 seconds."/>
     </imgdir>
     <imgdir name="3010397">
-        <string name="name" value="Maple Guardian Chair(5~6 Years)_Explorer"/>
-        <string name="desc" value="A symbolic chair for a hero who has protected Maple World for a long time. Recovers 100 HP, 80 MP every 10 seconds."/>
+        <string name="name" value="flag chair of high-level adventurer"/>
+        <string name="desc" value="A flag and a chair that symbolize adventurers. Recovers HP/MP by 50 every 10 secconds."/>
     </imgdir>
     <imgdir name="3010398">
         <string name="name" value="Maple Guardian Chair(5~6 Years)_Cygnus"/>
@@ -4082,8 +4060,7 @@
     </imgdir>
     <imgdir name="3010410">
         <string name="name" value="Elize&apos;s  Lap"/>
-        <string name="desc" value="Restores 50 HP and 50 MP every 10 seceonds.
-"/>
+        <string name="desc" value="Restores 50 HP and 50 MP every 10 seceonds.\r\n"/>
     </imgdir>
     <imgdir name="3010421">
         <string name="name" value="Big Money Chair"/>
@@ -4091,8 +4068,7 @@
     </imgdir>
     <imgdir name="3010422">
         <string name="name" value="Game of Seats Chair"/>
-        <string name="desc" value="Anyone who isn&apos;t us is our enemy. Recovery 200 HP and 100 MP every 10 seconds.
-"/>
+        <string name="desc" value="Anyone who isn&apos;t us is our enemy. Recovery 200 HP and 100 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010423">
         <string name="name" value="Shroom Buddy Chair"/>
@@ -4100,13 +4076,11 @@
     </imgdir>
     <imgdir name="3010424">
         <string name="name" value="Pimp Chair"/>
-        <string name="desc" value="Positively pimpin&apos;. Recovery 50 HP and 50 MP every 10 seconds.
-"/>
+        <string name="desc" value="Positively pimpin&apos;. Recovery 50 HP and 50 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010425">
         <string name="name" value="The Aluminum Throne"/>
-        <string name="desc" value="A good king knows when to save his strength and when to destroy his enemies. Recovery 100 HP and 200 MP every 10 seconds.
-"/>
+        <string name="desc" value="A good king knows when to save his strength and when to destroy his enemies. Recovery 100 HP and 200 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3010429">
         <string name="name" value="Red Dragon Chair"/>
@@ -6301,7 +6275,7 @@
         <string name="desc" value="A title obtained by completing all of the Legendary Memories quests. Consider this one step higher than Legendary.\r\n#cClick to turn it ON/OFF.#"/>
     </imgdir>
     <imgdir name="3700012">
-        <string name="name" value="The brave"/>
+        <string name="name" value="The Brave"/>
         <string name="desc" value="A title for newbies. Newbies need titles, too!"/>
     </imgdir>
     <imgdir name="3700013">
@@ -6581,11 +6555,11 @@
         <string name="desc" value="Title given to those who received 3 Love Confession Cards during the Valentine Day Event."/>
     </imgdir>
     <imgdir name="3700099">
-        <string name="name" value="Full of charms"/>
+        <string name="name" value="Full of Charms"/>
         <string name="desc" value="Title given to those who received 2 Love Confession Cards and 1 Friendship Card during the Valentine Day Event."/>
     </imgdir>
     <imgdir name="3700100">
-        <string name="name" value="Attention grabbing"/>
+        <string name="name" value="Attention Grabbing"/>
         <string name="desc" value="Title given to those who received 2 Love Confession Cards and 1 Breakup Card during the Valentine Day Event."/>
     </imgdir>
     <imgdir name="3700101">
@@ -6950,14 +6924,11 @@
     </imgdir>
     <imgdir name="3994511">
         <string name="name" value="Paint Brush"/>
-        <string name="desc" value="A delicate brush used to color Easter Eggs.
-Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Egg Buff.
-"/>
+        <string name="desc" value="A delicate brush used to color Easter Eggs.\r\nKeep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Egg Buff.\r\n"/>
     </imgdir>
     <imgdir name="3994512">
         <string name="name" value="Gold Colored Egg "/>
-        <string name="desc" value="It&apos;s nice and shiny, but it still needs a bit more work. Try making it even fancier!
-Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Egg Buff."/>
+        <string name="desc" value="It&apos;s nice and shiny, but it still needs a bit more work. Try making it even fancier!\r\nKeep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Egg Buff."/>
     </imgdir>
     <imgdir name="3994514">
         <string name="name" value="Stone of Virtue"/>
@@ -7061,7 +7032,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3994572">
         <string name="name" value="Gale Gourd"/>
-        <string name="desc" value="A gourd that can capture the Tempest [Wind] that blew into Maple World. Stay logged in for 30 minutes with this in your inventory to fill it up."/>
+        <string name="desc" value="A gourd that can capture the [Wind] that blew into Maple World. Stay logged in for 30 minutes with this in your inventory to fill it up."/>
     </imgdir>
     <imgdir name="3994573">
         <string name="name" value="Windy Gale Gourd"/>
@@ -7160,8 +7131,8 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="desc" value="Rock-hard ice from the Ice Pillar. It won&apos;t melt no matter how hot the weather is."/>
     </imgdir>
     <imgdir name="3994600">
-        <string name="name" value="Windy&apos;s Wind Gourd"/>
-        <string name="desc" value="Wind Gourd that Lisa requested for Windy the Wind Fairy. Gourd has &apos;To my friend Windy...&quot; on it. It&apos;s pretty Windy."/>
+        <string name="name" value="Windy Gale Gourd"/>
+        <string name="desc" value="A gourd filled with Tempest [Wind] energy. Take it to Windy."/>
     </imgdir>
     <imgdir name="3994608">
         <string name="name" value="Ghost Sheet Music"/>
@@ -7361,19 +7332,19 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3994687">
         <string name="name" value="Number 2"/>
-        <string name="desc" value="A number 2 for celebrating the coming of 2013."/>
+        <string name="desc" value="A number 2 for celebrating the coming of 2014."/>
     </imgdir>
     <imgdir name="3994688">
         <string name="name" value="Number 0"/>
-        <string name="desc" value="A number 0 for celebrating the coming of 2013."/>
+        <string name="desc" value="A number 0 for celebrating the coming of 2014."/>
     </imgdir>
     <imgdir name="3994689">
         <string name="name" value="Number 1"/>
-        <string name="desc" value="A number 1 for celebrating the coming of 2013."/>
+        <string name="desc" value="A number 1 for celebrating the coming of 2014."/>
     </imgdir>
     <imgdir name="3994690">
-        <string name="name" value="Number 3"/>
-        <string name="desc" value="A number 3 for celebrating the coming of 2013."/>
+        <string name="name" value="Number 4"/>
+        <string name="desc" value="A number 4 for celebrating the coming of 2014."/>
     </imgdir>
     <imgdir name="3994691">
         <string name="name" value="Young Sun"/>
@@ -7570,74 +7541,71 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3010625">
         <string name="name" value="Giant Yeti"/>
-        <string name="desc" value="Recovery 50 HP and 50 MP every 10 seconds.
-"/>
+        <string name="desc" value="Recovery 50 HP and 50 MP every 10 seconds.\r\n"/>
     </imgdir>
     <imgdir name="3700121">
         <string name="name" value="Expedition Commander"/>
-        <string name="desc" value="This title is given in recognition of the brave leader who had led many adventurers to participate in expeditions. \r\n#cClick to turn ON/OFF. #\r\n#cWhen equipped - All Stats +10, ATT/Magic ATT+10 Max HP +500, Max MP +500#
-"/>
+        <string name="desc" value="This title is given in recognition of the brave leader who had led many adventurers to participate in expeditions. \r\n#cClick to turn ON/OFF. #\r\n#cWhen equipped - All Stats +10, ATT/Magic ATT+10 Max HP +500, Max MP +500#\r\n"/>
     </imgdir>
     <imgdir name="3700122">
         <string name="name" value="Special Force"/>
-        <string name="desc" value="This title is given in recognition of the participants of countless expeditions.
-\r\n#cClick to turn ON/OFF.#\r\n#cWhen equipped - All Stats +5, ATT/Magic ATT+5, Max HP +300, Max MP +300#"/>
+        <string name="desc" value="This title is given in recognition of the participants of countless expeditions.\r\n\r\n#cClick to turn ON/OFF.#\r\n#cWhen equipped - All Stats +5, ATT/Magic ATT+5, Max HP +300, Max MP +300#"/>
     </imgdir>
     <imgdir name="3700025">
-        <string name="name" value="해피 할로윈"/>
-        <string name="desc" value="해피 할로윈~! 할로윈을 기념하며 축제를 즐겨보자.\r\n#c클릭으로 ON/OFF시킬 수 있습니다.#"/>
+        <string name="name" value="Happy Halloween"/>
+        <string name="desc" value="Happy Halloween! Enjoy the celebrations.\r\n#cClick on it to turn it ON/OFF.#"/>
     </imgdir>
     <imgdir name="3700026">
-        <string name="name" value="가면신사 보고 있나?"/>
-        <string name="desc" value="가면신사의 음모를 밝혀내고 얻은 칭호다. 이것을 켜고 헌티드맨션을 돌아다녀 보자~\r\n#c클릭으로 ON/OFF시킬 수 있습니다.#"/>
+        <string name="name" value="Watch me! Mask Gentleman"/>
+        <string name="desc" value="A title obtained by uncovering the Masked Gentleman&apos;s conspiracy. Try walking around the Haunted Mansion with this title!\r\n#cClick on it to turn it ON/OFF.#"/>
     </imgdir>
     <imgdir name="3700044">
-        <string name="name" value="내가 제일 잘 나가"/>
-        <string name="desc" value="메이플 클럽 헤네시스 레전드리 등급에게 제공되는 칭호입니다. \r\n#c클릭으로 ON/OFF시킬 수 있습니다.#\r\n#c착용시 공격력/마력+3, 올스탯 +7, Max HP/MP +500, 몬스터 방어율 무시 +5%#"/>
+        <string name="name" value="I&apos;m The Best"/>
+        <string name="desc" value="A title for Legendary Maple Club Henesys Members. \r\n#cCan be toggled ON/OFF by clicking.#\r\n#cWhen equipped, ATT/Magic ATT +3, All Stats +7, Max HP/MP +500, Enemy DEF ignored +5%#"/>
     </imgdir>
     <imgdir name="3700045">
-        <string name="name" value="나도 엄청 잘 나가"/>
-        <string name="desc" value="메이플 클럽 헤네시스 유니크 등급에게 제공되는 칭호입니다. \r\n#c클릭으로 ON/OFF시킬 수 있습니다.#\r\n#c착용시 공격력/마력+3, 올스탯 +5, Max HP/MP +500#"/>
+        <string name="name" value="I&apos;m Better"/>
+        <string name="desc" value="A title for Unique Maple Club Henesys Members. \r\n#cCan be toggled ON/OFF by clicking.#\r\n#cWhen equipped, ATT/Magic ATT +3, All Stats +5, Max HP/MP +500#"/>
     </imgdir>
     <imgdir name="3700046">
-        <string name="name" value="나도 사실 잘 나가"/>
-        <string name="desc" value="메이플 클럽 헤네시스 에픽 등급에게 제공되는 칭호입니다. \r\n#c클릭으로 ON/OFF시킬 수 있습니다.#\r\n#c착용시 공격력/마력+2, 올스탯 +3, Max HP/MP +500#"/>
+        <string name="name" value="I&apos;m Good"/>
+        <string name="desc" value="A title for Epic Maple Maple Club Henesys Members. \r\n#cCan be toggled ON/OFF by clicking.#\r\n#cWhen equipped, ATT/Magic ATT +2, All Stats +3, Max HP/MP +500#"/>
     </imgdir>
     <imgdir name="3700047">
-        <string name="name" value="글래디에이터"/>
-        <string name="desc" value="글래디에이터 모드에서 위업을 달성한 사람에게 주는 칭호이다. \r\n#c클릭으로 ON/OFF시킬 수 있습니다.#\r\n#c착용시 공격력 +2, 마력 +2, 올스탯 +3#"/>
+        <string name="name" value="Gladiator"/>
+        <string name="desc" value="Title for mighty Gladiators.\r\n#cCan be toggled ON/OFF by clicking.#\r\n#cWhen equipped, ATT +2, Magic ATT +2, All Stats +3#"/>
     </imgdir>
     <imgdir name="3700048">
-        <string name="name" value="전장을 평정한 자"/>
-        <string name="desc" value="글래디에이터 모드 전장을 평정한 자에게 주는 칭호이다. \r\n#c클릭으로 ON/OFF시킬 수 있습니다.#\r\n#c착용시 공격력 +3, 마력 +3, 몬스터 방어력 무시 5%#"/>
+        <string name="name" value="Battlefield Conqueror"/>
+        <string name="desc" value="Title for Battlefield Conquerors in the Gladiator Mode.\r\n#cCan be toggled ON/OFF by clicking.#\r\n#cWhen equipped, Attack +3, Magic Attack +3, Enemy DEF ignored 5%#"/>
     </imgdir>
     <imgdir name="3994220">
-        <string name="name" value="추석 한과"/>
-        <string name="desc" value="구워서 튀긴 쌀과자에 조청을 바른 맛있는 한과다. 메이플운영자에게 가져가면 좋은 일이 생길지도 모른다."/>
+        <string name="name" value="Thanksgiving Han Gwa"/>
+        <string name="desc" value="Tasty Han Gwa made of baked rice crackers and syrup. Take this to the Maple Administrator."/>
     </imgdir>
     <imgdir name="3994446">
-        <string name="name" value="할로윈 호박 등불"/>
-        <string name="desc" value="마법의 할로윈 나무를 장식할 수 있는 할로윈 호박 등불이다.  #c할로윈 관련 장비를 착용하고 할로윈 순간 이동의 돌을 사용하면 나무가 자라는 곳으로 이동하여 등불을 사용할 수 있습니다.#"/>
+        <string name="name" value="Halloween Pumpkin Lantern"/>
+        <string name="desc" value="A Halloween pumpkin lantern that can be use to decorate the magical Halloween tree. #cUse the Halloween Teleport Rock with a Halloween related equipment equipped in order move to where the tree is growing so that you can use the lantern.#"/>
     </imgdir>
     <imgdir name="3994447">
-        <string name="name" value="할로윈 마법의 사탕"/>
-        <string name="desc" value="먹으면 알수 없는 힘을 얻을 수 있는 할로윈 마법 사탕이다. 레벨에 따라 경험치를 상승시킨다."/>
+        <string name="name" value="Magical Halloween Pop"/>
+        <string name="desc" value="Fills you up with crazy Halloween magic. Increases EXP based on level."/>
     </imgdir>
     <imgdir name="3994451">
-        <string name="name" value="게스트룸 키"/>
-        <string name="desc" value="게스트룸에서 얻은 가면 문양이 새겨진 키이다. 어디에 쓰이는 거지?"/>
+        <string name="name" value="Guest Room Key"/>
+        <string name="desc" value="An engraved key obtained from the Guest Room. What mysterious door does it open?"/>
     </imgdir>
     <imgdir name="3994452">
-        <string name="name" value="서재 키"/>
-        <string name="desc" value="헌티드맨션 서재에서 얻은 가면 문양이 새겨진 키이다. 어디에 쓰이는 거지?"/>
+        <string name="name" value="Library Key"/>
+        <string name="desc" value="An engraved key obtained from the Haunted Mansion Library. What could it be used for?"/>
     </imgdir>
     <imgdir name="3994453">
-        <string name="name" value="호박밭 키"/>
-        <string name="desc" value="헌티드맨션 호박밭에서 얻은 가면 문양이 새겨진 키이다. 어디에 쓰이는 거지?"/>
+        <string name="name" value="Pumpkin Field Key"/>
+        <string name="desc" value="An engraved key obtained from the Haunted Mansion Pumpkin Field. What could it be used for?"/>
     </imgdir>
     <imgdir name="3994454">
-        <string name="name" value="엉망진창 중앙홀 키"/>
-        <string name="desc" value="헌티드맨션 엉망진창 중앙홀에서 얻은 가면 문양이 새겨진 키이다. 어디에 쓰이는 거지?"/>
+        <string name="name" value="Messed Up Center Hall Key"/>
+        <string name="desc" value="An engraved key obtained from the Haunted Mansion Messed Up Center Hall. What could it be used for?"/>
     </imgdir>
     <imgdir name="3994578">
         <string name="name" value="ABC 상품권"/>
@@ -7688,8 +7656,8 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="desc" value="Sitting on the couch, they talk about the dream of yesterday. HP and MP are recovered by 50 every 10 seconds if you keep sitting."/>
     </imgdir>
     <imgdir name="3010593">
-        <string name="name" value="Mistress Mistress New Year is..."/>
-        <string name="desc" value="Let&apos;s greet New Year with Mercedes Mistress and the bread-eating slime! Sitting there, HP is recovered by 50 every 10 seconds."/>
+        <string name="name" value="Happy Lunar New Year Chair"/>
+        <string name="desc" value="Let&apos;s greet the Lunar New Year with Mercedes and the mochi-eating Slime! While sitting, HP recovers by 50 for every 10 seconds."/>
     </imgdir>
     <imgdir name="3010596">
         <string name="name" value="Kite Cushion"/>
@@ -7779,6 +7747,10 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="name" value="Wits Case 4X3"/>
         <string name="desc" value="A case where you can put 12 Wits.\r\n#cSize: 4X3"/>
     </imgdir>
+    <imgdir name="3090005">
+        <string name="name" value="Bits case 3x2"/>
+        <string name="desc" value="A case that can hold 6 bits \r\n#cSize : 3X2"/>
+    </imgdir>
     <imgdir name="3700108">
         <string name="name" value="I&apos;m Sorry, Yagwanggwi."/>
         <string name="desc" value="I feel a bit sorry for Yagwanggwi but I got richer. \r\n#cYou can turn ON/OFF with a click.#\r\n#c&lt;Effect on Wearing&gt;\n Attack/HP +3#"/>
@@ -7801,7 +7773,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3700117">
         <string name="name" value="Sweet-Sour White Day"/>
-        <string name="desc" value="The special title given to all parties who obtained the sweet-sour glasses + earring set in the White Day event. \r\n#cYou can turn ON/OFF with a click.#\r\n#c&lt;Effect on Wearing&gt;\n Attack\HP +3\r\nAll Stats + 5#"/>
+        <string name="desc" value="The special title given to all parties who obtained the sweet-sour glasses + earring set in the White Day event. \r\n#cYou can turn ON/OFF with a click.#\r\n#c&lt;Effect on Wearing&gt;\nWeapon/Magic Attack + 3 each \r\nAll Stats + 5#"/>
     </imgdir>
     <imgdir name="3700118">
         <string name="name" value="Maple Playboy"/>
@@ -7857,7 +7829,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3700134">
         <string name="name" value="Maple Year 10"/>
-        <string name="desc" value="A title given to a friend who visits the Maple World from April 29, 2035 to April 29, 2004."/>
+        <string name="desc" value="A title given to a friend who visits the Maple World from April 29, 2003 to April 29, 2004."/>
     </imgdir>
     <imgdir name="3700135">
         <string name="name" value="Love Chaser"/>
@@ -7876,19 +7848,19 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="desc" value="Go! A title given to the one who completed Meso Ranger mission flawlessly.\n#cDEX +1"/>
     </imgdir>
     <imgdir name="3700143">
-        <string name="name" value="White Collector"/>
-        <string name="desc" value="A title given to the one who collected six 10th Anniversary White Equipment.\n#cMHP +50"/>
+        <string name="name" value="Shiro Collector"/>
+        <string name="desc" value="A title given to the one who collected six Shiro Equipment.\n#cMHP +50"/>
     </imgdir>
     <imgdir name="3700144">
-        <string name="name" value="Black Collector"/>
-        <string name="desc" value="A title given to the one who collected six 10th Anniversary Black Equipment.\n#cMHP +80\nMMP +80#"/>
+        <string name="name" value="Kuro Collector"/>
+        <string name="desc" value="A title given to the one who collected six Kuro Equipment.\n#cMHP +80\nMMP +80#"/>
     </imgdir>
     <imgdir name="3700145">
         <string name="name" value="My Golden Maple Tree"/>
         <string name="desc" value="A title given to the one who is blessed with the Golden Maple Tree.\n#cLUK +1"/>
     </imgdir>
     <imgdir name="3700146">
-        <string name="name" value="Taking 10 years as 10 days"/>
+        <string name="name" value="Taking 9 years as 9 days"/>
         <string name="desc" value="A title given to the loyal Maple traveler\n#cSTR +1"/>
     </imgdir>
     <imgdir name="3700147">
@@ -7897,15 +7869,15 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3700148">
         <string name="name" value="I am Popular"/>
-        <string name="desc" value="A title given to the rank Maple Club Genesis Legendary. \r\n#cYou can turn ON/OFF with a click.#\r\n#cAttack/HP +3, All Stats +7, Max HP/MP +500, on wearing, ignore Monster Defense +5%#"/>
+        <string name="desc" value="A title given to Club Henesys in a Legendary level. \r\n#cClick to choose ON/OFF.#\r\n#cWhen worn, attack/magic +7, all stats +10, Max HP/MP +500, monster defense rate ignorance +5%#"/>
     </imgdir>
     <imgdir name="3700149">
         <string name="name" value="I am Popular Too"/>
-        <string name="desc" value="A title given to the rank Maple Club Genesis Unique. \r\n#cYou can turn ON/OFF with a click.#\r\n#cAttack/HP +3, All Stats +5, Max HP/MP +500, on wearing#"/>
+        <string name="desc" value="A title given to Club Henesys in a Legendary level. \r\n#cClick to choose ON/OFF.#\r\n#cWhen worn, attack/magic +5, all stats +7, Max HP/MP +400, monster defense rate ignorance +3%#"/>
     </imgdir>
     <imgdir name="3700150">
         <string name="name" value="I am Popular Actually"/>
-        <string name="desc" value="A title given to the rank Maple Club Genesis Epic. \r\n#cYou can turn ON/OFF with a click.#\r\n#cAttack/HP +2, All Stats +3, Max HP/MP +500, on wearing#"/>
+        <string name="desc" value="A title given to Club Henesys in a Legendary level. \r\n#cClick to choose ON/OFF.#\r\n#cWhen worn, attack/magic +3, all stats +5, Max HP/MP +300#"/>
     </imgdir>
     <imgdir name="3700151">
         <string name="name" value="Fresh Clan Unit"/>
@@ -7918,6 +7890,106 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     <imgdir name="3700153">
         <string name="name" value="Senior Clan Unit"/>
         <string name="desc" value="God bless you! A title given to the one qualified for the Clan. I became a member to lead the clan unit after all. \n#cAll Stat +15, Attack/HP +1, MHP/MMP +1000"/>
+    </imgdir>
+    <imgdir name="3700154">
+        <string name="name" value="Whether it&apos;s a Wolf or a Sheep"/>
+        <string name="desc" value="Were you happy when you were a wolf or when you were a sheep? A special titme given to a sheep ranch mania confused whether he is a wolf or a sheep."/>
+    </imgdir>
+    <imgdir name="3700156">
+        <string name="name" value="Man of Adventure"/>
+        <string name="desc" value="A title given to a man who enjoys adventures. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700157">
+        <string name="name" value="Woman of Adventure"/>
+        <string name="desc" value="A title given to a woman who enjoys adventures. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700158">
+        <string name="name" value="Famous Dancer"/>
+        <string name="desc" value="A title given to a person who has a great sense of rhythm. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700159">
+        <string name="name" value="Hot or Cool"/>
+        <string name="desc" value="A title given to those who participated in all cool time events held three times on Saturday. \r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700160">
+        <string name="name" value="Ice Revolution"/>
+        <string name="desc" value="A title given to those who used more than 20 mysterious ice box.  \r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700161">
+        <string name="name" value="Revolution Attendance King"/>
+        <string name="desc" value="A title given to a person who participated in the attendance event held between Jul 4th and Jul 17st for more than 5 times. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700162">
+        <string name="name" value="Visitor of Mirror World"/>
+        <string name="desc" value="A title given to a person who finished up to chapter 4. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700163">
+        <string name="name" value="B.I.N.G.O!"/>
+        <string name="desc" value="A title given to a person who participated in maple bingo. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700164">
+        <string name="name" value="Cool Happiness"/>
+        <string name="desc" value="A title given to those who participated in a cool time event. \r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700165">
+        <string name="name" value="Ice Revolution"/>
+        <string name="desc" value="A title given to those who used more than 20 mysterious ice box.  \r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700166">
+        <string name="name" value="Evolution Attendance King"/>
+        <string name="desc" value="A title given to a person who participated in the attendance event held between Jul 18th and Jul 31st for more than 5 times. \r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700168">
+        <string name="name" value="Battle Monster Rookie"/>
+        <string name="desc" value="A title given to those who finished the battle monster tutorial. \r\n#cAll Stat +1#\r\n\r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700169">
+        <string name="name" value="Facing a Giant Enemy"/>
+        <string name="desc" value="A title given to those who challenged Hecaton. \r\n#caPhysical attack +1#\r\n#cMagic attack +1#\r\n\r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700170">
+        <string name="name" value="Cool Happiness"/>
+        <string name="desc" value="A title given to those who participated in a cool time event. \r\n#caPhysical defense +50#\r\n#cMagic defense +50#\r\n\r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700171">
+        <string name="name" value="Ice Delight"/>
+        <string name="desc" value="A title given to those who used more than 20 mysterious ice D.  \r\n#cAccuracy +10#\r\n\r\n#cClick to choose ON/OFF#"/>
+    </imgdir>
+    <imgdir name="3700172">
+        <string name="name" value="Delight Attendance King"/>
+        <string name="desc" value="A title given to a person who participated in the attendance event held between Aug 1st and Aug 14th for more than 5 times. \r\n#cAllStat +2#\r\n\r\n#cClick to choose ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700173">
+        <string name="name" value="Battle Monster Mythic"/>
+        <string name="desc" value="A title given to battle monster league &apos;beginner.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF."/>
+    </imgdir>
+    <imgdir name="3700174">
+        <string name="name" value="Battle Monster Amateur"/>
+        <string name="desc" value="A title given to battle monster league &apos;amateur.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +1#"/>
+    </imgdir>
+    <imgdir name="3700175">
+        <string name="name" value="Battle Monster Beginner"/>
+        <string name="desc" value="A title given to battle monster league &apos;semi-pro.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +2#"/>
+    </imgdir>
+    <imgdir name="3700176">
+        <string name="name" value="Battle Monster Pro"/>
+        <string name="desc" value="A title given to battle monster league &apos;pro.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +3#"/>
+    </imgdir>
+    <imgdir name="3700177">
+        <string name="name" value="Battle Monster All-Star"/>
+        <string name="desc" value="A title given to battle monster league &apos;all-star.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +4#"/>
+    </imgdir>
+    <imgdir name="3700178">
+        <string name="name" value="Battle Monster Superstar"/>
+        <string name="desc" value="A title given to battle monster league &apos;superstar.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +5#"/>
+    </imgdir>
+    <imgdir name="3700179">
+        <string name="name" value="Battle Monster Legend"/>
+        <string name="desc" value="A title given to battle monster league &apos;legend.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +6#"/>
+    </imgdir>
+    <imgdir name="3700180">
+        <string name="name" value="Battle Monster Mythic"/>
+        <string name="desc" value="A title given to battle monster league &apos;mythic.&apos; Disappears when logged out, can be received again at any time. \r\n#cClick to choose ON/OFF.#\r\n#c&lt;Effects when worn&gt;\n attack/magic +7#"/>
     </imgdir>
     <imgdir name="3800484">
         <string name="name" value="Maple Chat"/>
@@ -7987,9 +8059,116 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="name" value="Maple Chat"/>
         <string name="desc" value="Maple Chat"/>
     </imgdir>
+    <imgdir name="3800573">
+        <string name="name" value="Killing point 1"/>
+        <string name="desc" value="Killing point 1"/>
+    </imgdir>
+    <imgdir name="3800574">
+        <string name="name" value="Killing point 2"/>
+        <string name="desc" value="Killing point 2"/>
+    </imgdir>
+    <imgdir name="3800575">
+        <string name="name" value="Killing point 3"/>
+        <string name="desc" value="Killing point 3"/>
+    </imgdir>
+    <imgdir name="3800576">
+        <string name="name" value="Killing point 4"/>
+        <string name="desc" value="Killing point 4"/>
+    </imgdir>
+    <imgdir name="3800577">
+        <string name="name" value="Killing point 5"/>
+        <string name="desc" value="Killing point 5"/>
+    </imgdir>
+    <imgdir name="3800632">
+        <string name="name" value="Enhancement UI1"/>
+        <string name="desc" value="Enhancement UI1"/>
+    </imgdir>
+    <imgdir name="3800635">
+        <string name="name" value="Enhancement UI2"/>
+        <string name="desc" value="Enhancement UI2"/>
+    </imgdir>
+    <imgdir name="3800670">
+        <string name="name" value="Moon Bunny&apos;s Fortune Rice Cake"/>
+        <string name="desc" value="Moon Bunny&apos;s Fortune Rice Cake"/>
+    </imgdir>
+    <imgdir name="3800671">
+        <string name="name" value="Tattered Old Box"/>
+        <string name="desc" value="Tattered Old Box"/>
+    </imgdir>
+    <imgdir name="3800686">
+        <string name="name" value="Rainbow Energy"/>
+        <string name="desc" value="Rainbow Energy"/>
+    </imgdir>
+    <imgdir name="3800730">
+        <string name="name" value="Enhancement UI 2"/>
+        <string name="desc" value="Enhancement UI 2"/>
+    </imgdir>
+    <imgdir name="3800731">
+        <string name="name" value="Enhancement UI 3"/>
+        <string name="desc" value="Enhancement UI 3"/>
+    </imgdir>
+    <imgdir name="3800732">
+        <string name="name" value="Enhancement UI 4"/>
+        <string name="desc" value="Enhancement UI 4"/>
+    </imgdir>
+    <imgdir name="3800733">
+        <string name="name" value="Boss UI"/>
+        <string name="desc" value="Hotkey"/>
+    </imgdir>
+    <imgdir name="3800734">
+        <string name="name" value="Boss UI"/>
+        <string name="desc" value="Tab"/>
+    </imgdir>
+    <imgdir name="3800735">
+        <string name="name" value="Boss UI"/>
+        <string name="desc" value="Screen"/>
+    </imgdir>
+    <imgdir name="3800736">
+        <string name="name" value="Boss UI"/>
+        <string name="desc" value="Matching..."/>
+    </imgdir>
+    <imgdir name="3800737">
+        <string name="name" value="Boss UI"/>
+        <string name="desc" value="Completed"/>
+    </imgdir>
+    <imgdir name="3800742">
+        <string name="name" value="Action: Group Dance"/>
+        <string name="desc" value="Enter the command to dance in a group. Everyone moves to the left once, and then to the right once. "/>
+    </imgdir>
+    <imgdir name="3800743">
+        <string name="name" value="Action: Headspin"/>
+        <string name="desc" value="Enter the command to perform a headspin. Caution: You might get dizzy afterward. "/>
+    </imgdir>
+    <imgdir name="3800744">
+        <string name="name" value="Action: Put Your Hands Up"/>
+        <string name="desc" value="Enter the command to perform hip-hop dance moves. Put your hands up and wave them side to side!"/>
+    </imgdir>
+    <imgdir name="3800745">
+        <string name="name" value="Action: Photo Zone"/>
+        <string name="desc" value="Enter the command to enter a photo zone. Take your best pose for the camera."/>
+    </imgdir>
+    <imgdir name="3800746">
+        <string name="name" value="Action: Shining Star"/>
+        <string name="desc" value="Enter the command to become a superstar. Wave your hand at your fans! "/>
+    </imgdir>
+    <imgdir name="3800747">
+        <string name="name" value="One Card Customization"/>
+    </imgdir>
+    <imgdir name="3800748">
+        <string name="name" value="Yut Game Customization"/>
+    </imgdir>
+    <imgdir name="3800749">
+        <string name="name" value="Monsteropoly Customization"/>
+    </imgdir>
+    <imgdir name="3800750">
+        <string name="name" value="Solo! Keyboard Defense Customization"/>
+    </imgdir>
+    <imgdir name="3800751">
+        <string name="name" value="Raid! Keyboard Defense Customization"/>
+    </imgdir>
     <imgdir name="3994720">
         <string name="name" value="Clara&apos;s Valentine Gold Coin"/>
-        <string name="desc" value="The sap obtained from Stump. Surprisingly a cool shape."/>
+        <string name="desc" value="A gold coin issued in memory of Valentine&apos;s Day. Monetary value is low, but the coin collectors just seem to own it."/>
     </imgdir>
     <imgdir name="3994723">
         <string name="name" value="Large Bore Meat"/>
@@ -8192,7 +8371,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="desc" value="Shoes obtained from Balrog at Dream Dungeon. Does not seem that you can use."/>
     </imgdir>
     <imgdir name="3994792">
-        <string name="name" value="Horn Tail Pendant of Dreams"/>
+        <string name="name" value="Horntail Pendant of Dreams"/>
         <string name="desc" value="A pendant obtained from Horn Tail at Dream Dungeon. Does not seem that you can use."/>
     </imgdir>
     <imgdir name="3994793">
@@ -8237,7 +8416,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     </imgdir>
     <imgdir name="3994819">
         <string name="name" value="Maple Seedling"/>
-        <string name="desc" value="A wonderful maple seedling. Let&apos;s go to the 10th Anniversary Memorial Park where the 10th Anniversary party would be held."/>
+        <string name="desc" value="A wonderful maple seedling. Let&apos;s go to the 9th Anniversary Memorial Park where the 9th Anniversary party would be held."/>
     </imgdir>
     <imgdir name="3994820">
         <string name="name" value="Crumpled Tissue"/>
@@ -8252,36 +8431,172 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
         <string name="desc" value="Solid tree branches that can hang banners."/>
     </imgdir>
     <imgdir name="3994824">
-        <string name="name" value="10th Anniversary Invitation"/>
-        <string name="desc" value="An invitation to Maple 10th Anniversary. Bring to Maple operator after collecting 30 pieces, you can register the 10th Anniversary Offline Event on the Maple home page."/>
+        <string name="name" value="9th Anniversary Invitation"/>
+        <string name="desc" value="An invitation to Maple 9th Anniversary. Bring to Maple operator after collecting 30 pieces, you can register the 9th Anniversary Offline Event on the Maple home page."/>
+    </imgdir>
+    <imgdir name="3994825">
+        <string name="name" value="sparkling star"/>
+        <string name="desc" value="Sparkling star that the goddess of star dropped. Perhaps, you may receive a fancy title decorated with stars if you take it to Cassandra."/>
+    </imgdir>
+    <imgdir name="3994826">
+        <string name="name" value="Mingming wife&apos;s lunch box"/>
+        <string name="desc" value="Lunch box cleaned out down to the last grain of rice. Wish there was more."/>
+    </imgdir>
+    <imgdir name="3994827">
+        <string name="name" value="Rice Straw Bag"/>
+        <string name="desc" value="A straw bag full of white rice. Very heavy"/>
+    </imgdir>
+    <imgdir name="3994828">
+        <string name="name" value="Roly-roly Candy"/>
+        <string name="desc" value="A left-over candies fro this year&apos;s white day."/>
+    </imgdir>
+    <imgdir name="3994834">
+        <string name="name" value="Warrior&apos;s Blade Piece"/>
+        <string name="desc" value="An explorer warrior&apos;s symbol, a sharp blade piece."/>
+    </imgdir>
+    <imgdir name="3994835">
+        <string name="name" value="Bowman&apos;s Golden Arrowhead"/>
+        <string name="desc" value="An explorer bowman&apos;s symbol, a brilliant golden arrow head."/>
+    </imgdir>
+    <imgdir name="3994836">
+        <string name="name" value="Magician&apos;s Magic Marble"/>
+        <string name="desc" value="An explorer magician&apos;s symbol, a mysterious magic marble."/>
+    </imgdir>
+    <imgdir name="3994837">
+        <string name="name" value="Thief&apos;s Shadow Doll"/>
+        <string name="desc" value="An explorer thief&apos;s symbol, a suspicious shadow doll."/>
+    </imgdir>
+    <imgdir name="3994838">
+        <string name="name" value="Pirate&apos;s Whale Snack"/>
+        <string name="desc" value="An explorer pirate&apos;s symbol, a yummy whale snack."/>
+    </imgdir>
+    <imgdir name="3994839">
+        <string name="name" value="Five-color Clam shell"/>
+        <string name="desc" value="Five-color clam shell. A necklace made out the collected shell would be beautiful."/>
+    </imgdir>
+    <imgdir name="3994840">
+        <string name="name" value="Warrior&apos;s Blade Piece"/>
+        <string name="desc" value="An explorer warrior&apos;s symbol, a sharp blade piece."/>
+    </imgdir>
+    <imgdir name="3994841">
+        <string name="name" value="Archer&apos;s Golden Arrowhead"/>
+        <string name="desc" value="An explorer bowman&apos;s symbol, a brilliant golden arrow head."/>
+    </imgdir>
+    <imgdir name="3994842">
+        <string name="name" value="Wizard&apos;s Magic Marble"/>
+        <string name="desc" value="An explorer magician&apos;s symbol, a mysterious magic marble."/>
+    </imgdir>
+    <imgdir name="3994843">
+        <string name="name" value="Thief&apos;s Shadow Doll"/>
+        <string name="desc" value="An explorer thief&apos;s symbol, a suspicious shadow doll."/>
+    </imgdir>
+    <imgdir name="3994844">
+        <string name="name" value="Pirate&apos;s Whale Snack"/>
+        <string name="desc" value="An explorer pirate&apos;s symbol, a yummy whale snack."/>
+    </imgdir>
+    <imgdir name="3994852">
+        <string name="name" value="Closed Mileage Packet"/>
+        <string name="desc" value="Stubbornly closed mileage packet, it may open its heart if you keep it for one hour with love and care."/>
+    </imgdir>
+    <imgdir name="3994853">
+        <string name="name" value="Wide-open Mileage Packet"/>
+        <string name="desc" value="A wide-open mileage package with full of love and sincerity. Let&apos;s go get those shiny mileage."/>
+    </imgdir>
+    <imgdir name="3994854">
+        <string name="name" value="Fan to Beat Heat"/>
+        <string name="desc" value="A fan which says &quot;go away heat.&quot; Can it really beat heat?"/>
+    </imgdir>
+    <imgdir name="3994855">
+        <string name="name" value="Rugged Pink Fan"/>
+        <string name="desc" value="Very rugged-looking pink fan. Let&apos;s see how cool it is."/>
+    </imgdir>
+    <imgdir name="3994856">
+        <string name="name" value="Heart-pumping Treasure Map "/>
+        <string name="desc" value="A piece of treasure map on which the location of overly beating heart is marked"/>
+    </imgdir>
+    <imgdir name="3994869">
+        <string name="name" value="Cool Summer Shaved Ice"/>
+        <string name="desc" value="A cold shaved ice to make the heat forgettable. Let&apos;s beat the summer heat with some cold ice with some sweet red beans."/>
     </imgdir>
     <imgdir name="3010631">
         <string name="name" value="Arowana Chair"/>
         <string name="desc" value="Giant Golden Arowana Chair。Recover 200 HP and MP when seated."/>
     </imgdir>
     <imgdir name="3010651">
-        <string name="name" value="Red Mesozard"/>
-        <string name="desc" value="#cWhen united with all other Mesozards,# miracle transformation will happen."/>
+        <string name="name" value="Mesozard: Red"/>
+        <string name="desc" value="Mesozard: Red responsible for the head of Mesozard, the assembly robot. You can see #the assembled figure if the location is well organized# with other parts of Mesozard."/>
     </imgdir>
     <imgdir name="3010652">
-        <string name="name" value="Black Mesozard"/>
-        <string name="desc" value="#cWhen united with all other Mesozards,# miracle transformation will happen."/>
+        <string name="name" value="Mesozard Black"/>
+        <string name="desc" value="Mesozard Black responsible for the body of Mesozard, the assembly robot. You can see #the assembled figure if the location is well organized# with other parts of Mesozard."/>
     </imgdir>
     <imgdir name="3010653">
-        <string name="name" value="Blue Mesozard"/>
-        <string name="desc" value="#cWhen united with all other Mesozards,# miracle transformation will happen."/>
+        <string name="name" value="Mesozard Blue"/>
+        <string name="desc" value="Mesozard Blue responsible for the left arm of Mesozard, the assembly robot. You can see #the assembled figure if the location is well organized# with other parts of Mesozard."/>
     </imgdir>
     <imgdir name="3010654">
-        <string name="name" value="Pink Mesozard"/>
-        <string name="desc" value="#cWhen united with all other Mesozards,# miracle transformation will happen."/>
+        <string name="name" value="Mesozard Pink"/>
+        <string name="desc" value="Mesozard Pink responsible for the right arm of Mesozard, the assembly robot. You can see #the assembled figure if the location is well organized# with other parts of Mesozard."/>
     </imgdir>
     <imgdir name="3010655">
-        <string name="name" value="Yellow Mesozard"/>
-        <string name="desc" value="#cWhen united with all other Mesozards,# miracle transformation will happen."/>
+        <string name="name" value="Mesozard Yellow"/>
+        <string name="desc" value="Mesozard Yellow responsible for the left leg of Mesozard, the assembly robot. You can see #the assembled figure if the location is well organized# with other parts of Mesozard."/>
     </imgdir>
     <imgdir name="3010656">
-        <string name="name" value="Green Mesozard"/>
-        <string name="desc" value="#cWhen united with all other Mesozards,# miracle transformation will happen."/>
+        <string name="name" value="Mesozard Green"/>
+        <string name="desc" value="Mesozard Green responsible for the right leg of Mesozard, the assembly robot. You can see #the assembled figure if the location is well organized# with other parts of Mesozard."/>
+    </imgdir>
+    <imgdir name="3010662">
+        <string name="name" value="Octopus Fish Tank Chair"/>
+        <string name="desc" value="Don&apos;t just watch your fishies, cozy up to them! Recovers 50 HP and 50 MP every 10 seconds.   "/>
+    </imgdir>
+    <imgdir name="3010672">
+        <string name="name" value="Adventurer&apos;s Flag Chair"/>
+        <string name="desc" value="A flag and a chair that symbolize adventurers. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010673">
+        <string name="name" value="Flag Chair of High-level Adventurer"/>
+        <string name="desc" value="A flag and a chair that symbolize adventurers. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010674">
+        <string name="name" value="Flag Chair of High-level Adventurer"/>
+        <string name="desc" value="A flag and a chair that symbolize adventurers. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010675">
+        <string name="name" value="Banban&apos;s Fury"/>
+        <string name="desc" value="What is that you are boiling! Banban is furious about the fratricide for the virility food. Recovers HP/MP by 50 every 10 secconds of rest."/>
+    </imgdir>
+    <imgdir name="3010676">
+        <string name="name" value="Legion Commander&apos;s Chair"/>
+        <string name="desc" value="A meeting with the legion commanders of the Black Mage. Recovers HP/MP by 50 every 10 secconds. "/>
+    </imgdir>
+    <imgdir name="3010677">
+        <string name="name" value="Banban&apos;s fury"/>
+        <string name="desc" value="What is that you are boiling! Banban is furious about the fratricide for the virility food. Recovers HP/MP by 50 every 10 secconds of rest."/>
+    </imgdir>
+    <imgdir name="3010678">
+        <string name="name" value="Hekathrone"/>
+        <string name="desc" value="resting with Hecaton, the cursed king og christias. Hecaton, rest in piece. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010679">
+        <string name="name" value="Hekathrone"/>
+        <string name="desc" value="Resting with Hekaton, the cursed king of Kritias. Hekaton, rest in peace. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010680">
+        <string name="name" value="A Palace in a Fairytale"/>
+        <string name="desc" value="The beauty was so great, became a royal blood. Pardon me while taking a noble rest but recover HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010681">
+        <string name="name" value="Extra Large Watermelon Punch Chair"/>
+        <string name="desc" value="Summer is for watermelons. Forget the heat inside the gigantic watermelon punch. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010682">
+        <string name="name" value="Observatory Chair"/>
+        <string name="desc" value="Observatory chair in which one can look up in the beautiful night sky. There falls a akairum shooting star. Recovers HP/MP by 50 every 10 secconds."/>
+    </imgdir>
+    <imgdir name="3010683">
+        <string name="name" value="Very Scary Toy Gift"/>
+        <string name="desc" value="A chair full of much-seen-before toys. Recovers HP/MP by 50 every 10 secconds."/>
     </imgdir>
     <imgdir name="3010221">
         <string name="name" value="I Love Pastry Chair"/>
@@ -8378,5 +8693,1223 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
     <imgdir name="3010610">
         <string name="name" value="Forever Alone Chair"/>
         <string name="desc" value="I am single anytime."/>
+    </imgdir>
+    <imgdir name="3010418">
+        <string name="name" value="Haruaki&apos;s Fox Chair"/>
+        <string name="desc" value="A tiny chair for Haruaki&apos;s fox. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3010419">
+        <string name="name" value="Sengoku Command Post"/>
+        <string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3010496">
+        <string name="name" value="Mouri Command Post"/>
+        <string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3010497">
+        <string name="name" value="Takeda Command Post"/>
+        <string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3010498">
+        <string name="name" value="Uesugi Command Post"/>
+        <string name="desc" value="Commanding warriors love to dole out orders from atop this chair. \n#cRestores 60 HP and 30 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3010606">
+        <string name="name" value="Unpainted Masterpiece Chair"/>
+        <string name="desc" value="What is a blank canvas, but an invitation to dazzle?\nIf you sit in Unpainted Masterpiece Chair, 10 HP and 10 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+    </imgdir>
+    <imgdir name="3010607">
+        <string name="name" value="Sort of a Painting Chair"/>
+        <string name="desc" value="This painting could have gotten a little more love.\nIf you sit in Sort of a Painting Chair, 30 HP and 30 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+    </imgdir>
+    <imgdir name="3010608">
+        <string name="name" value="Ultimate Masterpiece Chair"/>
+        <string name="desc" value="Holy moly look at this work! The line weight, the brush work, the chiaroscuro lighting!\nIf you sit in Ultimate Masterpiece Chair, 50 HP and 50 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+    </imgdir>
+    <imgdir name="3010745">
+        <string name="name" value="Exclusive ESET Chair"/>
+        <string name="desc" value="If you sit in Exclusive ESET Chair, 100 HP and 100 MP are recovered every 10 seconds.\n#cCannot be traded or dropped.#"/>
+    </imgdir>
+    <imgdir name="3010100">
+        <string name="name" value="God Of Fortune Chair"/>
+        <string name="desc" value="Recovers 200 HP every 200 seconds."/>
+    </imgdir>
+    <imgdir name="3010769">
+        <string name="name" value="Black Bean Chair"/>
+        <string name="desc" value="Tamed Black Bean Chair that doesn&apos;t harm humans. If you sit on it, you&apos;ll feel very comfortable. Recover 60 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010770">
+        <string name="name" value="Red Spin Hat Moon Bunny Cushion"/>
+        <string name="desc" value="Sit on the cushion to see the adorable Moon Bunny dressed in Red Spin Hat dancing."/>
+    </imgdir>
+    <imgdir name="3010771">
+        <string name="name" value="Blue Spin Hat Moon Bunny Cushion"/>
+        <string name="desc" value="Sit on the cushion to see the adorable Moon Bunny dressed in Blue Spin Hat dancing."/>
+    </imgdir>
+    <imgdir name="3010772">
+        <string name="name" value="Fan Dance Moon Bunny Cushion"/>
+        <string name="desc" value="Sit on the cushion to see the amazing Moon Bunny tightrope while holding the fan."/>
+    </imgdir>
+    <imgdir name="3010773">
+        <string name="name" value="Korean Woodwind Moon Bunny Cushion"/>
+        <string name="desc" value="Sit on the cushion to see the amazing Moon Bunny blow its heart out with the Korean woodwind instrument."/>
+    </imgdir>
+    <imgdir name="3010774">
+        <string name="name" value="Kite Cushion"/>
+        <string name="desc" value="You Wolmyo! I wonder your face. Let&apos;s watch Pudibund Mistress&apos;s kite flying. HP is recovered by 50 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010775">
+        <string name="name" value="Yutnolyi Wolmyo Cushion"/>
+        <string name="desc" value="A cushion that let you enjoy the Wolmyo Yutnolyi Festival. The Wolmyos are sad because their arms are too short to throw the Yut sticks. HP is recovered by 50 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010776">
+        <string name="name" value="Bunny in the Twister"/>
+        <string name="desc" value="Fire Boar is trapped in the twister that circles around you. Restores 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010777">
+        <string name="name" value="Peppermint Throne"/>
+        <string name="desc" value="The tastiest, mintiest throne in all of Maple World. Restores 50 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010778">
+        <string name="name" value="Roasted Relaxer"/>
+        <string name="desc" value="Catch your breath and relax by sitting on this chair to recover HP+50/MP+30 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3700202">
+        <string name="name" value="The Covetous of One&apos;s Fortune"/>
+        <string name="desc" value=" Title of the covetous of one&apos;s fortune\r\n#cClick on it to toggle it ON/OFF.# \r\n#c\n ATT/Magic ATT+7#"/>
+    </imgdir>
+    <imgdir name="3700203">
+        <string name="name" value="Grand Sei·gneur"/>
+        <string name="desc" value=" Title of the grand sei·gneur\r\n#cClick on it to toggle it ON/OFF.# \r\n#c\n ATT/Magic ATT+9#"/>
+    </imgdir>
+    <imgdir name="3700204">
+        <string name="name" value="You Over Flowers"/>
+        <string name="desc" value=" Title of the one who is more beautiful than folwers\r\n#cClick to turn ON/OFF.#\r\n#cWhen equipped - All Stats +5, ATT/Magic ATT+10#"/>
+    </imgdir>
+    <imgdir name="3994857">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Alpha"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c customized In the rare occurrence of a snippet"/>
+    </imgdir>
+    <imgdir name="3994858">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Beta"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c grave from time to time, Phantom, it is found that the snippets"/>
+    </imgdir>
+    <imgdir name="3994859">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Gamma"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c tomb in Chatham, often found in the snippet"/>
+    </imgdir>
+    <imgdir name="3994860">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Delta"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c Matt pigs found in rare pieces"/>
+    </imgdir>
+    <imgdir name="3994861">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Epsilon"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c grave iron, and from time to time for each occurrence of the"/>
+    </imgdir>
+    <imgdir name="3994862">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Zeta"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c tomb in the wild, and often found in the snippet"/>
+    </imgdir>
+    <imgdir name="3994863">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Eta"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c mask found in rare pieces"/>
+    </imgdir>
+    <imgdir name="3994864">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Theta"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c grave stone found in the mask sometimes the pieces"/>
+    </imgdir>
+    <imgdir name="3994865">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Lota"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c grave often found in the wood in the mask piece"/>
+    </imgdir>
+    <imgdir name="3994866">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Kappa"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c goals Jeremiah in the rare occurrence of a snippet"/>
+    </imgdir>
+    <imgdir name="3994867">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Lambda"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c tomb, goals from time to time occurrence of the REM Sleep each"/>
+    </imgdir>
+    <imgdir name="3994868">
+        <string name="name" value="Shrine Guardian&apos;s Panel Piece, Mu"/>
+        <string name="desc" value="Gather 12 Panel Pieces to activate the magical warp into the secret Shrine Guardian&apos;s Room. \n#c grave goals often found in the REM sleep in the snippet"/>
+    </imgdir>
+    <imgdir name="3010796">
+        <string name="name" value="Recycle Coin Stacking Chair"/>
+        <string name="desc" value="A stacking coin chair made out of recycle coin. HP and MP will be recovered by 70 at every 10seconds."/>
+    </imgdir>
+    <imgdir name="3994908">
+        <string name="name" value="Red Recycle Chip"/>
+        <string name="desc" value="A Red Recycle Chip. It belongs to Coinbebe, the Coin Collector."/>
+    </imgdir>
+    <imgdir name="3010821">
+        <string name="name" value="My Childhood memories"/>
+        <string name="desc" value="Sitting with the childhood toys that we played since we were young and kept away in a dusty old box that we rarely opened. HP and MP will be recovered by 70 at every 10seconds. A chair planned by MapleSEA xLunaXSylvia"/>
+    </imgdir>
+    <imgdir name="3010822">
+        <string name="name" value="Dale Chair"/>
+        <string name="desc" value="HP and MP will be recovered by 70 at every 10seconds. A chair planned by MapleSEA Kaisel"/>
+    </imgdir>
+    <imgdir name="3010823">
+        <string name="name" value="Watch Chair"/>
+        <string name="desc" value="HP and MP will be recovered by 70 at every 10seconds. A chair planned by MapleSEA MADhybridz"/>
+    </imgdir>
+    <imgdir name="3012021">
+        <string name="name" value="Cloud Chair"/>
+        <string name="desc" value="HP and MP will be recovered by 70 at every 10seconds. A chair planned by MapleSEA MiraWing"/>
+    </imgdir>
+    <imgdir name="3012022">
+        <string name="name" value="Sushi Train"/>
+        <string name="desc" value="HP and MP will be recovered by 70 at every 10seconds. A chair planned by MapleSEA Demoiiselle"/>
+    </imgdir>
+    <imgdir name="3012023">
+        <string name="name" value="Couple Maplephone"/>
+        <string name="desc" value="Feeling sad that you&apos;re all alone with nobody to talk to? Grab a friend or a loved one and chat away together! HP and MP will be recovered by 70 at every 10seconds. A chair planned by MapleSEA Xraeko"/>
+    </imgdir>
+    <imgdir name="3010833">
+        <string name="name" value="I Love MapleStory Chair"/>
+        <string name="desc" value="A gift for those who cherish MapleStory!"/>
+    </imgdir>
+    <imgdir name="3010824">
+        <string name="name" value="Mercury Chair"/>
+        <string name="desc" value="Tiny and hot! Might be good for sore muscles, though. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010825">
+        <string name="name" value="Venus Chair"/>
+        <string name="desc" value="Thick and smoky and really, really hot! Keeps you warm like a blanket, if you can stand the heat. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010826">
+        <string name="name" value="Earth Chair"/>
+        <string name="desc" value="This vibrant blue world is a familiar place to park your behind. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010827">
+        <string name="name" value="Mars Chair"/>
+        <string name="desc" value="Is there water there? Are there aliens? Land your butt in this chair and find out! \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010828">
+        <string name="name" value="Jupiter Chair"/>
+        <string name="desc" value="A huge and stormy seat for masters of the universe. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010829">
+        <string name="name" value="Saturn Chair"/>
+        <string name="desc" value="When you&apos;re tired of running rings around your foes, have a seat and enjoy these rings. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010830">
+        <string name="name" value="Uranus Chair"/>
+        <string name="desc" value="Cold and distant, but you never thought this chair could be so cozy. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010831">
+        <string name="name" value="Neptune Chair"/>
+        <string name="desc" value="Have a seat on the very edge of our solar system and enjoy the view. \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010832">
+        <string name="name" value="Sun Chair"/>
+        <string name="desc" value="Hot, hot, HOT! Do you have the posterior fortitude to sit upon the blazing king of chairs?  \r\nRestores 60 HP and 60 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010839">
+        <string name="name" value="9th Anniversary Cake Balloon Chair"/>
+        <string name="desc" value="Designed by Chinese Mapler Xiao Shu for MapleStory&apos;s 9th Anniversary. \r\nRestores 200 HP and 200 MP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010860">
+        <string name="name" value="Hero Worship"/>
+        <string name="desc" value="Thanks to all the MapleStory heroes out there. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3994873">
+        <string name="name" value="Lovely Warmth"/>
+        <string name="desc" value="A thermometer bearing the mommy chicken&apos;s love. Maybe this will wake up the sleepy egg."/>
+    </imgdir>
+    <imgdir name="3010070">
+        <string name="name" value="Giant Pink Bean Chair"/>
+        <string name="desc" value="Giant Pink Bean chair relax in.nRecovers 30 MP and 50 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010696">
+        <string name="name" value="Giant Yellow Ducky Chair"/>
+        <string name="desc" value="Sitting on this giant ducky recovers 50 HP every 10 sec."/>
+    </imgdir>
+    <imgdir name="3010704">
+        <string name="name" value="Spring Punisher Chair"/>
+        <string name="desc" value="Caught red-handed stealing rice cakes! Accept Spring Bunny&apos;s punishment... Which is, for some reason, recovering 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010743">
+        <string name="name" value="Pyramid Chair"/>
+        <string name="desc" value="You are right in the middle of history. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010788">
+        <string name="name" value="Giant Meal Chair"/>
+        <string name="desc" value="A giant meal, requires a giant chair to hold it.nRecovers 500 MP and 500 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3012019">
+        <string name="name" value="Love Sea Chair"/>
+        <string name="desc" value="Designed by CMS player. Spend your time sitting with you loved ones. Recovers 500 HP and MP per 10 sec."/>
+    </imgdir>
+    <imgdir name="3010659">
+        <string name="name" value="Bus Stop Chair"/>
+        <string name="desc" value="Rest on this chair while you&apos;re waiting for that bus. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010685">
+        <string name="name" value="Sleepy Bird Chair"/>
+        <string name="desc" value="Nap among the baby birds without a care in the world. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010690">
+        <string name="name" value="Shark N&apos; Slide"/>
+        <string name="desc" value="The only thing more exciting than a water slide is a water slide that can terrorize beach-goers. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010691">
+        <string name="name" value="Pink Seal Cushion"/>
+        <string name="desc" value="A cute pink seal cushion. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010692">
+        <string name="name" value="Blue Seal Cushion"/>
+        <string name="desc" value="An adorable blue seal cushion. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010693">
+        <string name="name" value="White Seal Cushion"/>
+        <string name="desc" value="A sweet white seal cushion. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010694">
+        <string name="name" value="Black Seal Cushion"/>
+        <string name="desc" value="A precious black seal cushion. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010695">
+        <string name="name" value="Golden Seal Cushion"/>
+        <string name="desc" value="A limited edition golden seal cushion. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010697">
+        <string name="name" value="Absolute Chair"/>
+        <string name="desc" value="A chair in the shape of a ring containing your absolute willpower. Only those deemed worthy will own this special chair."/>
+    </imgdir>
+    <imgdir name="3010700">
+        <string name="name" value="Giant Ducky Chair"/>
+        <string name="desc" value="It takes a lot to get an adventurer to bathe themselves. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010702">
+        <string name="name" value="Shopping Cart"/>
+        <string name="desc" value="You weren&apos;t supposed to take this out of the lot! Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010703">
+        <string name="name" value="Rainbow Arc Chair"/>
+        <string name="desc" value="Sitting on the little rainbow always brings delight. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010705">
+        <string name="name" value="Spring Bunny Slime Chair"/>
+        <string name="desc" value="Spring Bunny is using a dough roller to bounce Slimes into space. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010708">
+        <string name="name" value="Hangul Day Chair"/>
+        <string name="desc" value="The beauty of Hangul. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010719">
+        <string name="name" value="Lil&apos; Gamsper Chair"/>
+        <string name="desc" value="Spend some quality time with the cutest ghost around. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010720">
+        <string name="name" value="Champion&apos;s Love"/>
+        <string name="desc" value="Thanking all MapleStory champions with our hearts. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010721">
+        <string name="name" value="Comic Book Lounger"/>
+        <string name="desc" value="It&apos;s always a good time for comic books! Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010722">
+        <string name="name" value="Zombie Hunter Chair"/>
+        <string name="desc" value="A chair for the lonesome Zombie Hunter. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010723">
+        <string name="name" value="Noblesse Bergere"/>
+        <string name="desc" value="A chair especially made for you, our loyal friend."/>
+    </imgdir>
+    <imgdir name="3010733">
+        <string name="name" value="TV Relaxer"/>
+        <string name="desc" value="Not a fan of movie theatres? You might as well enjoy some TV at home. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010734">
+        <string name="name" value="Cat Box Chair"/>
+        <string name="desc" value="Nothing like a box full of cats to keep you cozy. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010735">
+        <string name="name" value="Lonesome Bench"/>
+        <string name="desc" value="Talk with the lonesome man on a park bench. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010742">
+        <string name="name" value="Code of Hammurabi Chair"/>
+        <string name="desc" value="You are right in the middle of history. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010744">
+        <string name="name" value="Maple Block Friends Chair"/>
+        <string name="desc" value="Meet your block friends in MapleStory. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010757">
+        <string name="name" value="You and Me Chair"/>
+        <string name="desc" value="Finally found you in this tranquil ink-wash painting. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010760">
+        <string name="name" value="Ancient Bathhouse Chair"/>
+        <string name="desc" value="You are right in the middle of history. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010761">
+        <string name="name" value="Ancient Chariot Chair"/>
+        <string name="desc" value="You are right in the middle of history. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010766">
+        <string name="name" value="Pointy-Ear Wooden Chair"/>
+        <string name="desc" value="A wooden chair with pointy ears. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010767">
+        <string name="name" value="Snowman Buddies Chair"/>
+        <string name="desc" value="Have a heartwarming day with your snowman buddies. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010783">
+        <string name="name" value="Blue Pony House"/>
+        <string name="desc" value="Welcome to Pony&apos;s Happy House! Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010797">
+        <string name="name" value="New Year&apos;s with Mercedes!"/>
+        <string name="desc" value="Celebrate New Year&apos;s with Mercedes. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010798">
+        <string name="name" value="Fireworks Chair"/>
+        <string name="desc" value="Enjoy the fireworks from both sides in this LUXURIOUS chair. Warning: Safety not guaranteed. Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010800">
+        <string name="name" value="Jr. Bunny Sebae Chair"/>
+        <string name="desc" value="You feel like you should be giving allowances, yet you can feel yourself recovering 50 HP and MP every 10 seconds instead."/>
+    </imgdir>
+    <imgdir name="3010801">
+        <string name="name" value="Baby Bunny Sebae Chair"/>
+        <string name="desc" value="You feel like you should be giving allowances, yet you can feel yourself recovering 50 HP and MP every 10 seconds instead."/>
+    </imgdir>
+    <imgdir name="3010802">
+        <string name="name" value="Kid Bunny Sebae Chair"/>
+        <string name="desc" value="You feel like you should be giving allowances, yet you can feel yourself recovering 50 HP and MP every 10 seconds instead."/>
+    </imgdir>
+    <imgdir name="3010803">
+        <string name="name" value="Teenage Bunny Sebae Chair"/>
+        <string name="desc" value="You feel like you should be giving allowances, yet you can feel yourself recovering 50 HP and MP every 10 seconds instead."/>
+    </imgdir>
+    <imgdir name="3010804">
+        <string name="name" value="Solider Bunny Sebae Chair"/>
+        <string name="desc" value="You&apos;re now old enough to collect your allowance from soldiers! Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010810">
+        <string name="name" value="Train Trip Chair"/>
+        <string name="desc" value="Go on a train trip! Choo-choo! Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010811">
+        <string name="name" value="Sprout Chair"/>
+        <string name="desc" value="You can feel the breeze when you are sitting in this chair. Enjoy in the sweet weather! Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010812">
+        <string name="name" value="Carousel Chair"/>
+        <string name="desc" value="It&apos;s just like at the carnival. Sit and enjoy your ride on the merry-go-round. Whee! Recovers 50 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010814">
+        <string name="name" value="Lilin&apos;s Fan Pillow"/>
+        <string name="desc" value="This pillow consoles the hearts of lonely singles. Try not to let Lilin find out, though. \r\n#cRecovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010815">
+        <string name="name" value="Solo Unit Poster Chair"/>
+        <string name="desc" value="The atrocious acts of couples only make the Solo Unit stronger. Join up today!\r\n#cRecovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3014000">
+        <string name="desc" value="You can enter your own text in the word bubble. #cDouble-click# to use and you can enter up to #c10 letters#. Recovers 50 HP and MP every 10 seconds. "/>
+        <string name="name" value="Dun Dun Dun Comic Chair"/>
+    </imgdir>
+    <imgdir name="3014001">
+        <string name="desc" value="You can enter your own text in the word bubble. #cDouble-click# to use and you can enter up to #c10 letters#. Recovers 50 HP and MP every 10 seconds. "/>
+        <string name="name" value="Aww Yeeah Comic Chair"/>
+    </imgdir>
+    <imgdir name="3014002">
+        <string name="desc" value="You can enter your own text in the word bubble. #cDouble-click# to use and enter up to #c15 letters#. Recovers 50 HP and MP every 10 seconds. "/>
+        <string name="name" value="High Five! Manhwa Chair"/>
+    </imgdir>
+    <imgdir name="3014003">
+        <string name="desc" value="Get on a magazine cover and come up with the headline! #cDouble-click# to input up to #c20 letters#. Recovers 50 HP and MP every 10 seconds."/>
+        <string name="name" value="Magazine Message Chair"/>
+    </imgdir>
+    <imgdir name="3014004">
+        <string name="desc" value="Become the subject of your very own headline! #cDouble-click# to input up to #c16 letters#. Recovers 50 HP and MP every 10 seconds. "/>
+        <string name="name" value="Headline Message Chair"/>
+    </imgdir>
+    <imgdir name="3110000">
+        <string name="name" value="Kid Ghost&apos;s Mark"/>
+        <string name="desc" value="Summon your own Gampser to follow you around. #cDouble-click to toggle On/Off#"/>
+    </imgdir>
+    <imgdir name="3700181">
+        <string name="name" value="Of Owls And Monkeys"/>
+        <string name="desc" value="This title is rewarded for completing the Dual Blade and Cannoneer Level-up event. \r\n#cAll stat +1#\r\n\r\n#cClick on it to turn it ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700182">
+        <string name="name" value="Boss Arena Beginner"/>
+        <string name="desc" value="A title for participating in the Boss Arena. \r\n#cWeapon Att +1#\r\n#cMagic Att +1#\r\n\r\n#cClick on it to turn it ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700183">
+        <string name="name" value="Seasonal Participant"/>
+        <string name="desc" value="A title for participating in the Cool Time event. \r\n#cWeapon DEF +50#\r\n#cMagic DEF +50#\r\n\r\n#cClick on it to turn it ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700184">
+        <string name="name" value="Ice Ice Baby"/>
+        <string name="desc" value="A title for using 20 or more Frozen REDs. \r\n#cAccuracy +10#\r\n\r\n#cClick on it to turn it ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700185">
+        <string name="name" value="RED Attendance King"/>
+        <string name="desc" value="A title for participating in the Attendance event (TKTKTK) for 5 or more days. \r\n#cAll stat +2#\r\n\r\n#cClick on it to turn it ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700186">
+        <string name="name" value="R.E.D"/>
+        <string name="desc" value="A special title for giving your all in RED.\r\n\r\n#cWeapon ATT +2\r\nMagic ATT +2\r\nAllStat +1\r\nMax HP/MP +100\r\nClick to turn ON/OFF.#"/>
+    </imgdir>
+    <imgdir name="3700188">
+        <string name="name" value="Frontier Collector"/>
+        <string name="desc" value="A title for those who&apos;ve expended great effort collecting rare items from the new continent."/>
+    </imgdir>
+    <imgdir name="3700189">
+        <string name="name" value="Amateur Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700190">
+        <string name="name" value="Semi Pro Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700191">
+        <string name="name" value="Pro Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700192">
+        <string name="name" value="All Star Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700193">
+        <string name="name" value="Superstar Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700194">
+        <string name="name" value="Legendary Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700198">
+        <string name="name" value="Mythical Monster Battler"/>
+        <string name="desc" value="Monster Battle"/>
+    </imgdir>
+    <imgdir name="3700199">
+        <string name="name" value="Rising Star"/>
+        <string name="desc" value="A title for those who dared enter the Stylist Supreme.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +2#"/>
+    </imgdir>
+    <imgdir name="3700200">
+        <string name="name" value="Vogue Voter"/>
+        <string name="desc" value="A title for those who voted in the Stylist Supreme.\r\n#cClick to toggle on/off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT+1#"/>
+    </imgdir>
+    <imgdir name="3700201">
+        <string name="name" value="Sweet and Sour BBQ Chicken"/>
+        <string name="desc" value="Sweet N&apos; Sour BBQ Chicken! The Sweet N&apos; Sour Flavor Tornado is coming! \r\n#cClick ON/OFF.#\r\n#c&lt;Effect&gt;\n Attack Power/Magic ATT+2#"/>
+    </imgdir>
+    <imgdir name="3700214">
+        <string name="name" value="Let&apos;s Be Friends"/>
+        <string name="desc" value="Hello.&apos; &apos;Yes... Hi.&apos;\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +4, Weapon ATT/Magic ATT +1#"/>
+    </imgdir>
+    <imgdir name="3700215">
+        <string name="name" value="Still Awkward"/>
+        <string name="desc" value="Still awkward. So awkward.\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +5, Weapon ATT/Magic ATT +2#"/>
+    </imgdir>
+    <imgdir name="3700216">
+        <string name="name" value="What Are We?"/>
+        <string name="desc" value="What... What are we?\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +6, Weapon ATT/Magic ATT +3#"/>
+    </imgdir>
+    <imgdir name="3700217">
+        <string name="name" value="Pretty Close"/>
+        <string name="desc" value="One step at a time. Take it slow to get close.\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +7, Weapon ATT/Magic ATT +4#"/>
+    </imgdir>
+    <imgdir name="3700218">
+        <string name="name" value="Butterfly BFF"/>
+        <string name="desc" value="You fly together all the time. Best Friends Forever!\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +8, Weapon ATT/Magic ATT +5#"/>
+    </imgdir>
+    <imgdir name="3700219">
+        <string name="name" value="Honey Crazy"/>
+        <string name="desc" value="You miss each other even when you&apos;re looking at each other! Is this borderline obsession?\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +9, Weapon ATT/Magic ATT +6#"/>
+    </imgdir>
+    <imgdir name="3700220">
+        <string name="name" value="Butterflyaholic"/>
+        <string name="desc" value="Going crazy for someone, is that such a bad thing?\r\n#cClick to toggle On/Off.#\r\n#c&lt;Effects&gt;\n All Stats +10, Weapon ATT/Magic ATT +7#"/>
+    </imgdir>
+    <imgdir name="3700222">
+        <string name="name" value="Bebe class!"/>
+        <string name="desc" value="Title only given to the first Bebe who reached level 250. \r\n\n#cClick to toggle On/Off.#\r\n\n#c&lt;Effects&gt;\nAll Stats +7 \nATT/Magic +7 \nEnemy DEF ignored +5%#"/>
+    </imgdir>
+    <imgdir name="3700228">
+        <string name="name" value="Shining Star"/>
+        <string name="desc" value="A title for those who shine like stars. \r\n#cClick the title to turn it on/off."/>
+    </imgdir>
+    <imgdir name="3700229">
+        <string name="name" value="Flying Star"/>
+        <string name="desc" value="A title for those who twinkle like stars. \r\n#cClick the title to turn it on/off."/>
+    </imgdir>
+    <imgdir name="3700230">
+        <string name="name" value="Rising Star"/>
+        <string name="desc" value="A title for rising stars. \r\n#cClick the title to turn it on/off."/>
+    </imgdir>
+    <imgdir name="3700231">
+        <string name="name" value="Beginning Star"/>
+        <string name="desc" value="A title for those who aim for stardom. \r\n\n#cClick the title to turn it on/off."/>
+    </imgdir>
+    <imgdir name="3994870">
+        <string name="name" value="Crown Critic"/>
+        <string name="desc" value="A title for Couture Critics.\r\n#cClick to turn On/Off.#\r\n#c&lt;Effects&gt;\n Weapon ATT/Magic ATT +1#"/>
+    </imgdir>
+    <imgdir name="3994871">
+        <string name="name" value="Stolen Goose Egg"/>
+        <string name="desc" value="The farm owner claims this goose egg was stolen from him. You can&apos;t tell if it&apos;s real or not. Why is he obsessing over this egg?"/>
+    </imgdir>
+    <imgdir name="3994872">
+        <string name="name" value="Blue Sky Fan"/>
+        <string name="desc" value="A fan that blows a cool breeze. Stay logged in for 15 minutes with this item in your inventory and you&apos;ll get a Star Stamp from Cassandra."/>
+    </imgdir>
+    <imgdir name="3994893">
+        <string name="name" value="Sweet Honey"/>
+        <string name="desc" value="A pot full of natural honey. Some Honey Water is in order!"/>
+    </imgdir>
+    <imgdir name="3994907">
+        <string name="name" value="Promise Token"/>
+        <string name="desc" value="This is proof of your promises together. Keep this with you and stay logged in for 15 minutes to get a Star Stamp from Cassandra."/>
+    </imgdir>
+    <imgdir name="3994909">
+        <string name="name" value="Closed Magic Pouch"/>
+        <string name="desc" value="Tightly closed magic pouch. Pouch opens after 30 min. of possessing The Ring."/>
+    </imgdir>
+    <imgdir name="3994910">
+        <string name="name" value="Opened Magic Pouch"/>
+        <string name="desc" value="Pouch opens 30 minutes after possessing the Ring. Get your award from Anello."/>
+    </imgdir>
+    <imgdir name="3010963">
+        <string name="name" value="Yes! Boss Chair"/>
+        <string name="desc" value="I&apos;ve hunted them all, hahaha and relax by sitting on this chair to recover 60 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010714">
+        <string name="name" value="King Of Crown Chair"/>
+        <string name="desc" value="This chair is formed by stacking different titles. Recovers 500 MP &amp; HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010794">
+        <string name="name" value="Leyak Chair"/>
+        <string name="desc" value="Leyak Chair"/>
+    </imgdir>
+    <imgdir name="3010799">
+        <string name="name" value="You Have Died Chair"/>
+        <string name="desc" value="Sitting on this chair, replicates you look when you perish. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3994917">
+        <string name="name" value="Sengoku Jewel"/>
+        <string name="desc" value="A mystical jewel that slowly accumulates energy. It fills after 30 minutes."/>
+    </imgdir>
+    <imgdir name="3994918">
+        <string name="name" value="Empowered Sengoku Jewel"/>
+        <string name="desc" value="This jewel is filled to bursting with energy."/>
+    </imgdir>
+    <imgdir name="3010864">
+        <string name="name" value="Princess Nou Chair"/>
+        <string name="desc" value="Legends say that Princess Nou sat on this chair. I wonder why they say such things? Recovers 100 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010751">
+        <string name="name" value="Baby Whale Chair"/>
+        <string name="desc" value="Cute blue baby whale chair. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010670">
+        <string name="name" value="Absolute Chair"/>
+        <string name="desc" value="Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010660">
+        <string name="name" value="Dreamy Princess Castle"/>
+        <string name="desc" value="Designed by CMS Player. Dreamy castle that the Princess lives in. Recovers 100 HP and 100 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3994970">
+        <string name="name" value="Cold Stone of Courage"/>
+        <string name="desc" value="This is the Cold Stone of Courage which Cassandra has given. If you continue to be connected online for 30 minutes with this, it will change into Warm Stone of Courage. But, please be cautious, if you log out or get disconnected in the middle, the cold rock will disappear!"/>
+    </imgdir>
+    <imgdir name="3994971">
+        <string name="name" value="Warm Stone of Courage"/>
+        <string name="desc" value="This is the Warm Stone of Courage that has received warmth. Please bring this to Cassandra, so the others in Maple World could feel my courage!"/>
+    </imgdir>
+    <imgdir name="3994972">
+        <string name="name" value="Cold Stone of Wisdom"/>
+        <string name="desc" value="This is the Cold Stone of Wisdom which Cassandra has given. If you continue to be connected online for 1 hour with this, it will change into Warm Stone of Wisdom. But, please be cautious, if you log out or get disconnected in the middle, the cold rock will disappear!"/>
+    </imgdir>
+    <imgdir name="3994973">
+        <string name="name" value="Warm Stone of Wisdom"/>
+        <string name="desc" value="This is the Warm Stone of Wisdom that has received warmth. Please bring this to Cassandra, so the others in Maple World could feel my wisdom!"/>
+    </imgdir>
+    <imgdir name="3994974">
+        <string name="name" value="Cold Stone of Justice"/>
+        <string name="desc" value="This is the Cold Stone of Justice which Cassandra has given. If you continue to be connected online for 2 hours with this, it will change into Warm Stone of Justice. But, please be cautious, if you log out or get disconnected in the middle, the cold rock will disappear!"/>
+    </imgdir>
+    <imgdir name="3994975">
+        <string name="name" value="Warm Stone of Justice"/>
+        <string name="desc" value="This is the Warm Stone of Justice that has received warmth. Please bring this to Cassandra, so the others in Maple World could feel my justice!"/>
+    </imgdir>
+    <imgdir name="3994976">
+        <string name="name" value="Cold Stone of Love"/>
+        <string name="desc" value="This is the Cold Stone of Love which Cassandra has given. If you continue to be connected online for 4 hours with this, it will change into Warm Stone of Love. But, please be cautious, if you log out or get disconnected in the middle, the cold rock will disappear!"/>
+    </imgdir>
+    <imgdir name="3994977">
+        <string name="name" value="Warm Stone of Love"/>
+        <string name="desc" value="This is the Warm Stone of Love that has received warmth. Please bring this to Cassandra, so the others in Maple World could feel my love!"/>
+    </imgdir>
+    <imgdir name="3010836">
+        <string name="name" value="Vacationing Olaf Chair"/>
+        <string name="desc" value="Enjoy your summer vacation with the happy snowman, Olaf. \r\n#cHP/MP +50 every 10 seconds "/>
+    </imgdir>
+    <imgdir name="3010837">
+        <string name="name" value="Hot Spring Olaf Chair"/>
+        <string name="desc" value="Join the happy snowman Olaf on his vacation at the hot spring. \r\n#cHP/MP +50 every 10 seconds "/>
+    </imgdir>
+    <imgdir name="3010838">
+        <string name="name" value="Ice Palace Chair"/>
+        <string name="desc" value="A beautiful ice palace built with magic. \r\n#cHP/MP +50 every 10 seconds "/>
+    </imgdir>
+    <imgdir name="3994985">
+        <string name="name" value="Oz Doll"/>
+        <string name="desc" value="Dolls that Oz made. It seems like little crude."/>
+    </imgdir>
+    <imgdir name="3015035">
+        <string name="name" value="I got him!"/>
+        <string name="desc" value="The perfect moment captured. Recovers 60 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010936">
+        <string name="name" value="Frog Drop Chair"/>
+        <string name="desc" value="Designed by CMS player. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010510">
+        <string name="name" value="Kitty Basket Chair"/>
+        <string name="desc" value="You can feel warm and cozy among the cute cats. Recovers 50 HP and MP every 10 seconds"/>
+    </imgdir>
+    <imgdir name="3010688">
+        <string name="name" value="Laboratory Chair"/>
+        <string name="desc" value="The experiment changes everytime. Recovers 100 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010737">
+        <string name="name" value="Hero Pets Chair"/>
+        <string name="desc" value="Recovers 50 HP and MP every 10 seconds"/>
+    </imgdir>
+    <imgdir name="3010754">
+        <string name="name" value="Hundred Demon Night Parade Chair"/>
+        <string name="desc" value="The legendary Hundred Demon Night Parade chair. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010718">
+        <string name="name" value="First Love Chair"/>
+        <string name="desc" value="Designed by CMS player. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010835">
+        <string name="name" value="Crystal Ball of Love Chair"/>
+        <string name="desc" value="Be engrossed in the memories of love. Recovers 50 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010844">
+        <string name="name" value="Teenage Rebellion Chair"/>
+        <string name="desc" value="No one can stop me now. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010813">
+        <string name="name" value="Memories in the Crystal Ball of Love"/>
+        <string name="desc" value="It’s a crystal ball filled with the sweet memeories of love. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010752">
+        <string name="name" value="Rose Bird Cage Chair"/>
+        <string name="desc" value="A bird cage filled with pink roses. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010879">
+        <string name="name" value="Starry Chair"/>
+        <string name="desc" value="A mid summer&apos;s starry sky chair. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010955">
+        <string name="name" value="Lucky Golden Egg Chair"/>
+        <string name="desc" value="Sitting on this chair will bring you luck. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3012020">
+        <string name="name" value="Wisteria Flower Basket Chair"/>
+        <string name="desc" value="Sitting on this chair near someone else will create a beautiful background effect. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010781">
+        <string name="name" value="Brown Horse Chair"/>
+        <string name="desc" value="Sit with your favourite horse. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010877">
+        <string name="name" value="Mermaid Coral Chair"/>
+        <string name="desc" value="You will feel like a mermaid when you sit on this chair. Recoverts 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3012024">
+        <string name="name" value="Beach Volleyball Chair"/>
+        <string name="desc" value="Sitting on this chair near someone else will create a special effect. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010717">
+        <string name="name" value="Marry me"/>
+        <string name="desc" value="The ultimate weapon for proposal! Designed by CMS player for 9th Anniversary. Recovers 200 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010966">
+        <string name="name" value="Ghost Ship Chair"/>
+        <string name="desc" value="A ghost ship still inhabited with its captain and cew. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010716">
+        <string name="name" value="Super Mushroom Chair"/>
+        <string name="desc" value="Designed by CMS player. Recovers 200 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010854">
+        <string name="name" value="Monster Gathering Chair"/>
+        <string name="desc" value="Celebrate the 10th Anniversary with these monsters. Reocvers 50 HP and MP evvery 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010862">
+        <string name="name" value="Rabbit♡Carrot Chair"/>
+        <string name="desc" value="Rabbits love carrots! Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010863">
+        <string name="name" value="Salon Chair of Fury"/>
+        <string name="desc" value="Headward... I told you... not to trim... back there... Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010867">
+        <string name="desc" value="Pair up with your great friend Cygnus with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Cygnus&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010868">
+        <string name="desc" value="Pair up with your great friend Nineheart with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Nineheart&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010869">
+        <string name="desc" value="Pair up with your great friend Oz with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Oz&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010870">
+        <string name="desc" value="Pair up with your great friend Irena with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Irena&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010871">
+        <string name="desc" value="Pair up with your great friend Eckhart with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Eckhart&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010872">
+        <string name="desc" value="Pair up with your great friend Hawkeye with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Hawkeye&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010873">
+        <string name="desc" value="Pair up with your great friend Mihile with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Mihile&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010874">
+        <string name="desc" value="Pair up with your great friend Orchid with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Orchid&apos;s Best Friend"/>
+    </imgdir>
+    <imgdir name="3010875">
+        <string name="desc" value="Pair up with your great friend Francis with this chair. Recovers 50 HP and 50 MP every 10 seconds. "/>
+        <string name="name" value="Francis&apos; Best Friend"/>
+    </imgdir>
+    <imgdir name="3010878">
+        <string name="desc" value="Cheering is fun when you&apos;re with friends!  Restores 50 HP/MP every 10 seconds.  \n#cCan be used until July 14, 2014.#"/>
+        <string name="name" value="Soccer Cheering Chair"/>
+    </imgdir>
+    <imgdir name="3010941">
+        <string name="name" value="Arkarium&apos;s Storybook Chair"/>
+        <string name="desc" value="When sitting on this chair, you can feel a little bit closer to Arkarium. Restores 50 HP/MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010942">
+        <string name="name" value="Magic of Pink Bean"/>
+        <string name="desc" value="Lets you experience Pink Bean&apos;s powerful magic firsthand. Restores 50 HP/MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010943">
+        <string name="name" value="Zakum&apos;s Throne"/>
+        <string name="desc" value="Test your bravery by sitting on this Zakum chair. Recovers 50 HP/MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010946">
+        <string name="name" value="Forest Friends Camping Chair"/>
+        <string name="desc" value="Shy forest friends will peep out at you. Recovers 50 HP/MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010964">
+        <string name="name" value="Maple World Chair"/>
+        <string name="desc" value="Travel around Maple World and meet everyone in the world. Restores 50 HP/MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010965">
+        <string name="name" value="Merfolk&apos;s Coral Reef"/>
+        <string name="desc" value="A merfolk&apos;s haven in waving water. Designed by the China MapleStory user, Shaoshu. Restores 50 HP/MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010842">
+        <string name="name" value="Kitty Caravan"/>
+        <string name="desc" value="Designed by CMS player. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010843">
+        <string name="name" value="Bunny Caraavan"/>
+        <string name="desc" value="Designed by CMS player. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010806">
+        <string name="name" value="Sakura Princess Chair"/>
+        <string name="desc" value="Enjoy the Sakura Blossoms with the Sakura Princess. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3012025">
+        <string name="name" value="Chicky Spring Chair"/>
+        <string name="desc" value="Sitting on this chair near someone else will create a beautiful background effect. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010748">
+        <string name="name" value="Japanese Ramen Chair"/>
+        <string name="desc" value="Delicious looking japanese ramen. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010820">
+        <string name="name" value="Mini Toy Villa Chair"/>
+        <string name="desc" value="Come to my villa if you want to relax. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010747">
+        <string name="name" value="Japanese Kite Chair"/>
+        <string name="desc" value="A kite filled with japanese feel. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010661">
+        <string name="name" value="Happy Photo Frame Chair"/>
+        <string name="desc" value="Photo frame with all the happy memories. Recovers 100 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010865">
+        <string name="name" value="Zakum &quot;Like&quot; Chair"/>
+        <string name="desc" value="You are so good even Zakum can&apos;t resist to give you a like! Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010739">
+        <string name="name" value="Yeti Barber Chair"/>
+        <string name="desc" value="Have yeti take care of your hair. Recovers 100 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010755">
+        <string name="name" value="Little Ducky Potty Chair"/>
+        <string name="desc" value="Hmm? A ducky as a potty? Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010736">
+        <string name="name" value="Cute Baby Crib Chair"/>
+        <string name="desc" value="Sitting on this chair near someone else will create a special effect. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3012018">
+        <string name="name" value="Cute Baby Crib Chair"/>
+        <string name="desc" value="Sitting on this chair near someone else will create a special effect. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010664">
+        <string name="name" value="Evolving Chair"/>
+        <string name="desc" value="A chair modified from the strongest fighting machine. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3012026">
+        <string name="name" value="Teacups Couple Chair"/>
+        <string name="desc" value="Sitting on this chair near someone else will create a beautiful background effect. Recovers 500 HP and MP every 10 seconds. \nDesigned by CMS player."/>
+    </imgdir>
+    <imgdir name="3010758">
+        <string name="name" value="Spirit of the Forest Chair"/>
+        <string name="desc" value="Leaf chair created for the Spirit of the Forest. Recovers 50 Hp and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010603">
+        <string name="name" value="Hanamatsuri Doll 1"/>
+        <string name="desc" value="I feel smarter just looking at it. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010791">
+        <string name="name" value="Hanamatsuri Doll 1"/>
+        <string name="desc" value="I feel smarter just looking at it. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010604">
+        <string name="name" value="Hanamatsuri Doll 2"/>
+        <string name="desc" value="I feel smarter just looking at it. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010792">
+        <string name="name" value="Hanamatsuri Doll 2"/>
+        <string name="desc" value="I feel smarter just looking at it. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010605">
+        <string name="name" value="Hanamatsuri Doll 3"/>
+        <string name="desc" value="I feel smarter just looking at it. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010793">
+        <string name="name" value="Hanamatsuri Doll 3"/>
+        <string name="desc" value="I feel smarter just looking at it. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010732">
+        <string name="name" value="Sky Bicycle Chair"/>
+        <string name="desc" value="Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010217">
+        <string name="name" value="Orange Pudding Chair"/>
+        <string name="desc" value="Tasty looking orange pudding. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010851">
+        <string name="name" value="Summer&apos;s Drink Chair"/>
+        <string name="desc" value="In the hot summer, only this drink can cool you down. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010852">
+        <string name="name" value="Spring Flower Chair"/>
+        <string name="desc" value="Among blooming spring flowers. Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3010894">
+        <string name="name" value="Have a Coffee Chair"/>
+        <string name="desc" value="Enjoy a cup of coffee on us. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010795">
+        <string name="name" value="Forest Rest Spot Chair"/>
+        <string name="desc" value="Take a break at the forest rest spot. Recovers 500"/>
+    </imgdir>
+    <imgdir name="3014005">
+        <string name="name" value="Symbol of Honor"/>
+        <string name="desc" value="Only the bravest can sit on this chair. Reward of GM event."/>
+    </imgdir>
+    <imgdir name="3014006">
+        <string name="desc" value="Enjoy vacationing on a tropical island. #cDouble-click# the item to enter a message containing up to #c10 letters#. Restores 50 HP/MP every 10 seconds."/>
+        <string name="name" value="Tropical Vacation Message Chair"/>
+    </imgdir>
+    <imgdir name="3010956">
+        <string name="desc" value="In the hot summer, you need first aid to get your apPetite back. First aid for your palate! Forget about your worries. Enjoy the feeling."/>
+        <string name="name" value="First Aid"/>
+    </imgdir>
+    <imgdir name="3010957">
+        <string name="desc" value="She&apos;s so pretty. Reminds me of the creamy espresso. Don&apos;t tease me. I&apos;m as dangerous as a suplex. No one messes with me."/>
+        <string name="name" value="Still Just Coffee"/>
+    </imgdir>
+    <imgdir name="3010958">
+        <string name="desc" value="A famous singer always drinks this after a bowl of sausage soup."/>
+        <string name="name" value="Ameri"/>
+    </imgdir>
+    <imgdir name="3010959">
+        <string name="desc" value="SOS! A shortcake topped with strawberries. It&apos;s drop-dead delicious! Send an SOS!"/>
+        <string name="name" value="SOS"/>
+    </imgdir>
+    <imgdir name="3010960">
+        <string name="desc" value="It looks sweet, but it&apos;s rather bitter."/>
+        <string name="name" value="Jaming&apos;s Signature Chocolate Cake"/>
+    </imgdir>
+    <imgdir name="3010961">
+        <string name="desc" value="Enjoy chatting with your friends over a delicious bowl of shaved ice."/>
+        <string name="name" value="Chatty Ice"/>
+    </imgdir>
+    <imgdir name="3010962">
+        <string name="desc" value="One of the most famous donut brands."/>
+        <string name="name" value="Unkin&apos; Donuts"/>
+    </imgdir>
+    <imgdir name="3010750">
+        <string name="name" value="Caramel Pudding Chair"/>
+        <string name="desc" value="Soft and tasty caramel pudding. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010876">
+        <string name="name" value="Mapleworld Planet Chair"/>
+        <string name="desc" value="A special chair to commemorate the 10th Anniversary. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010780">
+        <string name="name" value="Carousel Chair"/>
+        <string name="desc" value="It&apos;s just like at the carnival. Sit and enjoy your ride on the merry-go-round. Whee! Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010782">
+        <string name="name" value="Carousel Chair"/>
+        <string name="desc" value="It&apos;s just like at the carnival. Sit and enjoy your ride on the merry-go-round. Whee! Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010300">
+        <string name="name" value="Giant Greate HP Bottle"/>
+        <string name="desc" value="Recovers 100 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015034">
+        <string name="name" value="Cocoa Sheep"/>
+        <string name="desc" value="Relax with a cup of cocoa. \r\n#cRecovers 500 HP and MP every 10 seconds#"/>
+    </imgdir>
+    <imgdir name="3010223">
+        <string name="name" value="Corgi Pup Chair"/>
+        <string name="desc" value="Let&apos;s be friends with the cute Corgi Puppies. Restores 50 HP and 20 MP every 10 seconds while sitting on it."/>
+    </imgdir>
+    <imgdir name="3015053">
+        <string name="name" value="Cozy Triple Sheep Chair"/>
+        <string name="desc" value="A warm and cozy triple sheep chair. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015079">
+        <string name="name" value="Friend Story Photo Chair"/>
+        <string name="desc" value="Picture that you took with your friends. Recovers 50 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015015">
+        <string name="name" value="Aries Chair"/>
+        <string name="desc" value="Birks escaped the scary forests and became a constellation, living happily and frolicking forevermore.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015016">
+        <string name="name" value="Taurus Chair
+"/>
+        <string name="desc" value="The earnest wish of Lyka the temple guardian, who wanted to cherish their most beloved as a constellation.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015017">
+        <string name="name" value="Pisces Chair
+"/>
+        <string name="desc" value="A shark who was big and miserable slimmed down to become a constellation of the sea.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015018">
+        <string name="name" value="Gemini Chair
+"/>
+        <string name="desc" value="Natalie and Ms.Tan are different, but they are both beautiful in their own ways.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015019">
+        <string name="name" value="Cancer Chair
+"/>
+        <string name="desc" value="Clang had big dreams and became the warrior of the skies, watching over the ocean.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015020">
+        <string name="name" value="Leo Chair
+"/>
+        <string name="desc" value="Scarboss accomplished its dream of becoming a real lion, and roars over the night sky.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015021">
+        <string name="name" value="Libra Chair
+"/>
+        <string name="desc" value="There is nothing more valuable than honesty. Gold Richie&apos;s call of conscience has made the Libra constellation rise in the sky.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015022">
+        <string name="name" value="Scorpio Chair
+"/>
+        <string name="desc" value="Scorpion wanted to live in a higher place, and has made it all the way into space.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015023">
+        <string name="name" value="Virgo Chair
+"/>
+        <string name="desc" value="If you desire something, you must work for it! Just like Malady!\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015024">
+        <string name="name" value="Sagittarius Chair"/>
+        <string name="desc" value="Have a talent like Skeleton? Show the world what you can do, and maybe you&apos;ll end up like Sagittarius!\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015025">
+        <string name="name" value="Capricorn Chair
+"/>
+        <string name="desc" value="Typhon&apos;s kind heart helped him become children&apos;s dreams in the night sky.\r\nRecovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015026">
+        <string name="name" value="Aquarius Chair
+
+"/>
+        <string name="desc" value="A little abandoned bottle has become the source of the eternal Water of Life.\r\n
+Recovers 60 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015027">
+        <string name="name" value="Andromeda Chair
+
+"/>
+        <string name="desc" value="The home of Star World and countless others. Only those that collected all 12 constellations can claim this.\r\nRecovers 150 HP and MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3994982">
+        <string name="name" value="Dry Grass"/>
+        <string name="desc" value="Hold onto this for 30 minutes and the Dry Grassr will turn it into Grass Dew. It&apos;s so delicate it will disappear if you log out."/>
+    </imgdir>
+    <imgdir name="3994983">
+        <string name="name" value="Grass Dew"/>
+        <string name="desc" value="Give it to Typhon before it disappears!"/>
+    </imgdir>
+    <imgdir name="3090006">
+        <string name="name" value="3X4 Bit Box Coupon"/>
+        <string name="desc" value="Coupon to obtain a permanent 3X4 Bit Box"/>
+    </imgdir>
+    <imgdir name="3015101">
+        <string name="name" value="Maple Nostalgia"/>
+        <string name="desc" value="A chair that will take you on a trip down memory lane. Sit on it to recover HP 35 and MP 10 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3996020">
+        <string name="name" value="잃어버린 헤어 쿠폰"/>
+        <string name="desc" value="누군가가 잃어비린 헤어 쿠폰이다. 하지만 사용불가능 할거 같다."/>
+    </imgdir>
+    <imgdir name="3996021">
+        <string name="name" value="잃어버린 성형 쿠폰"/>
+        <string name="desc" value="누군가가 잃어비린 성형 쿠폰이다. 하지만 사용불가능 할거 같다."/>
+    </imgdir>
+    <imgdir name="3015045">
+        <string name="name" value="Baa Baa Sheep Chair "/>
+        <string name="desc" value="You will look so cute sitting with in the Baa Baa Sheep Chair~~~ Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010947">
+        <string name="name" value="Among Gold Dragons"/>
+        <string name="desc" value="Rest under the watchful eye of yourmaster and fellow students. Recovers 500 HP/MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010948">
+        <string name="name" value="Among Red Tigers"/>
+        <string name="desc" value="Rest under the watchful eye of yourmaster and fellow students. Recovers 500 HP/MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3800764">
+        <string name="name" value="Mr. Do, Bidiwon, Laya, Naran"/>
+        <string name="desc" value="Mr. Do, Bidiwon, Laya, Naran"/>
+    </imgdir>
+    <imgdir name="3800766">
+        <string name="name" value="Gold Dragon Ultimate Attack [Dragon&apos;s Claw]"/>
+        <string name="desc" value="Gold Dragon Ultimate Attack [Dragon&apos;s Claw]"/>
+    </imgdir>
+    <imgdir name="3800767">
+        <string name="name" value="Gold Dragon Ultimate Attack [Dragon&apos;s Breath]"/>
+        <string name="desc" value="Gold Dragon Ultimate Attack [Dragon&apos;s Breath]"/>
+    </imgdir>
+    <imgdir name="3800768">
+        <string name="name" value="Red Tiger Ultimate Attack [Tiger&apos;s Teeth]"/>
+        <string name="desc" value="Red Tiger Ultimate Attack [Tiger&apos;s Teeth]"/>
+    </imgdir>
+    <imgdir name="3800769">
+        <string name="name" value="The Red Tiger&apos;s Ultimate Attack [Tiger&apos;s Paw]"/>
+        <string name="desc" value="The Red Tiger&apos;s Ultimate Attack [Tiger&apos;s Paw]"/>
+    </imgdir>
+    <imgdir name="3015060">
+        <string name="name" value="Colourful Candies Chair"/>
+        <string name="desc" value="A candy filled chair. Recovers 60 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010850">
+        <string name="name" value="Style Judge Chair"/>
+        <string name="desc" value="To the point commentary is the sign of a Style Judge. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015075">
+        <string name="name" value="Nature Chair"/>
+        <string name="desc" value="A chair shaped like a crystal ball with a man shoving snow. Recovers 100 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015046">
+        <string name="name" value="Legendary Nian Chair"/>
+        <string name="desc" value="This is the Legendary Nian Chair! Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015047">
+        <string name="name" value="Ang Bao Chair"/>
+        <string name="desc" value="Who doesn&apos;t like ang baos?! Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010756">
+        <string name="name" value="Maneki-Neko Chair"/>
+        <string name="desc" value="Cute Maneki-Neko Chair, this chair will bring you good luck and forture. Recovers 50 MP and HP every 10 seconds. Designed by JMS."/>
+    </imgdir>
+    <imgdir name="3010848">
+        <string name="name" value="Red Carpet Chair"/>
+        <string name="desc" value="Roll this one out for the master of fashion!\r\nRecovers 50 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010849">
+        <string name="name" value="Top Rookie Chair"/>
+        <string name="desc" value="You&apos;re the brightest rising star!\r\nRecovers 50 HP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015051">
+        <string name="name" value="Pepe Airline Chair"/>
+        <string name="desc" value="I am a star! Attracts everyone&apos;s attention. Recovers 500 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015057">
+        <string name="name" value="Midnight Fireworks Chair"/>
+        <string name="desc" value="Enjoy the midnight fireworks with an owl. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015058">
+        <string name="name" value="Maple Float Chair"/>
+        <string name="desc" value="Colourful float chair. Recovers 60 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015059">
+        <string name="name" value="Romantic Chocolate Chair"/>
+        <string name="desc" value="Romantic Chocolate Chair. Recovers 60 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010944">
+        <string name="name" value="Pluto Chair"/>
+        <string name="desc" value="Mysterious Pluto Chair. Recovers 60 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3700277">
+        <string name="name" value="EU &amp; SEA Zakum Warrior"/>
+        <string name="desc" value="A title that commemorates the warriors who have slain Normal Zakum during the EU &amp; SEA Cross Event."/>
+    </imgdir>
+    <imgdir name="3996022">
+        <string name="name" value="Frozen Key"/>
+        <string name="desc" value="A Frozen Key with which you can open the EU &amp; SEA Cross Treasure Box."/>
+    </imgdir>
+    <imgdir name="3996023">
+        <string name="name" value="Treasure Box Key"/>
+        <string name="desc" value="A key with which you can open the EU &amp; SEA Cross Treasure Box. However, you first need to check whether the ice has melted."/>
+    </imgdir>
+    <imgdir name="3010689">
+        <string name="name" value="10th Annivesary Chair"/>
+        <string name="desc" value="A giant chair to commemorate the 10th Anniversary. Recovers 50 HP and MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015176">
+        <string name="name" value="Teru Teru Chair"/>
+        <string name="desc" value="Refreshing place to rest. Recover HP and MP 50 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015177">
+        <string name="name" value="Giant Sushi Chair"/>
+        <string name="desc" value="A chair with all your favorite sushi! Recovers 200 HP and MP every 10 seconds. \nDesigned by #cSabreIckart# of MapleSEA."/>
+    </imgdir>
+    <imgdir name="3015179">
+        <string name="name" value="Gamepad Chair"/>
+        <string name="desc" value="Settle down to some serious gaming with this great chair! Recovers 40 HP and 40 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015180">
+        <string name="name" value="Charge UP Chair"/>
+        <string name="desc" value="Sit and charge up! Recovers 50 HP in every 10 seconds."/>
     </imgdir>
 </imgdir>
